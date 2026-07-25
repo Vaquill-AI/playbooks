@@ -6,6 +6,13 @@ These are Vaquill's own authored starter playbooks, the same ones that ship insi
 
 > **Disclaimer.** General US-commercial reference, not legal advice. Verify anything jurisdiction-specific with counsel. See [DISCLAIMER.md](DISCLAIMER.md).
 
+## Prompts
+
+Ready-to-use prompts for working with a legal AI assistant, the same starter prompts that ship inside Vaquill. See [prompts/](prompts/).
+
+- [Composer prompts](prompts/composer-prompts.md) - fully written, ready-to-run prompts by task (triage, review, drafting, negotiation, research, compliance, corporate, disputes).
+- [Research templates](prompts/research-templates.md) - fill-in-the-blank templates with placeholders for research and analysis questions.
+
 ## Playbooks
 
 ### Commercial
