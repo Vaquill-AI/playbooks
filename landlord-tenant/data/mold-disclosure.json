@@ -1,0 +1,32 @@
+{
+  "_table": "Mold disclosure / remediation law",
+  "_key": "2-letter USPS state code",
+  "_note": "States with a mold disclosure or remediation statute. rule carries the citation inline.",
+  "_last_reviewed": "2026-05",
+  "_notice": "General reference, not legal advice. Statutes change and vary by jurisdiction; verify every figure against the current official state code before relying on it. Last reviewed 2026-05.",
+  "_entries": 8,
+  "CA": {
+    "rule": "Cal. Health & Safety Code § 26147 (Toxic Mold Protection Act) and Cal. Civ. Code § 1941.7: written disclosure of known visible mold to prospective and current tenants"
+  },
+  "FL": {
+    "rule": "Fla. Stat. § 83.51: mold covered under habitability; no specific statutory disclosure, but case law treats it as material defect"
+  },
+  "MD": {
+    "rule": "Md. Code, Real Prop. § 8-208.2: mold remediation by licensed contractor required; disclosure to prospective tenants"
+  },
+  "NJ": {
+    "rule": "N.J.A.C. 5:10-1 (housing code): mold treated as a habitability issue; disclosure required upon tenant inquiry"
+  },
+  "NY": {
+    "rule": "NY Lab. Law § 945 (Mold Assessment and Remediation Act): licensed mold assessor required for affected areas > 10 sq ft; NYC HMC § 27-2017.3 requires landlord remediation"
+  },
+  "TX": {
+    "rule": "Tex. Prop. Code § 92.024 and Tex. Occ. Code § 1958.154: mold remediation by licensed contractor required for affected areas > 25 sq ft; certificate of mold damage remediation required for prospective tenants"
+  },
+  "VA": {
+    "rule": "Va. Code § 55.1-1227: written disclosure of any known visible mold in unit; rental agreement must include 'mold provisions' if visible mold present at move-in"
+  },
+  "WA": {
+    "rule": "RCW 59.18.060(13): summary of state mold information must be provided to tenants at signing"
+  }
+}

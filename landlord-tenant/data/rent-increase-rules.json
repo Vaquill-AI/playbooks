@@ -1,0 +1,71 @@
+{
+  "_table": "Rent-increase rules (cap + notice periods)",
+  "_key": "2-letter USPS state code",
+  "_note": "cap_citation is null where there is no statewide cap; notice_over_threshold is null where a single flat notice period applies. CPI-indexed caps change annually; re-verify.",
+  "_last_reviewed": "2026-05",
+  "_notice": "General reference, not legal advice. Statutes change and vary by jurisdiction; verify every figure against the current official state code before relying on it. Last reviewed 2026-05.",
+  "_entries": 9,
+  "CA": {
+    "cap_summary": "5% + regional CPI, capped at 10% total, per 12-month period (AB 1482-covered housing, generally 15+ years old)",
+    "cap_citation": "Cal. Civ. Code § 1947.12",
+    "notice_under_threshold": "30 days when the increase is 10% or less",
+    "notice_over_threshold": "90 days when the cumulative 12-month increase exceeds 10%",
+    "notice_citation": "Cal. Civ. Code § 827"
+  },
+  "FL": {
+    "cap_summary": "No statewide cap. Local governments are barred from imposing rent controls.",
+    "cap_citation": "Fla. Stat. § 125.0103",
+    "notice_under_threshold": "No mid-term increase. For a month-to-month tenancy the terms change with 30 days' notice (60 days year-to-year).",
+    "notice_over_threshold": null,
+    "notice_citation": "Fla. Stat. § 83.57"
+  },
+  "IL": {
+    "cap_summary": "No statewide cap. The Rent Control Preemption Act bars all local rent control, including home-rule cities.",
+    "cap_citation": "50 ILCS 825/5",
+    "notice_under_threshold": "No rent-increase-specific statute; a month-to-month increase rides the 30-day termination notice (7 days week-to-week).",
+    "notice_over_threshold": null,
+    "notice_citation": "735 ILCS 5/9-207"
+  },
+  "MA": {
+    "cap_summary": "No statewide cap. Rent control has been banned statewide since 1994.",
+    "cap_citation": "Mass. Gen. Laws ch. 40P",
+    "notice_under_threshold": "For a tenancy at will, the landlord must end the old tenancy and offer a new one with notice of at least 30 days or one full rental period, whichever is longer.",
+    "notice_over_threshold": null,
+    "notice_citation": "Mass. Gen. Laws ch. 186, § 12"
+  },
+  "NJ": {
+    "cap_summary": "No statewide cap, but over 100 municipalities have local rent control, and any increase must not be 'unconscionable' under the Anti-Eviction Act.",
+    "cap_citation": "N.J.S.A. 2A:18-61.1(f)",
+    "notice_under_threshold": "No mid-lease increase. The landlord must end the old tenancy with a Notice to Quit plus notice of the increase, at least one full rental period (30 days for month-to-month).",
+    "notice_over_threshold": null,
+    "notice_citation": "N.J.S.A. 2A:18-61.1"
+  },
+  "NY": {
+    "cap_summary": "No statewide cap. Rent stabilization limits increases only in covered units (mostly New York City and localities that opt in).",
+    "cap_citation": null,
+    "notice_under_threshold": "For an increase over 5% or a non-renewal: 30 days' notice if the tenant has occupied under 1 year, 60 days for 1-2 years, 90 days for 2+ years",
+    "notice_over_threshold": null,
+    "notice_citation": "N.Y. Real Prop. Law § 226-c"
+  },
+  "OR": {
+    "cap_summary": "Statewide cap: the lesser of 10% or 7% + CPI per 12 months (9.5% for 2026; 10.0% in 2025). Does not apply in the first year of tenancy or to housing under 15 years old.",
+    "cap_citation": "Or. Rev. Stat. § 90.323",
+    "notice_under_threshold": "90 days' written notice for a rent increase on a month-to-month tenancy",
+    "notice_over_threshold": null,
+    "notice_citation": "Or. Rev. Stat. § 90.323"
+  },
+  "TX": {
+    "cap_summary": "No statewide cap. Local rent control is barred unless a disaster-based ordinance is approved by the governor.",
+    "cap_citation": "Tex. Local Gov't Code § 214.902",
+    "notice_under_threshold": "No statutory advance-notice period; rent may be raised only at lease renewal, not during the term.",
+    "notice_over_threshold": null,
+    "notice_citation": null
+  },
+  "WA": {
+    "cap_summary": "Statewide cap (effective 2025): 7% + CPI or 10% per 12 months, whichever is less, recalculated annually by the Department of Commerce. Newer buildings and certain tenancies are exempt.",
+    "cap_citation": "Wash. Rev. Code § 59.18.700",
+    "notice_under_threshold": "90 days' written notice for a rent increase (30 days for subsidized tenancies)",
+    "notice_over_threshold": null,
+    "notice_citation": "Wash. Rev. Code § 59.18.140"
+  }
+}

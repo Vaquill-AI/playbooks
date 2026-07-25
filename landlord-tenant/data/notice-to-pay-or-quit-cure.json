@@ -1,0 +1,263 @@
+{
+  "_table": "Notice to pay rent or quit: cure period",
+  "_key": "2-letter USPS state code",
+  "_note": "basis is calendar, weekday (excludes weekends/holidays), hours, or n/a (no statutory pre-suit cure window; days = 0).",
+  "_last_reviewed": "2026-05",
+  "_notice": "General reference, not legal advice. Statutes change and vary by jurisdiction; verify every figure against the current official state code before relying on it. Last reviewed 2026-05.",
+  "_entries": 51,
+  "AK": {
+    "days": 7,
+    "basis": "calendar",
+    "citation": "Alaska Stat. § 34.03.220"
+  },
+  "AL": {
+    "days": 7,
+    "basis": "calendar",
+    "citation": "Ala. Code § 35-9A-421(b)"
+  },
+  "AR": {
+    "days": 3,
+    "basis": "calendar",
+    "citation": "Ark. Code § 18-17-901; 10 days under civil action"
+  },
+  "AZ": {
+    "days": 5,
+    "basis": "calendar",
+    "citation": "A.R.S. § 33-1368(B)"
+  },
+  "CA": {
+    "days": 3,
+    "basis": "weekday",
+    "citation": "Cal. Civ. Proc. Code § 1161(2): excludes Saturdays, Sundays, judicial holidays"
+  },
+  "CO": {
+    "days": 10,
+    "basis": "calendar",
+    "citation": "Colo. Rev. Stat. § 13-40-104"
+  },
+  "CT": {
+    "days": 9,
+    "basis": "calendar",
+    "citation": "Conn. Gen. Stat. § 47a-15a (3-day demand precedes notice to quit)"
+  },
+  "DC": {
+    "days": 30,
+    "basis": "calendar",
+    "citation": "D.C. Code § 42-3505.01"
+  },
+  "DE": {
+    "days": 5,
+    "basis": "calendar",
+    "citation": "Del. Code tit. 25 § 5502"
+  },
+  "FL": {
+    "days": 3,
+    "basis": "weekday",
+    "citation": "Fla. Stat. § 83.56(3): excludes weekends and legal holidays"
+  },
+  "GA": {
+    "days": 3,
+    "basis": "weekday",
+    "citation": "O.C.G.A. § 44-7-50(b) (3 business days to pay before a dispossessory may be filed; HB 404 Safe at Home Act, eff. 2024-07-01)"
+  },
+  "HI": {
+    "days": 5,
+    "basis": "calendar",
+    "citation": "Haw. Rev. Stat. § 521-68"
+  },
+  "IA": {
+    "days": 3,
+    "basis": "calendar",
+    "citation": "Iowa Code § 562A.27"
+  },
+  "ID": {
+    "days": 3,
+    "basis": "calendar",
+    "citation": "Idaho Code § 6-303"
+  },
+  "IL": {
+    "days": 5,
+    "basis": "calendar",
+    "citation": "735 ILCS 5/9-209"
+  },
+  "IN": {
+    "days": 10,
+    "basis": "calendar",
+    "citation": "Ind. Code § 32-31-1-6"
+  },
+  "KS": {
+    "days": 3,
+    "basis": "calendar",
+    "citation": "Kan. Stat. § 58-2507"
+  },
+  "KY": {
+    "days": 7,
+    "basis": "calendar",
+    "citation": "KRS § 383.660 (URLTA counties)"
+  },
+  "LA": {
+    "days": 5,
+    "basis": "calendar",
+    "citation": "La. Code Civ. Proc. art. 4701 (some parishes vary)"
+  },
+  "MA": {
+    "days": 14,
+    "basis": "calendar",
+    "citation": "M.G.L. ch. 186 § 11; longer for fixed-term tenancies"
+  },
+  "MD": {
+    "days": 10,
+    "basis": "calendar",
+    "citation": "Md. Code, Real Prop. § 8-401"
+  },
+  "ME": {
+    "days": 7,
+    "basis": "calendar",
+    "citation": "14 M.R.S. § 6002"
+  },
+  "MI": {
+    "days": 7,
+    "basis": "calendar",
+    "citation": "Mich. Comp. Laws § 554.134"
+  },
+  "MN": {
+    "days": 14,
+    "basis": "calendar",
+    "citation": "Minn. Stat. § 504B.291"
+  },
+  "MO": {
+    "days": 0,
+    "basis": "n/a",
+    "citation": "Mo. Rev. Stat. § 535.020 (rent-and-possession action; demand for rent required but no statutory pre-suit cure-notice period)"
+  },
+  "MS": {
+    "days": 3,
+    "basis": "calendar",
+    "citation": "Miss. Code § 89-8-13(5)(a) (residential URLTA; § 89-7-27 covers nonresidential)"
+  },
+  "MT": {
+    "days": 3,
+    "basis": "calendar",
+    "citation": "Mont. Code § 70-24-422"
+  },
+  "NC": {
+    "days": 10,
+    "basis": "calendar",
+    "citation": "N.C.G.S. § 42-3"
+  },
+  "ND": {
+    "days": 3,
+    "basis": "calendar",
+    "citation": "N.D.C.C. § 47-32-01"
+  },
+  "NE": {
+    "days": 3,
+    "basis": "calendar",
+    "citation": "Neb. Rev. Stat. § 76-1431"
+  },
+  "NH": {
+    "days": 7,
+    "basis": "calendar",
+    "citation": "N.H. Rev. Stat. § 540:3"
+  },
+  "NJ": {
+    "days": 0,
+    "basis": "n/a",
+    "citation": "N.J.S.A. 2A:18-61.1 (no statutory pay-or-quit cure window; tenant may cure by paying through judgment)"
+  },
+  "NM": {
+    "days": 3,
+    "basis": "calendar",
+    "citation": "N.M.S.A. § 47-8-33(D)"
+  },
+  "NV": {
+    "days": 7,
+    "basis": "weekday",
+    "citation": "Nev. Rev. Stat. § 40.253 (excludes non-judicial days)"
+  },
+  "NY": {
+    "days": 14,
+    "basis": "calendar",
+    "citation": "NY RPAPL § 711(2), § 702 (HSTPA 2019)"
+  },
+  "OH": {
+    "days": 3,
+    "basis": "calendar",
+    "citation": "Ohio Rev. Code § 1923.04"
+  },
+  "OK": {
+    "days": 5,
+    "basis": "calendar",
+    "citation": "Okla. Stat. tit. 41 § 131"
+  },
+  "OR": {
+    "days": 10,
+    "basis": "calendar",
+    "citation": "ORS 90.394(2) (10-day notice for standard tenancies; the 72-hour notice applies only to week-to-week tenancies)"
+  },
+  "PA": {
+    "days": 10,
+    "basis": "calendar",
+    "citation": "68 P.S. § 250.501"
+  },
+  "RI": {
+    "days": 5,
+    "basis": "calendar",
+    "citation": "R.I. Gen. Laws § 34-18-35"
+  },
+  "SC": {
+    "days": 5,
+    "basis": "calendar",
+    "citation": "S.C. Code § 27-40-710"
+  },
+  "SD": {
+    "days": 3,
+    "basis": "calendar",
+    "citation": "S.D.C.L. § 21-16-1"
+  },
+  "TN": {
+    "days": 14,
+    "basis": "calendar",
+    "citation": "Tenn. Code § 66-28-505 (URLTA counties)"
+  },
+  "TX": {
+    "days": 3,
+    "basis": "calendar",
+    "citation": "Tex. Prop. Code § 24.005 (default; lease may shorten)"
+  },
+  "UT": {
+    "days": 3,
+    "basis": "calendar",
+    "citation": "Utah Code § 78B-6-802"
+  },
+  "VA": {
+    "days": 5,
+    "basis": "calendar",
+    "citation": "Va. Code § 55.1-1245"
+  },
+  "VT": {
+    "days": 14,
+    "basis": "calendar",
+    "citation": "9 V.S.A. § 4467"
+  },
+  "WA": {
+    "days": 14,
+    "basis": "calendar",
+    "citation": "RCW 59.12.030(3)"
+  },
+  "WI": {
+    "days": 5,
+    "basis": "calendar",
+    "citation": "Wis. Stat. § 704.17"
+  },
+  "WV": {
+    "days": 0,
+    "basis": "n/a",
+    "citation": "W. Va. Code § 55-3A-1 (no statutory cure; tenant may pay through judgment)"
+  },
+  "WY": {
+    "days": 3,
+    "basis": "calendar",
+    "citation": "Wyo. Stat. § 1-21-1003"
+  }
+}

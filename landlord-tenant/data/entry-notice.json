@@ -1,0 +1,212 @@
+{
+  "_table": "Landlord right of entry: statutory notice required",
+  "_key": "2-letter USPS state code",
+  "_note": "notice is the statutory advance-notice text; reasonable means no fixed statutory hours.",
+  "_last_reviewed": "2026-05",
+  "_notice": "General reference, not legal advice. Statutes change and vary by jurisdiction; verify every figure against the current official state code before relying on it. Last reviewed 2026-05.",
+  "_entries": 51,
+  "AK": {
+    "notice": "24 hours",
+    "citation": "Alaska Stat. § 34.03.140"
+  },
+  "AL": {
+    "notice": "2 days",
+    "citation": "Ala. Code § 35-9A-303(b)"
+  },
+  "AR": {
+    "notice": "reasonable",
+    "citation": "Ark. Code § 18-17-602 (reasonable notice; no statutory hours)"
+  },
+  "AZ": {
+    "notice": "2 days",
+    "citation": "A.R.S. § 33-1343(B)"
+  },
+  "CA": {
+    "notice": "24 hours written; 48 hours for move-out inspection; 6 days if mailed",
+    "citation": "Cal. Civ. Code § 1954"
+  },
+  "CO": {
+    "notice": "reasonable (typically 24-48 hours)",
+    "citation": "Colo. Rev. Stat. § 38-12-510 (limited statutory entry rules)"
+  },
+  "CT": {
+    "notice": "reasonable",
+    "citation": "Conn. Gen. Stat. § 47a-16(c)"
+  },
+  "DC": {
+    "notice": "48 hours",
+    "citation": "14 DCMR § 309.1"
+  },
+  "DE": {
+    "notice": "48 hours",
+    "citation": "Del. Code tit. 25 § 5509"
+  },
+  "FL": {
+    "notice": "12 hours",
+    "citation": "Fla. Stat. § 83.53(2)"
+  },
+  "GA": {
+    "notice": "reasonable",
+    "citation": "Ga. Code (no statutory notice; lease terms control)"
+  },
+  "HI": {
+    "notice": "2 days",
+    "citation": "Haw. Rev. Stat. § 521-53(b)"
+  },
+  "IA": {
+    "notice": "24 hours",
+    "citation": "Iowa Code § 562A.19(2)"
+  },
+  "ID": {
+    "notice": "reasonable",
+    "citation": "Idaho Code (lease terms control)"
+  },
+  "IL": {
+    "notice": "reasonable (typically 24 hours)",
+    "citation": "Chicago RLTO § 5-12-050 (Chicago: 48 hours written); statewide is reasonable"
+  },
+  "IN": {
+    "notice": "reasonable",
+    "citation": "Ind. Code § 32-31-5-6"
+  },
+  "KS": {
+    "notice": "reasonable",
+    "citation": "Kan. Stat. § 58-2557"
+  },
+  "KY": {
+    "notice": "2 days",
+    "citation": "KRS § 383.615(2) (URLTA)"
+  },
+  "LA": {
+    "notice": "reasonable",
+    "citation": "La. Civ. Code art. 2693 (lease terms control)"
+  },
+  "MA": {
+    "notice": "reasonable",
+    "citation": "M.G.L. ch. 186 § 15B(1)(a) and case law"
+  },
+  "MD": {
+    "notice": "reasonable",
+    "citation": "Md. Code (lease terms control)"
+  },
+  "ME": {
+    "notice": "24 hours",
+    "citation": "14 M.R.S. § 6025"
+  },
+  "MI": {
+    "notice": "reasonable",
+    "citation": "Mich. Comp. Laws (lease terms control)"
+  },
+  "MN": {
+    "notice": "reasonable (24 hours by case law)",
+    "citation": "Minn. Stat. § 504B.211"
+  },
+  "MO": {
+    "notice": "reasonable",
+    "citation": "Mo. Rev. Stat. (lease terms control)"
+  },
+  "MS": {
+    "notice": "reasonable",
+    "citation": "Miss. Code § 89-8-9 (lease terms control)"
+  },
+  "MT": {
+    "notice": "24 hours",
+    "citation": "Mont. Code § 70-24-312(2)"
+  },
+  "NC": {
+    "notice": "reasonable",
+    "citation": "N.C.G.S. (lease terms control)"
+  },
+  "ND": {
+    "notice": "reasonable",
+    "citation": "N.D.C.C. (lease terms control)"
+  },
+  "NE": {
+    "notice": "1 day",
+    "citation": "Neb. Rev. Stat. § 76-1423(2)"
+  },
+  "NH": {
+    "notice": "adequate notice (24 hours per practice)",
+    "citation": "N.H. Rev. Stat. § 540-A:3(V)"
+  },
+  "NJ": {
+    "notice": "reasonable (1 day per case law)",
+    "citation": "N.J. case law (Sayre v. Wolff and Anti-Eviction Act)"
+  },
+  "NM": {
+    "notice": "24 hours",
+    "citation": "N.M.S.A. § 47-8-24(A)"
+  },
+  "NV": {
+    "notice": "24 hours",
+    "citation": "Nev. Rev. Stat. § 118A.330"
+  },
+  "NY": {
+    "notice": "reasonable",
+    "citation": "NY RPL no statutory notice; NYC HMC § 27-2058 governs maintenance entry"
+  },
+  "OH": {
+    "notice": "24 hours",
+    "citation": "Ohio Rev. Code § 5321.04(A)(8)"
+  },
+  "OK": {
+    "notice": "1 day",
+    "citation": "Okla. Stat. tit. 41 § 128"
+  },
+  "OR": {
+    "notice": "24 hours (written; oral 24-hour for previously-noticed showings)",
+    "citation": "ORS 90.322"
+  },
+  "PA": {
+    "notice": "reasonable",
+    "citation": "PA case law (no statutory notice)"
+  },
+  "RI": {
+    "notice": "2 days",
+    "citation": "R.I. Gen. Laws § 34-18-26(2)"
+  },
+  "SC": {
+    "notice": "24 hours",
+    "citation": "S.C. Code § 27-40-530(b)"
+  },
+  "SD": {
+    "notice": "24 hours",
+    "citation": "S.D.C.L. § 43-32-32"
+  },
+  "TN": {
+    "notice": "reasonable",
+    "citation": "Tenn. Code § 66-28-403(b)"
+  },
+  "TX": {
+    "notice": "reasonable",
+    "citation": "Tex. Prop. Code (lease terms control)"
+  },
+  "UT": {
+    "notice": "24 hours",
+    "citation": "Utah Code § 57-22-4(2)(b)"
+  },
+  "VA": {
+    "notice": "24 hours",
+    "citation": "Va. Code § 55.1-1229(B)"
+  },
+  "VT": {
+    "notice": "48 hours",
+    "citation": "9 V.S.A. § 4460(a)"
+  },
+  "WA": {
+    "notice": "2 days; 1 day for property showings",
+    "citation": "RCW 59.18.150"
+  },
+  "WI": {
+    "notice": "12 hours advance written notice",
+    "citation": "Wis. Stat. § 704.05(2)"
+  },
+  "WV": {
+    "notice": "reasonable",
+    "citation": "W. Va. Code (lease terms control)"
+  },
+  "WY": {
+    "notice": "reasonable",
+    "citation": "Wyo. Stat. (lease terms control)"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "_table": "Bed bug disclosure / treatment law",
+  "_key": "2-letter USPS state code",
+  "_note": "States with a bed bug disclosure or treatment statute. rule carries the citation inline.",
+  "_last_reviewed": "2026-05",
+  "_notice": "General reference, not legal advice. Statutes change and vary by jurisdiction; verify every figure against the current official state code before relying on it. Last reviewed 2026-05.",
+  "_entries": 13,
+  "AZ": {
+    "rule": "A.R.S. § 33-1319: requires landlord and tenant duties regarding bed bug treatment and disclosure"
+  },
+  "CA": {
+    "rule": "Cal. Civ. Code §§ 1954.600-1954.605 (eff. 2017): written notice to all new tenants and existing tenants; cannot rent unit with known infestation; notify within 2 business days of pest control findings"
+  },
+  "CT": {
+    "rule": "Conn. Gen. Stat. § 47a-7a: bedbug infestation disclosure and treatment standards"
+  },
+  "FL": {
+    "rule": "Fla. Stat. § 83.51(2) (general habitability): bedbugs covered; specific disclosure not required, but treatment obligation exists"
+  },
+  "MA": {
+    "rule": "105 CMR 410.550 (sanitary code): treatment obligation; some municipalities (Boston Inspectional Services Dept.) require disclosure"
+  },
+  "ME": {
+    "rule": "14 M.R.S. § 6021-A: landlord must disclose bedbug infestation in adjacent units; must respond to tenant report within 5 days"
+  },
+  "MI": {
+    "rule": "Mich. Comp. Laws § 333.12601 et seq. (Michigan Bed Bug Notification Act): pre-tenancy disclosure required"
+  },
+  "NJ": {
+    "rule": "N.J. Admin. Code § 5:10-2: multi-family dwellings must conduct annual inspections; disclose infestation history"
+  },
+  "NY": {
+    "rule": "NYC Admin. Code § 27-2018.1: annual bedbug infestation history disclosure required (NYC); DHCR form must accompany every vacancy lease"
+  },
+  "OH": {
+    "rule": "Ohio Rev. Code § 5321.04 (general); local: Cincinnati, Cleveland require disclosure"
+  },
+  "TX": {
+    "rule": "Tex. Prop. Code § 92.052 (general habitability): bedbugs covered under habitability obligation; no specific disclosure statute"
+  },
+  "VA": {
+    "rule": "Va. Code § 55.1-1223: disclose any known bedbug infestation in last 12 months"
+  },
+  "WA": {
+    "rule": "RCW 59.18.060 (general habitability): bedbugs covered; Seattle and Tacoma have specific disclosure ordinances"
+  }
+}

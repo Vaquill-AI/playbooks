@@ -1,0 +1,71 @@
+{
+  "_table": "Source-of-income / housing voucher protection",
+  "_key": "2-letter USPS state code",
+  "_note": "States that protect lawful source of income (including Section 8 / Housing Choice Vouchers). rule carries the citation inline.",
+  "_last_reviewed": "2026-05",
+  "_notice": "General reference, not legal advice. Statutes change and vary by jurisdiction; verify every figure against the current official state code before relying on it. Last reviewed 2026-05.",
+  "_entries": 21,
+  "CA": {
+    "rule": "Cal. Gov. Code § 12955(a) and (p): SB 329 (eff. 2020): source of income includes federal, state, or local housing subsidies (including Section 8/HCV and HUD-VASH)"
+  },
+  "CO": {
+    "rule": "Colo. Rev. Stat. § 24-34-502(1)(a): HB 20-1332 added source of income protection"
+  },
+  "CT": {
+    "rule": "Conn. Gen. Stat. § 46a-64c(a)(1)(F): lawful source of income protected"
+  },
+  "DC": {
+    "rule": "D.C. Code § 2-1402.21(a)(1): 'source of income' is protected class; includes vouchers"
+  },
+  "DE": {
+    "rule": "Del. Code tit. 6 § 4603(b)(1): source of income protected"
+  },
+  "HI": {
+    "rule": "Haw. Rev. Stat. § 489-3 (source of income / federal housing subsidies)"
+  },
+  "IL": {
+    "rule": "775 ILCS 5/3-102 (source of income includes voucher under Cook County, Chicago, Urbana, statewide HB 2775 eff. 2023)"
+  },
+  "MA": {
+    "rule": "M.G.L. ch. 151B § 4(10): 'recipient of any federal, state, or local housing subsidy' protected"
+  },
+  "MD": {
+    "rule": "Md. Code, State Gov't § 20-705 (HOME Act, eff. 2020): source of income protected statewide"
+  },
+  "MI": {
+    "rule": "Mich. Comp. Laws (limited; some local: e.g., Detroit, Ann Arbor, Ypsilanti)"
+  },
+  "MN": {
+    "rule": "Minn. Stat. § 363A.09 (Section 8 / vouchers protected, eff. 2024)"
+  },
+  "ND": {
+    "rule": "N.D. Cent. Code § 14-02.5-02 (source of income limited; check current)"
+  },
+  "NJ": {
+    "rule": "N.J.S.A. 10:5-12(g): source of lawful income protected"
+  },
+  "NY": {
+    "rule": "NY Exec. Law § 296(5)(a): 'lawful source of income' protected statewide (2019)"
+  },
+  "OK": {
+    "rule": "Okla. Stat. tit. 25 § 1452 (limited)"
+  },
+  "OR": {
+    "rule": "ORS 659A.421(1)(c): source of income protected"
+  },
+  "RI": {
+    "rule": "R.I. Gen. Laws § 34-37-4: source of income protected"
+  },
+  "UT": {
+    "rule": "Utah Code § 57-21-5 (limited)"
+  },
+  "VA": {
+    "rule": "Va. Code § 36-96.3(B): source of funds protected statewide (eff. 2020)"
+  },
+  "VT": {
+    "rule": "9 V.S.A. § 4503: receipt of public assistance protected"
+  },
+  "WA": {
+    "rule": "Wash. Rev. Code § 59.18.255: source of income protected; voucher cannot be refused"
+  }
+}

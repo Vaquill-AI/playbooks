@@ -1,0 +1,161 @@
+{
+  "_table": "Service of notice: statutorily authorized methods",
+  "_key": "2-letter USPS state code",
+  "_note": "method describes the permitted service sequence with the controlling citation inline.",
+  "_last_reviewed": "2026-05",
+  "_notice": "General reference, not legal advice. Statutes change and vary by jurisdiction; verify every figure against the current official state code before relying on it. Last reviewed 2026-05.",
+  "_entries": 51,
+  "AK": {
+    "method": "Alaska Stat. § 09.45.110: personal delivery; if not found, posting + first-class mail to last known address."
+  },
+  "AL": {
+    "method": "Ala. Code § 35-9A-202(b): personal delivery, posting on premises with mailing, or first-class mail."
+  },
+  "AR": {
+    "method": "Ark. Code § 18-17-901: written notice delivered personally or by mail; verify with local district court rules."
+  },
+  "AZ": {
+    "method": "A.R.S. § 33-1313: personal delivery; or by posting in conspicuous place AND mailing certified mail."
+  },
+  "CA": {
+    "method": "Cal. Civ. Proc. Code § 1162(a), THREE permitted methods: (1) personal delivery on tenant; (2) SUBSTITUTED: leave with person of suitable age + discretion at residence OR business AND mail copy to residence; (3) NAIL-AND-MAIL: only if (1) and (2) not feasible after attempts at BOTH residence and business, post conspicuously + mail. Certified mail alone is NOT equivalent to personal service. Leibovich v Shahrokhkhany (1997) 56 CA4th 511."
+  },
+  "CO": {
+    "method": "Colo. Rev. Stat. § 13-40-108: personal service; if absent, posting on premises + mailing within 1 day. Three attempts at different times required."
+  },
+  "CT": {
+    "method": "Conn. Gen. Stat. § 47a-23: service by state marshal or constable; ABODE service (leaving at usual place of abode) permitted."
+  },
+  "DC": {
+    "method": "D.C. Code § 16-1502: service by U.S. marshal or court-designated process server; ABODE service permitted."
+  },
+  "DE": {
+    "method": "Del. Code tit. 25 § 5113: personal delivery; if not available, posting on premises + first-class mail."
+  },
+  "FL": {
+    "method": "Fla. Stat. § 83.56(4): mailing OR personal delivery to tenant. If tenant absent from premises, post in conspicuous place. Certified mail with return receipt strongly preferred."
+  },
+  "GA": {
+    "method": "O.C.G.A. § 44-7-50: statute requires 'demand for possession'; method must comply with magistrate court rules (personal service by sheriff typical)."
+  },
+  "HI": {
+    "method": "Haw. Rev. Stat. § 521-68: written notice delivered personally or by certified mail; posting permitted if tenant cannot be found."
+  },
+  "IA": {
+    "method": "Iowa Code § 562A.29A: personal delivery; certified mail with return receipt; OR posting + mailing if landlord made good-faith effort."
+  },
+  "ID": {
+    "method": "Idaho Code § 6-304: personal service; if not feasible, leave with adult occupant + mail."
+  },
+  "IL": {
+    "method": "735 ILCS 5/9-211: personal delivery to tenant or person 13+ residing on premises; OR posting if no one in possession. Certified mail not authorized for predicate notice (use only for record)."
+  },
+  "IN": {
+    "method": "Ind. Code § 32-31-1-6: personal delivery; if not feasible, leave conspicuously at premises + first-class mail."
+  },
+  "KS": {
+    "method": "Kan. Stat. § 58-2570: personal delivery or certified mail."
+  },
+  "KY": {
+    "method": "KRS § 383.665: personal delivery or first-class mail. URLTA counties may require certified."
+  },
+  "LA": {
+    "method": "La. Code Civ. Proc. art. 4702: written notice; can be by sheriff, by mail, or by hand delivery (parish rules vary)."
+  },
+  "MA": {
+    "method": "M.G.L. ch. 186 § 11: written notice; service by constable, sheriff, or any disinterested adult; sworn return of service required."
+  },
+  "MD": {
+    "method": "Md. Code, Real Prop. § 8-401(b): service typically by sheriff or constable per the District Court rules; first-class mail permitted with proof."
+  },
+  "ME": {
+    "method": "14 M.R.S. § 6002(2): service by sheriff OR by another method permitted by Maine R. Civ. P.; mail receipt required."
+  },
+  "MI": {
+    "method": "Mich. Comp. Laws § 600.5718: personal delivery; substituted service to person of suitable age at premises + first-class mail."
+  },
+  "MN": {
+    "method": "Minn. Stat. § 504B.135: personal delivery OR by mail; landlord must keep proof of service."
+  },
+  "MO": {
+    "method": "Mo. Rev. Stat. § 535.020: demand by personal delivery, leaving with adult at premises, OR posting and mailing."
+  },
+  "MS": {
+    "method": "Miss. Code § 89-8-13: written notice may be by personal delivery, by certified mail, OR by email/text if tenant has agreed in writing."
+  },
+  "MT": {
+    "method": "Mont. Code § 70-24-108: personal delivery; or by first-class mail; or, if unsuccessful, by posting in conspicuous place + mailing."
+  },
+  "NC": {
+    "method": "N.C.G.S. § 42-29: service by sheriff. Posting + first-class mail permitted only after sheriff's two unsuccessful attempts."
+  },
+  "ND": {
+    "method": "N.D.C.C. § 47-32-02: personal service; if not feasible, leaving with adult at premises + first-class mail."
+  },
+  "NE": {
+    "method": "Neb. Rev. Stat. § 76-1414: personal delivery OR certified mail with return receipt."
+  },
+  "NH": {
+    "method": "N.H. Rev. Stat. § 540:5: service by sheriff, constable, or any disinterested adult; sworn affidavit of service."
+  },
+  "NJ": {
+    "method": "N.J.S.A. 2A:42-10.16: service in same manner as summons under N.J.R. 4:4 (personal, abode, or registered/certified mail per court rule)."
+  },
+  "NM": {
+    "method": "N.M.S.A. § 47-8-43: personal delivery; or by mail; or by posting on the door (with mailing) if other methods fail."
+  },
+  "NV": {
+    "method": "Nev. Rev. Stat. § 40.280: personal delivery; or substituted service on adult at premises + mail; or posting + mail if no one available. Process server's affidavit required."
+  },
+  "NY": {
+    "method": "NY RPAPL § 735: (1) personal delivery; (2) substituted service: leave with adult of suitable age + mail BOTH certified AND regular mail within 1 business day; (3) CONSPICUOUS-PLACE ('nail and mail') AFTER TWO DILIGENT ATTEMPTS at different times (one outside business hours) + mail certified and regular mail. Process server affidavit required."
+  },
+  "OH": {
+    "method": "Ohio Rev. Code § 1923.04(A): (1) certified mail with return receipt; (2) personal delivery; (3) leaving at usual place of abode of defendant."
+  },
+  "OK": {
+    "method": "Okla. Stat. tit. 41 § 132: personal delivery; substituted service per court rule."
+  },
+  "OR": {
+    "method": "ORS 90.155: (1) personal delivery; (2) first-class mail (add 3 days to notice period); (3) NAIL-AND-MAIL on the main entrance + first-class mail."
+  },
+  "PA": {
+    "method": "68 P.S. § 250.501(b): service by personal delivery or by leaving on the premises with a person residing there, age 18+. Posting permitted if no one available."
+  },
+  "RI": {
+    "method": "R.I. Gen. Laws § 34-18-56: personal delivery OR first-class mail with certificate of mailing."
+  },
+  "SC": {
+    "method": "S.C. Code § 27-37-20: service by magistrate or constable; or by registered or certified mail; or posting + mail."
+  },
+  "SD": {
+    "method": "S.D.C.L. § 21-16-2: personal service by sheriff, or by leaving with adult at premises and mailing."
+  },
+  "TN": {
+    "method": "Tenn. Code § 66-28-516 (URLTA): personal delivery or first-class mail."
+  },
+  "TX": {
+    "method": "Tex. Prop. Code § 24.005(f), (f-1), (1) personal delivery to tenant or any person 16+ residing at premises; (2) personal delivery + affixing to INSIDE of main entry door; (3) regular, registered, or certified mail; OR (4) sealed envelope affixed to OUTSIDE of main entry door marked 'IMPORTANT DOCUMENT' + mailing same day, delivery deemed complete on affixing/mailing date."
+  },
+  "UT": {
+    "method": "Utah Code § 78B-6-805: personal delivery; or substituted service with adult at premises + posting + mail."
+  },
+  "VA": {
+    "method": "Va. Code § 8.01-296: personal service by sheriff or private process server; substituted service on family member at usual place of abode; posting permitted only after two attempts."
+  },
+  "VT": {
+    "method": "9 V.S.A. § 4467(g): personal delivery, certified mail with return receipt, OR first-class mail (with 3-day extension if mailed)."
+  },
+  "WA": {
+    "method": "RCW 59.12.040: (1) personal delivery; (2) leaving with adult at premises + mail; (3) posting in conspicuous place at premises + mail to last known address."
+  },
+  "WI": {
+    "method": "Wis. Stat. § 704.21: personal delivery; if not found, substituted with competent person at premises + mail; OR posting + first-class mail."
+  },
+  "WV": {
+    "method": "W. Va. Code § 55-3A-1: written notice; method must comply with magistrate court rules."
+  },
+  "WY": {
+    "method": "Wyo. Stat. § 1-21-1003: personal delivery; if not feasible, substituted with adult at premises + mail."
+  }
+}

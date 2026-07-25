@@ -1,0 +1,263 @@
+{
+  "_table": "Month-to-month termination notice (landlord-initiated, no-cause)",
+  "_key": "2-letter USPS state code",
+  "_note": "special_rule is null unless the state extends notice for longer tenancies or forbids no-cause termination.",
+  "_last_reviewed": "2026-05",
+  "_notice": "General reference, not legal advice. Statutes change and vary by jurisdiction; verify every figure against the current official state code before relying on it. Last reviewed 2026-05.",
+  "_entries": 51,
+  "AK": {
+    "days": 30,
+    "citation": "Alaska Stat. § 34.03.290(b)",
+    "special_rule": null
+  },
+  "AL": {
+    "days": 30,
+    "citation": "Ala. Code § 35-9A-441",
+    "special_rule": null
+  },
+  "AR": {
+    "days": 30,
+    "citation": "Ark. Code § 18-17-704",
+    "special_rule": null
+  },
+  "AZ": {
+    "days": 30,
+    "citation": "A.R.S. § 33-1375(B)",
+    "special_rule": null
+  },
+  "CA": {
+    "days": 30,
+    "citation": "Cal. Civ. Code § 1946.1",
+    "special_rule": "60 days if tenant has occupied 12+ months. Just-cause states under § 1946.2 may forbid no-cause termination entirely for qualifying tenancies."
+  },
+  "CO": {
+    "days": 21,
+    "citation": "Colo. Rev. Stat. § 13-40-107(1)(d)",
+    "special_rule": "91 days if tenancy is 12+ months"
+  },
+  "CT": {
+    "days": 30,
+    "citation": "Conn. Gen. Stat. § 47a-23",
+    "special_rule": "No-cause notice; tenant 62+ has additional protections in some municipalities"
+  },
+  "DC": {
+    "days": 0,
+    "citation": "D.C. Code § 42-3505.01",
+    "special_rule": "DC requires just-cause; no-cause termination is generally not permitted"
+  },
+  "DE": {
+    "days": 60,
+    "citation": "Del. Code tit. 25 § 5106(d)",
+    "special_rule": null
+  },
+  "FL": {
+    "days": 15,
+    "citation": "Fla. Stat. § 83.57(3)",
+    "special_rule": null
+  },
+  "GA": {
+    "days": 30,
+    "citation": "O.C.G.A. § 44-7-7",
+    "special_rule": null
+  },
+  "HI": {
+    "days": 45,
+    "citation": "Haw. Rev. Stat. § 521-71(a)",
+    "special_rule": null
+  },
+  "IA": {
+    "days": 30,
+    "citation": "Iowa Code § 562A.34(2)",
+    "special_rule": null
+  },
+  "ID": {
+    "days": 30,
+    "citation": "Idaho Code § 55-208",
+    "special_rule": null
+  },
+  "IL": {
+    "days": 30,
+    "citation": "735 ILCS 5/9-207",
+    "special_rule": null
+  },
+  "IN": {
+    "days": 30,
+    "citation": "Ind. Code § 32-31-1-1",
+    "special_rule": null
+  },
+  "KS": {
+    "days": 30,
+    "citation": "Kan. Stat. § 58-2570(b)",
+    "special_rule": null
+  },
+  "KY": {
+    "days": 30,
+    "citation": "KRS § 383.695(2) (URLTA counties)",
+    "special_rule": null
+  },
+  "LA": {
+    "days": 10,
+    "citation": "La. Civ. Code art. 2728 (most residential leases)",
+    "special_rule": null
+  },
+  "MA": {
+    "days": 30,
+    "citation": "M.G.L. ch. 186 § 12 (or one rental period, whichever is longer)",
+    "special_rule": null
+  },
+  "MD": {
+    "days": 60,
+    "citation": "Md. Code, Real Prop. § 8-402(b)(3)",
+    "special_rule": "Montgomery and Prince George's Counties require just-cause"
+  },
+  "ME": {
+    "days": 30,
+    "citation": "14 M.R.S. § 6002",
+    "special_rule": null
+  },
+  "MI": {
+    "days": 30,
+    "citation": "Mich. Comp. Laws § 554.134(1)",
+    "special_rule": null
+  },
+  "MN": {
+    "days": 30,
+    "citation": "Minn. Stat. § 504B.135",
+    "special_rule": null
+  },
+  "MO": {
+    "days": 30,
+    "citation": "Mo. Rev. Stat. § 441.060",
+    "special_rule": null
+  },
+  "MS": {
+    "days": 30,
+    "citation": "Miss. Code § 89-8-19",
+    "special_rule": null
+  },
+  "MT": {
+    "days": 30,
+    "citation": "Mont. Code § 70-24-441",
+    "special_rule": null
+  },
+  "NC": {
+    "days": 7,
+    "citation": "N.C.G.S. § 42-14 (month-to-month)",
+    "special_rule": null
+  },
+  "ND": {
+    "days": 30,
+    "citation": "N.D.C.C. § 47-16-15",
+    "special_rule": null
+  },
+  "NE": {
+    "days": 30,
+    "citation": "Neb. Rev. Stat. § 76-1437(2)",
+    "special_rule": null
+  },
+  "NH": {
+    "days": 30,
+    "citation": "N.H. Rev. Stat. § 540:3",
+    "special_rule": "Restricted properties require statutory just-cause"
+  },
+  "NJ": {
+    "days": 30,
+    "citation": "N.J.S.A. 2A:18-56",
+    "special_rule": "Anti-Eviction Act forbids no-cause termination for qualifying tenancies"
+  },
+  "NM": {
+    "days": 30,
+    "citation": "N.M.S.A. § 47-8-37(B)",
+    "special_rule": null
+  },
+  "NV": {
+    "days": 30,
+    "citation": "Nev. Rev. Stat. § 40.251(1)(b)(1)",
+    "special_rule": "60 days if tenant 60+ or disabled"
+  },
+  "NY": {
+    "days": 30,
+    "citation": "NY RPL § 226-c",
+    "special_rule": "60 days if tenant has occupied 1-2 years; 90 days if 2+ years. Good Cause Eviction Act forbids no-cause for qualifying units in opt-in localities"
+  },
+  "OH": {
+    "days": 30,
+    "citation": "Ohio Rev. Code § 5321.17(B)",
+    "special_rule": null
+  },
+  "OK": {
+    "days": 30,
+    "citation": "Okla. Stat. tit. 41 § 111(B)",
+    "special_rule": null
+  },
+  "OR": {
+    "days": 30,
+    "citation": "ORS 90.427(3)",
+    "special_rule": "ORS 90.427(5): 90 days + 1 month relocation if tenant has occupied 1+ year (statewide just-cause)"
+  },
+  "PA": {
+    "days": 15,
+    "citation": "68 P.S. § 250.501(b)",
+    "special_rule": "30 days if lease > 1 year"
+  },
+  "RI": {
+    "days": 30,
+    "citation": "R.I. Gen. Laws § 34-18-37",
+    "special_rule": null
+  },
+  "SC": {
+    "days": 30,
+    "citation": "S.C. Code § 27-40-770",
+    "special_rule": null
+  },
+  "SD": {
+    "days": 30,
+    "citation": "S.D.C.L. § 43-32-13",
+    "special_rule": null
+  },
+  "TN": {
+    "days": 30,
+    "citation": "Tenn. Code § 66-28-512 (URLTA counties)",
+    "special_rule": null
+  },
+  "TX": {
+    "days": 30,
+    "citation": "Tex. Prop. Code § 91.001",
+    "special_rule": null
+  },
+  "UT": {
+    "days": 15,
+    "citation": "Utah Code § 78B-6-802(1)(b)",
+    "special_rule": null
+  },
+  "VA": {
+    "days": 30,
+    "citation": "Va. Code § 55.1-1253(A)",
+    "special_rule": null
+  },
+  "VT": {
+    "days": 60,
+    "citation": "9 V.S.A. § 4467(c) (tenant 2+ years; 30 days if <2 years; no-cause forbidden in first year)",
+    "special_rule": "Vermont forbids no-cause termination during first year of tenancy"
+  },
+  "WA": {
+    "days": 20,
+    "citation": "RCW 59.18.200",
+    "special_rule": "Just-cause required statewide after first 12 months under RCW 59.18.650"
+  },
+  "WI": {
+    "days": 28,
+    "citation": "Wis. Stat. § 704.19(3)",
+    "special_rule": null
+  },
+  "WV": {
+    "days": 30,
+    "citation": "W. Va. Code § 37-6-5",
+    "special_rule": null
+  },
+  "WY": {
+    "days": 30,
+    "citation": "Wyo. Stat. § 1-21-1203",
+    "special_rule": null
+  }
+}

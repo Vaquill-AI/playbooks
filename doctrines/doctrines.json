@@ -1,0 +1,2607 @@
+{
+  "name": "US Legal Doctrines to Landmark Cases",
+  "description": "A curated map of US legal doctrines to their foundational cases and statutes.",
+  "license": "CC BY 4.0",
+  "record_count": 79,
+  "doctrines": [
+    {
+      "doctrine_name": "Summary judgment standard (FRCP 56)",
+      "substantive_area": "civil_procedure",
+      "description": "The federal standard for granting or defeating a motion for summary judgment under Federal Rule of Civil Procedure 56.",
+      "canonical_cases": [
+        {
+          "case_name": "Celotex Corp. v. Catrett",
+          "citation": "477 U.S. 317",
+          "year": 1986,
+          "court": "Supreme Court of the United States",
+          "holding": "The moving party may meet its burden by showing that the nonmovant lacks evidence essential to its case; no requirement to negate the nonmovant's claims affirmatively."
+        },
+        {
+          "case_name": "Anderson v. Liberty Lobby, Inc.",
+          "citation": "477 U.S. 242",
+          "year": 1986,
+          "court": "Supreme Court of the United States",
+          "holding": "A genuine dispute exists if a reasonable jury could return a verdict for the nonmovant; courts apply the substantive evidentiary standard at this stage."
+        },
+        {
+          "case_name": "Matsushita Elec. Indus. Co. v. Zenith Radio Corp.",
+          "citation": "475 U.S. 574",
+          "year": 1986,
+          "court": "Supreme Court of the United States",
+          "holding": "The nonmovant must come forward with specific facts; the inferences drawn must be reasonable in light of the record as a whole."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "Fed. R. Civ. P. 56(a)",
+          "title": "FRCP 56 - Motion for and judgment on summary judgment",
+          "text": "A party may move for summary judgment, identifying each claim or defense - or the part of each claim or defense - on which summary judgment is sought. The court shall grant summary judgment if the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law. The court should state on the record the reasons for granting or denying the motion.",
+          "source_type": "other",
+          "title_number": null,
+          "url": "https://www.law.cornell.edu/rules/frcp/rule_56"
+        }
+      ]
+    },
+    {
+      "doctrine_name": "Twombly/Iqbal plausibility pleading standard",
+      "substantive_area": "civil_procedure",
+      "description": "The federal pleading standard requiring a complaint to state a claim that is plausible on its face.",
+      "canonical_cases": [
+        {
+          "case_name": "Bell Atlantic Corp. v. Twombly",
+          "citation": "550 U.S. 544",
+          "year": 2007,
+          "court": "Supreme Court of the United States",
+          "holding": "A complaint must contain enough factual matter to state a claim that is plausible on its face; conclusory allegations are insufficient."
+        },
+        {
+          "case_name": "Ashcroft v. Iqbal",
+          "citation": "556 U.S. 662",
+          "year": 2009,
+          "court": "Supreme Court of the United States",
+          "holding": "Twombly applies to all civil cases; courts disregard conclusory legal allegations and assess only well-pleaded factual content for plausibility."
+        },
+        {
+          "case_name": "Conley v. Gibson",
+          "citation": "355 U.S. 41",
+          "year": 1957,
+          "court": "Supreme Court of the United States",
+          "holding": "Historical context: previously articulated the 'no set of facts' notice-pleading standard that Twombly retired; still cited to mark the doctrinal shift."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "Fed. R. Civ. P. 8(a)(2)",
+          "title": "FRCP 8 - General rules of pleading; short and plain statement",
+          "text": "A pleading that states a claim for relief must contain: (2) a short and plain statement of the claim showing that the pleader is entitled to relief.",
+          "source_type": "other",
+          "title_number": null,
+          "url": "https://www.law.cornell.edu/rules/frcp/rule_8"
+        },
+        {
+          "citation": "Fed. R. Civ. P. 12(b)(6)",
+          "title": "FRCP 12(b)(6) - Failure to state a claim",
+          "text": "Every defense to a claim for relief in any pleading must be asserted in the responsive pleading if one is required. But a party may assert the following defenses by motion: (6) failure to state a claim upon which relief can be granted.",
+          "source_type": "other",
+          "title_number": null,
+          "url": "https://www.law.cornell.edu/rules/frcp/rule_12"
+        }
+      ]
+    },
+    {
+      "doctrine_name": "Diversity jurisdiction (28 USC 1332)",
+      "substantive_area": "civil_procedure",
+      "description": "When a federal court may hear a case based on the citizenship of parties under 28 U.S.C. § 1332.",
+      "canonical_cases": [
+        {
+          "case_name": "Strawbridge v. Curtiss",
+          "citation": "7 U.S. (3 Cranch) 267",
+          "year": 1806,
+          "court": "Supreme Court of the United States",
+          "holding": "Established the complete-diversity rule: every plaintiff must be a citizen of a different state from every defendant."
+        },
+        {
+          "case_name": "Hertz Corp. v. Friend",
+          "citation": "559 U.S. 77",
+          "year": 2010,
+          "court": "Supreme Court of the United States",
+          "holding": "A corporation's 'principal place of business' is its 'nerve center', typically corporate headquarters, not where its operations are concentrated."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "28 U.S.C. § 1332",
+          "title": "Diversity of citizenship; amount in controversy",
+          "text": "(a) The district courts shall have original jurisdiction of all civil actions where the matter in controversy exceeds the sum or value of $75,000, exclusive of interest and costs, and is between (1) citizens of different States; (2) citizens of a State and citizens or subjects of a foreign state; (3) citizens of different States in which citizens or subjects of a foreign state are additional parties; (4) a foreign state, defined in section 1603(a), as plaintiff and citizens of a State or of different States. (c) For the purposes of this section and section 1441, a corporation shall be deemed a citizen of every State and foreign state by which it has been incorporated and of the State or foreign state where it has its principal place of business.",
+          "source_type": "usc",
+          "title_number": 28,
+          "url": "https://www.law.cornell.edu/uscode/text/28/1332"
+        },
+        {
+          "citation": "28 U.S.C. § 1367",
+          "title": "Supplemental jurisdiction",
+          "text": "(a) Except as provided in subsections (b) and (c) or as expressly provided otherwise by Federal statute, in any civil action of which the district courts have original jurisdiction, the district courts shall have supplemental jurisdiction over all other claims that are so related to claims in the action within such original jurisdiction that they form part of the same case or controversy under Article III of the United States Constitution.",
+          "source_type": "usc",
+          "title_number": 28,
+          "url": "https://www.law.cornell.edu/uscode/text/28/1367"
+        }
+      ]
+    },
+    {
+      "doctrine_name": "Erie doctrine",
+      "substantive_area": "civil_procedure",
+      "description": "The rule governing when federal courts sitting in diversity must apply state substantive law versus federal procedural law.",
+      "canonical_cases": [
+        {
+          "case_name": "Erie Railroad Co. v. Tompkins",
+          "citation": "304 U.S. 64",
+          "year": 1938,
+          "court": "Supreme Court of the United States",
+          "holding": "Federal courts sitting in diversity must apply state substantive law; there is no general federal common law."
+        },
+        {
+          "case_name": "Hanna v. Plumer",
+          "citation": "380 U.S. 460",
+          "year": 1965,
+          "court": "Supreme Court of the United States",
+          "holding": "When a Federal Rule of Civil Procedure directly conflicts with state law and is constitutional under the Rules Enabling Act, the federal rule applies."
+        },
+        {
+          "case_name": "Guaranty Trust Co. v. York",
+          "citation": "326 U.S. 99",
+          "year": 1945,
+          "court": "Supreme Court of the United States",
+          "holding": "Adopted the outcome-determinative test: if applying federal procedure would significantly affect the outcome of the case, the federal court should follow state law."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "28 U.S.C. § 1652",
+          "title": "State laws as rules of decision (Rules of Decision Act)",
+          "text": "The laws of the several states, except where the Constitution or treaties of the United States or Acts of Congress otherwise require or provide, shall be regarded as rules of decision in civil actions in the courts of the United States, in cases where they apply.",
+          "source_type": "usc",
+          "title_number": 28,
+          "url": "https://www.law.cornell.edu/uscode/text/28/1652"
+        },
+        {
+          "citation": "28 U.S.C. § 2072 (Rules Enabling Act)",
+          "title": "Rules of procedure and evidence; power to prescribe",
+          "text": "(a) The Supreme Court shall have the power to prescribe general rules of practice and procedure and rules of evidence for cases in the United States district courts (including proceedings before magistrate judges thereof) and courts of appeals. (b) Such rules shall not abridge, enlarge or modify any substantive right.",
+          "source_type": "usc",
+          "title_number": 28,
+          "url": "https://www.law.cornell.edu/uscode/text/28/2072"
+        }
+      ]
+    },
+    {
+      "doctrine_name": "Fourth Amendment seizure (Terry / Mendenhall / Bostick)",
+      "substantive_area": "criminal",
+      "description": "When a person is 'seized' for Fourth Amendment purposes by police physical force or show of authority.",
+      "canonical_cases": [
+        {
+          "case_name": "Terry v. Ohio",
+          "citation": "392 U.S. 1",
+          "year": 1968,
+          "court": "Supreme Court of the United States",
+          "holding": "Permits brief investigatory stops based on reasonable suspicion; defines 'seizure' as occurring when an officer restrains a citizen's liberty."
+        },
+        {
+          "case_name": "United States v. Mendenhall",
+          "citation": "446 U.S. 544",
+          "year": 1980,
+          "court": "Supreme Court of the United States",
+          "holding": "A seizure occurs only when, in view of all the circumstances, a reasonable person would have believed she was not free to leave."
+        },
+        {
+          "case_name": "California v. Hodari D.",
+          "citation": "499 U.S. 621",
+          "year": 1991,
+          "court": "Supreme Court of the United States",
+          "holding": "A seizure by show of authority requires the suspect's submission; mere police pursuit of a fleeing suspect is not a seizure."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "U.S. Const. amend. IV",
+          "title": "Fourth Amendment - searches and seizures",
+          "text": "The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.",
+          "source_type": "other",
+          "title_number": null,
+          "url": "https://www.law.cornell.edu/constitution/fourth_amendment"
+        }
+      ]
+    },
+    {
+      "doctrine_name": "Content-based vs content-neutral speech restrictions",
+      "substantive_area": "constitutional",
+      "description": "The First Amendment test for distinguishing content-based from content-neutral regulations of speech.",
+      "canonical_cases": [
+        {
+          "case_name": "Reed v. Town of Gilbert",
+          "citation": "576 U.S. 155",
+          "year": 2015,
+          "court": "Supreme Court of the United States",
+          "holding": "A law is content-based on its face if it draws distinctions based on the message a speaker conveys; such laws are subject to strict scrutiny regardless of motive."
+        },
+        {
+          "case_name": "Ward v. Rock Against Racism",
+          "citation": "491 U.S. 781",
+          "year": 1989,
+          "court": "Supreme Court of the United States",
+          "holding": "Content-neutral time, place, and manner restrictions are constitutional if narrowly tailored to serve a significant government interest and leave open ample alternative channels."
+        },
+        {
+          "case_name": "R.A.V. v. City of St. Paul",
+          "citation": "505 U.S. 377",
+          "year": 1992,
+          "court": "Supreme Court of the United States",
+          "holding": "Even within a category of unprotected speech, the government may not engage in content or viewpoint discrimination; struck down a hate-speech ordinance for selectively prohibiting fighting words based on subject matter."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "U.S. Const. amend. I",
+          "title": "First Amendment - speech protection",
+          "text": "Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.",
+          "source_type": "other",
+          "title_number": null,
+          "url": "https://www.law.cornell.edu/constitution/first_amendment"
+        }
+      ]
+    },
+    {
+      "doctrine_name": "Qualified immunity",
+      "substantive_area": "civil_rights",
+      "description": "The federal common-law defense protecting government officials sued for damages under 42 U.S.C. § 1983 unless they violated clearly established law.",
+      "canonical_cases": [
+        {
+          "case_name": "Harlow v. Fitzgerald",
+          "citation": "457 U.S. 800",
+          "year": 1982,
+          "court": "Supreme Court of the United States",
+          "holding": "Government officials performing discretionary functions are shielded from liability insofar as their conduct does not violate clearly established statutory or constitutional rights of which a reasonable person would have known."
+        },
+        {
+          "case_name": "Pearson v. Callahan",
+          "citation": "555 U.S. 223",
+          "year": 2009,
+          "court": "Supreme Court of the United States",
+          "holding": "Courts may exercise discretion in deciding which of the two qualified-immunity prongs (constitutional violation vs. clearly established) to address first; the Saucier sequencing is no longer mandatory."
+        },
+        {
+          "case_name": "Saucier v. Katz",
+          "citation": "533 U.S. 194",
+          "year": 2001,
+          "court": "Supreme Court of the United States",
+          "holding": "Originally required courts to decide qualified-immunity claims via mandatory two-step sequence (constitutional violation, then clearly established law); sequencing later made discretionary in Pearson."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "42 U.S.C. § 1983",
+          "title": "Civil action for deprivation of rights",
+          "text": "Every person who, under color of any statute, ordinance, regulation, custom, or usage, of any State or Territory or the District of Columbia, subjects, or causes to be subjected, any citizen of the United States or other person within the jurisdiction thereof to the deprivation of any rights, privileges, or immunities secured by the Constitution and laws, shall be liable to the party injured in an action at law, suit in equity, or other proper proceeding for redress.",
+          "source_type": "usc",
+          "title_number": 42,
+          "url": "https://www.law.cornell.edu/uscode/text/42/1983"
+        }
+      ]
+    },
+    {
+      "doctrine_name": "Brady rule (prosecutorial disclosure)",
+      "substantive_area": "criminal",
+      "description": "The Due Process requirement that prosecutors disclose material evidence favorable to the accused.",
+      "canonical_cases": [
+        {
+          "case_name": "Brady v. Maryland",
+          "citation": "373 U.S. 83",
+          "year": 1963,
+          "court": "Supreme Court of the United States",
+          "holding": "Suppression by the prosecution of evidence favorable to the accused violates due process where the evidence is material to guilt or punishment, irrespective of good or bad faith."
+        },
+        {
+          "case_name": "Giglio v. United States",
+          "citation": "405 U.S. 150",
+          "year": 1972,
+          "court": "Supreme Court of the United States",
+          "holding": "Brady disclosure obligations include impeachment evidence affecting the credibility of prosecution witnesses, such as promises of leniency."
+        },
+        {
+          "case_name": "United States v. Bagley",
+          "citation": "473 U.S. 667",
+          "year": 1985,
+          "court": "Supreme Court of the United States",
+          "holding": "Materiality means a reasonable probability that, had the evidence been disclosed, the result of the proceeding would have been different."
+        },
+        {
+          "case_name": "Kyles v. Whitley",
+          "citation": "514 U.S. 419",
+          "year": 1995,
+          "court": "Supreme Court of the United States",
+          "holding": "The prosecution's Brady duty extends to evidence known only to police investigators; materiality is assessed cumulatively, not item-by-item."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "Fed. R. Crim. P. 16(a)(1)",
+          "title": "FRCrP 16 - Government's disclosure duties",
+          "text": "Upon a defendant's request, the government must disclose: (A) the defendant's oral, written, and recorded statements; (B) the defendant's prior criminal record; (E) documents and objects material to preparing the defense; (F) reports of examinations and tests material to preparing the defense or that the government intends to use at trial; (G) summaries of expert witness testimony.",
+          "source_type": "other",
+          "title_number": null,
+          "url": "https://www.law.cornell.edu/rules/frcrmp/rule_16"
+        }
+      ]
+    },
+    {
+      "doctrine_name": "Second Amendment text-and-history test (Bruen)",
+      "substantive_area": "constitutional",
+      "description": "The Second Amendment framework requiring government regulations to be consistent with the Nation's historical tradition of firearm regulation.",
+      "canonical_cases": [
+        {
+          "case_name": "New York State Rifle & Pistol Ass'n v. Bruen",
+          "citation": "597 U.S. 1",
+          "year": 2022,
+          "court": "Supreme Court of the United States",
+          "holding": "When the Second Amendment's plain text covers conduct, the government must demonstrate the regulation is consistent with the Nation's historical tradition of firearm regulation; means-end scrutiny is rejected."
+        },
+        {
+          "case_name": "District of Columbia v. Heller",
+          "citation": "554 U.S. 570",
+          "year": 2008,
+          "court": "Supreme Court of the United States",
+          "holding": "The Second Amendment protects an individual's right to keep and bear arms for self-defense, including in the home."
+        },
+        {
+          "case_name": "McDonald v. City of Chicago",
+          "citation": "561 U.S. 742",
+          "year": 2010,
+          "court": "Supreme Court of the United States",
+          "holding": "The Second Amendment is incorporated against the states through the Fourteenth Amendment's Due Process Clause."
+        },
+        {
+          "case_name": "United States v. Rahimi",
+          "citation": "602 U.S. 680",
+          "year": 2024,
+          "court": "Supreme Court of the United States",
+          "holding": "Refined the Bruen historical-tradition test: a regulation is consistent with the Second Amendment if a representative historical analogue exists; firearm prohibitions on those credibly threatening another's physical safety (18 U.S.C. § 922(g)(8)) satisfy that standard."
+        },
+        {
+          "case_name": "Caetano v. Massachusetts",
+          "citation": "577 U.S. 411",
+          "year": 2016,
+          "court": "Supreme Court of the United States",
+          "holding": "Per curiam reaffirmation that the Second Amendment extends to bearable arms not in existence at the founding (e.g., stun guns); Heller's analysis is not limited to weapons in common use at the time of ratification."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "U.S. Const. amend. II",
+          "title": "Second Amendment - right to bear arms",
+          "text": "A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.",
+          "source_type": "other",
+          "title_number": null,
+          "url": "https://www.law.cornell.edu/constitution/second_amendment"
+        }
+      ]
+    },
+    {
+      "doctrine_name": "Ineffective assistance of counsel (Strickland)",
+      "substantive_area": "criminal",
+      "description": "The Sixth Amendment two-part test for ineffective assistance of counsel.",
+      "canonical_cases": [
+        {
+          "case_name": "Strickland v. Washington",
+          "citation": "466 U.S. 668",
+          "year": 1984,
+          "court": "Supreme Court of the United States",
+          "holding": "Two-part test: counsel's performance was (1) deficient under an objective standard of reasonableness, and (2) prejudicial, a reasonable probability that, but for the error, the result would have been different."
+        },
+        {
+          "case_name": "United States v. Cronic",
+          "citation": "466 U.S. 648",
+          "year": 1984,
+          "court": "Supreme Court of the United States",
+          "holding": "Prejudice is presumed when there is a complete denial of counsel, when counsel fails to subject the prosecution's case to meaningful adversarial testing, or under similar extreme circumstances."
+        },
+        {
+          "case_name": "Padilla v. Kentucky",
+          "citation": "559 U.S. 356",
+          "year": 2010,
+          "court": "Supreme Court of the United States",
+          "holding": "Counsel's failure to advise a noncitizen client about deportation consequences of a guilty plea constitutes deficient performance under Strickland's first prong."
+        }
+      ],
+      "canonical_statutes": []
+    },
+    {
+      "doctrine_name": "Actual vs constructive possession in federal drug cases",
+      "substantive_area": "criminal",
+      "description": "The distinction between actual and constructive possession under federal drug-control law.",
+      "canonical_cases": [
+        {
+          "case_name": "United States v. Jones",
+          "citation": "484 F.3d 783",
+          "year": 2007,
+          "court": "Court of Appeals for the Fifth Circuit",
+          "holding": "Constructive possession requires knowledge of the contraband and dominion or control over it; mere proximity is insufficient."
+        },
+        {
+          "case_name": "United States v. Nungaray",
+          "citation": "697 F.3d 1114",
+          "year": 2012,
+          "court": "Court of Appeals for the Ninth Circuit",
+          "holding": "Constructive possession may be shown when a defendant has the power and intent to exercise dominion and control over a controlled substance, even when not in physical custody; knowledge plus a sufficient nexus to the drugs is required."
+        },
+        {
+          "case_name": "United States v. Hishaw",
+          "citation": "235 F.3d 565",
+          "year": 2000,
+          "court": "Court of Appeals for the Tenth Circuit",
+          "holding": "In jointly occupied premises, mere control over the location is insufficient to establish constructive possession of contraband; the government must show a particularized nexus between the defendant and the drugs."
+        }
+      ],
+      "canonical_statutes": []
+    },
+    {
+      "doctrine_name": "Private Rule 10b-5 securities-fraud claim",
+      "substantive_area": "securities",
+      "description": "The six elements of a private securities-fraud action under Section 10(b) and Rule 10b-5.",
+      "canonical_cases": [
+        {
+          "case_name": "Halliburton Co. v. Erica P. John Fund, Inc.",
+          "citation": "573 U.S. 258",
+          "year": 2014,
+          "court": "Supreme Court of the United States",
+          "holding": "Six elements: material misrepresentation or omission; scienter; connection with the purchase or sale of a security; reliance; economic loss; and loss causation."
+        },
+        {
+          "case_name": "Basic Inc. v. Levinson",
+          "citation": "485 U.S. 224",
+          "year": 1988,
+          "court": "Supreme Court of the United States",
+          "holding": "Reliance may be presumed in a fraud-on-the-market case for securities traded on an efficient market."
+        },
+        {
+          "case_name": "Dura Pharmaceuticals, Inc. v. Broudo",
+          "citation": "544 U.S. 336",
+          "year": 2005,
+          "court": "Supreme Court of the United States",
+          "holding": "Loss causation requires that the defendant's misrepresentation actually caused the plaintiff's economic loss; an inflated purchase price alone is insufficient."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "15 U.S.C. § 78j(b)",
+          "title": "Securities Exchange Act § 10(b) - manipulative and deceptive devices",
+          "text": "It shall be unlawful for any person, directly or indirectly, by the use of any means or instrumentality of interstate commerce or of the mails, or of any facility of any national securities exchange - (b) To use or employ, in connection with the purchase or sale of any security registered on a national securities exchange or any security not so registered, or any securities-based swap agreement, any manipulative or deceptive device or contrivance in contravention of such rules and regulations as the Commission may prescribe.",
+          "source_type": "usc",
+          "title_number": 15,
+          "url": "https://www.law.cornell.edu/uscode/text/15/78j"
+        },
+        {
+          "citation": "17 C.F.R. § 240.10b-5",
+          "title": "Employment of manipulative and deceptive devices (Rule 10b-5)",
+          "text": "It shall be unlawful for any person, directly or indirectly, by the use of any means or instrumentality of interstate commerce, or of the mails or of any facility of any national securities exchange, (a) To employ any device, scheme, or artifice to defraud, (b) To make any untrue statement of a material fact or to omit to state a material fact necessary in order to make the statements made, in the light of the circumstances under which they were made, not misleading, or (c) To engage in any act, practice, or course of business which operates or would operate as a fraud or deceit upon any person, in connection with the purchase or sale of any security.",
+          "source_type": "cfr",
+          "title_number": 17,
+          "url": "https://www.law.cornell.edu/cfr/text/17/240.10b-5"
+        }
+      ]
+    },
+    {
+      "doctrine_name": "PSLRA pleading standard for scienter",
+      "substantive_area": "securities",
+      "description": "The heightened pleading standard for scienter in private securities-fraud actions under 15 U.S.C. § 78u-4(b)(2).",
+      "canonical_cases": [
+        {
+          "case_name": "Tellabs, Inc. v. Makor Issues & Rights, Ltd.",
+          "citation": "551 U.S. 308",
+          "year": 2007,
+          "court": "Supreme Court of the United States",
+          "holding": "To plead scienter under the PSLRA, the complaint must state with particularity facts giving rise to a strong inference, at least as compelling as any opposing inference of nonfraudulent intent."
+        },
+        {
+          "case_name": "Matrixx Initiatives, Inc. v. Siracusano",
+          "citation": "563 U.S. 27",
+          "year": 2011,
+          "court": "Supreme Court of the United States",
+          "holding": "Applying Tellabs, the Court held that allegations of undisclosed adverse-event reports may give rise to a strong inference of scienter when, taken collectively, they are at least as compelling as an innocent inference."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "15 U.S.C. § 78u-4(b)(2)",
+          "title": "PSLRA - Heightened scienter pleading standard",
+          "text": "In any private action arising under this chapter in which the plaintiff may recover money damages only on proof that the defendant acted with a particular state of mind, the complaint shall, with respect to each act or omission alleged to violate this chapter, state with particularity facts giving rise to a strong inference that the defendant acted with the required state of mind.",
+          "source_type": "usc",
+          "title_number": 15,
+          "url": "https://www.law.cornell.edu/uscode/text/15/78u-4"
+        }
+      ]
+    },
+    {
+      "doctrine_name": "Delaware corporate duty of loyalty",
+      "substantive_area": "general",
+      "description": "The fiduciary duty of loyalty owed by Delaware corporate directors and officers.",
+      "canonical_cases": [
+        {
+          "case_name": "Guth v. Loft, Inc.",
+          "citation": "5 A.2d 503",
+          "year": 1939,
+          "court": "Supreme Court of Delaware",
+          "holding": "A Delaware corporate fiduciary must act with undivided and unselfish loyalty to the corporation, foregoing personal benefit at the corporation's expense."
+        },
+        {
+          "case_name": "Stone v. Ritter",
+          "citation": "911 A.2d 362",
+          "year": 2006,
+          "court": "Supreme Court of Delaware",
+          "holding": "A claim of bad faith or director-oversight liability falls under the duty of loyalty; directors must implement and monitor compliance systems in good faith."
+        },
+        {
+          "case_name": "In re Caremark International Inc. Derivative Litigation",
+          "citation": "698 A.2d 959",
+          "year": 1996,
+          "court": "Court of Chancery of Delaware",
+          "holding": "Articulated the standard for director oversight liability: directors must make a good-faith effort to ensure that an information and reporting system exists, and a sustained or systematic failure to do so may breach the duty of loyalty."
+        }
+      ],
+      "canonical_statutes": []
+    },
+    {
+      "doctrine_name": "Promissory estoppel",
+      "substantive_area": "general",
+      "description": "The doctrine permitting enforcement of a promise that induces reasonable, detrimental reliance.",
+      "canonical_cases": [
+        {
+          "case_name": "Hoffman v. Red Owl Stores, Inc.",
+          "citation": "133 N.W.2d 267",
+          "year": 1965,
+          "court": "Supreme Court of Wisconsin",
+          "holding": "Promissory estoppel applies where a promise was made expecting reliance, induced reasonable reliance, and injustice can be avoided only by enforcing the promise; reliance damages, not expectation damages, are usually awarded."
+        },
+        {
+          "case_name": "Drennan v. Star Paving Co.",
+          "citation": "51 Cal. 2d 409",
+          "year": 1958,
+          "court": "Supreme Court of California",
+          "holding": "A subcontractor's bid to a general contractor is irrevocable for a reasonable time once the general relies on it in submitting its own bid; promissory estoppel binds the subcontractor."
+        },
+        {
+          "case_name": "Ricketts v. Scothorn",
+          "citation": "77 N.W. 365",
+          "year": 1898,
+          "court": "Supreme Court of Nebraska",
+          "holding": "Where a grandfather's promise of a gift induced his granddaughter to quit her job, the promise was enforceable through equitable estoppel; an early articulation of the reliance theory later codified in Restatement § 90."
+        },
+        {
+          "case_name": "Goodman v. Dicker",
+          "citation": "169 F.2d 684",
+          "year": 1948,
+          "court": "Court of Appeals for the District of Columbia Circuit",
+          "holding": "A franchisor was estopped from denying a franchise after the franchisee had reasonably relied on representations that it would be granted; recovery limited to reliance expenses, not lost profits."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "Restatement (Second) of Contracts § 90",
+          "title": "Promise reasonably inducing action or forbearance",
+          "text": "(1) A promise which the promisor should reasonably expect to induce action or forbearance on the part of the promisee or a third person and which does induce such action or forbearance is binding if injustice can be avoided only by enforcement of the promise. The remedy granted for breach may be limited as justice requires. (2) A charitable subscription or a marriage settlement is binding under Subsection (1) without proof that the promise induced action or forbearance.",
+          "source_type": "restatement",
+          "title_number": null,
+          "url": "https://www.law.cornell.edu/wex/promissory_estoppel"
+        }
+      ]
+    },
+    {
+      "doctrine_name": "Parol evidence rule",
+      "substantive_area": "general",
+      "description": "The common-law rule excluding extrinsic evidence that contradicts a fully integrated written contract.",
+      "canonical_cases": [
+        {
+          "case_name": "Masterson v. Sine",
+          "citation": "68 Cal. 2d 222",
+          "year": 1968,
+          "court": "Supreme Court of California",
+          "holding": "Whether a writing is integrated is a question for the court considering all surrounding circumstances; extrinsic evidence of a collateral agreement is admissible if it might naturally have been made as a separate agreement."
+        },
+        {
+          "case_name": "Pacific Gas & Electric Co. v. G.W. Thomas Drayage & Rigging Co.",
+          "citation": "69 Cal. 2d 33",
+          "year": 1968,
+          "court": "Supreme Court of California",
+          "holding": "Extrinsic evidence is admissible to interpret a contract whenever the language is reasonably susceptible of the meaning urged; rejected the strict 'plain meaning' approach in favor of contextual interpretation."
+        },
+        {
+          "case_name": "Mitchill v. Lath",
+          "citation": "247 N.Y. 377",
+          "year": 1928,
+          "court": "Court of Appeals of New York",
+          "holding": "A collateral oral agreement may not be proved if it is so closely connected to the main written agreement that it would ordinarily have been included in the writing; articulates the strict New York approach to integration."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "Restatement (Second) of Contracts § 213",
+          "title": "Effect of integrated agreement on prior agreements (Parol Evidence Rule)",
+          "text": "(1) A binding integrated agreement discharges prior agreements to the extent that it is inconsistent with them. (2) A binding completely integrated agreement discharges prior agreements to the extent that they are within its scope. (3) An integrated agreement that is not binding or that is voidable and avoided does not discharge a prior agreement.",
+          "source_type": "restatement",
+          "title_number": null,
+          "url": "https://www.law.cornell.edu/wex/parol_evidence_rule"
+        },
+        {
+          "citation": "Restatement (Second) of Contracts § 209",
+          "title": "Integrated agreements - definition",
+          "text": "(1) An integrated agreement is a writing or writings constituting a final expression of one or more terms of an agreement. (2) Whether there is an integrated agreement is to be determined by the court as a question preliminary to determination of a question of interpretation or to application of the parol evidence rule. (3) Where the parties reduce an agreement to a writing which in view of its completeness and specificity reasonably appears to be a complete agreement, it is taken to be an integrated agreement unless it is established by other evidence that the writing did not constitute a final expression.",
+          "source_type": "restatement",
+          "title_number": null,
+          "url": "https://www.law.cornell.edu/wex/parol_evidence_rule"
+        },
+        {
+          "citation": "Restatement (Second) of Contracts § 214",
+          "title": "Evidence of prior or contemporaneous agreements and negotiations (exceptions)",
+          "text": "Agreements and negotiations prior to or contemporaneous with the adoption of a writing are admissible in evidence to establish: (a) that the writing is or is not an integrated agreement; (b) that the integrated agreement, if any, is completely or partially integrated; (c) the meaning of the writing, whether or not integrated; (d) illegality, fraud, duress, mistake, lack of consideration, or other invalidating cause; (e) ground for granting or denying rescission, reformation, specific performance, or other remedy.",
+          "source_type": "restatement",
+          "title_number": null,
+          "url": "https://www.law.cornell.edu/wex/parol_evidence_rule"
+        },
+        {
+          "citation": "U.C.C. § 2-202",
+          "title": "Final written expression: parol or extrinsic evidence (UCC sale of goods)",
+          "text": "Terms with respect to which the confirmatory memoranda of the parties agree or which are otherwise set forth in a writing intended by the parties as a final expression of their agreement with respect to such terms as are included therein may not be contradicted by evidence of any prior agreement or of a contemporaneous oral agreement but may be explained or supplemented (a) by course of dealing or usage of trade or by course of performance; and (b) by evidence of consistent additional terms unless the court finds the writing to have been intended also as a complete and exclusive statement of the terms of the agreement.",
+          "source_type": "ucc",
+          "title_number": null,
+          "url": "https://www.law.cornell.edu/ucc/2/2-202"
+        }
+      ]
+    },
+    {
+      "doctrine_name": "Mutual mistake (contract rescission)",
+      "substantive_area": "general",
+      "description": "The doctrine permitting rescission of a contract entered into under mutual mistake of a basic fact.",
+      "canonical_cases": [
+        {
+          "case_name": "Sherwood v. Walker",
+          "citation": "33 N.W. 919",
+          "year": 1887,
+          "court": "Supreme Court of Michigan",
+          "holding": "Where both parties were mistaken about a fact going to the substance of the contract, the contract may be avoided; later refined by Restatement § 152's three-element test (basic assumption, material effect, risk allocation)."
+        },
+        {
+          "case_name": "Wood v. Boynton",
+          "citation": "25 N.W. 42",
+          "year": 1885,
+          "court": "Supreme Court of Wisconsin",
+          "holding": "Sale of a stone later discovered to be an uncut diamond could not be rescinded; both parties were ignorant of its true nature, and absent fraud or mistake about the identity of the thing sold, the bargain stands."
+        },
+        {
+          "case_name": "Lenawee County Board of Health v. Messerly",
+          "citation": "331 N.W.2d 203",
+          "year": 1982,
+          "court": "Supreme Court of Michigan",
+          "holding": "Modernized Sherwood by adopting the Restatement (Second) approach: rescission depends on whether the parties' mistake concerned a basic assumption that materially affects the agreed exchange, with allocation of risk being decisive."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "Restatement (Second) of Contracts § 152",
+          "title": "When mistake of both parties makes a contract voidable",
+          "text": "(1) Where a mistake of both parties at the time a contract was made as to a basic assumption on which the contract was made has a material effect on the agreed exchange of performances, the contract is voidable by the adversely affected party unless he bears the risk of the mistake under § 154. (2) In determining whether the mistake has a material effect on the agreed exchange of performances, account is taken of any relief by way of reformation, restitution, or otherwise.",
+          "source_type": "restatement",
+          "title_number": null,
+          "url": "https://www.law.cornell.edu/wex/mutual_mistake"
+        },
+        {
+          "citation": "Restatement (Second) of Contracts § 154",
+          "title": "When a party bears the risk of a mistake",
+          "text": "A party bears the risk of a mistake when (a) the risk is allocated to him by agreement of the parties, or (b) he is aware, at the time the contract is made, that he has only limited knowledge with respect to the facts to which the mistake relates but treats his limited knowledge as sufficient, or (c) the risk is allocated to him by the court on the ground that it is reasonable in the circumstances to do so.",
+          "source_type": "restatement",
+          "title_number": null,
+          "url": "https://www.law.cornell.edu/wex/mutual_mistake"
+        }
+      ]
+    },
+    {
+      "doctrine_name": "Strict products liability",
+      "substantive_area": "general",
+      "description": "Strict liability for defective products under Restatement (Third) of Torts: Products Liability §§ 1, 2.",
+      "canonical_cases": [
+        {
+          "case_name": "Greenman v. Yuba Power Products, Inc.",
+          "citation": "59 Cal. 2d 57",
+          "year": 1963,
+          "court": "Supreme Court of California",
+          "holding": "A manufacturer is strictly liable in tort when an article it places on the market, knowing it will be used without inspection for defects, proves to have a defect that causes injury."
+        },
+        {
+          "case_name": "Escola v. Coca-Cola Bottling Co. of Fresno",
+          "citation": "24 Cal. 2d 453",
+          "year": 1944,
+          "court": "Supreme Court of California",
+          "holding": "Justice Traynor's concurrence laid the intellectual foundation for strict products liability, arguing that public policy favors imposing liability on manufacturers who place defective products into the stream of commerce."
+        },
+        {
+          "case_name": "Henningsen v. Bloomfield Motors, Inc.",
+          "citation": "161 A.2d 69",
+          "year": 1960,
+          "court": "Supreme Court of New Jersey",
+          "holding": "Implied warranty of merchantability extends to consumers despite contractual disclaimers; a pivotal step toward strict liability for defective products."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "Restatement (Third) of Torts: Products Liability § 1",
+          "title": "Liability of commercial seller or distributor for harm caused by defective products",
+          "text": "One engaged in the business of selling or otherwise distributing products who sells or distributes a defective product is subject to liability for harm to persons or property caused by the defect.",
+          "source_type": "restatement",
+          "title_number": null,
+          "url": "https://www.law.cornell.edu/wex/products_liability"
+        },
+        {
+          "citation": "Restatement (Third) of Torts: Products Liability § 2",
+          "title": "Categories of product defect (manufacturing, design, warning)",
+          "text": "A product is defective when, at the time of sale or distribution, it contains a manufacturing defect, is defective in design, or is defective because of inadequate instructions or warnings. (a) A manufacturing defect: when the product departs from its intended design even though all possible care was exercised. (b) Defective design: when the foreseeable risks of harm posed by the product could have been reduced or avoided by the adoption of a reasonable alternative design. (c) Defective warning: when the foreseeable risks of harm could have been reduced or avoided by reasonable instructions or warnings.",
+          "source_type": "restatement",
+          "title_number": null,
+          "url": "https://www.law.cornell.edu/wex/products_liability"
+        }
+      ]
+    },
+    {
+      "doctrine_name": "McDonnell Douglas burden-shifting framework (Title VII)",
+      "substantive_area": "civil_rights",
+      "description": "The three-step burden-shifting framework for Title VII employment-discrimination claims.",
+      "canonical_cases": [
+        {
+          "case_name": "McDonnell Douglas Corp. v. Green",
+          "citation": "411 U.S. 792",
+          "year": 1973,
+          "court": "Supreme Court of the United States",
+          "holding": "Plaintiff establishes a prima facie case; the burden shifts to the defendant to articulate a legitimate, nondiscriminatory reason; the plaintiff may then show that reason is pretext for discrimination."
+        },
+        {
+          "case_name": "Texas Department of Community Affairs v. Burdine",
+          "citation": "450 U.S. 248",
+          "year": 1981,
+          "court": "Supreme Court of the United States",
+          "holding": "The defendant's burden of articulating a nondiscriminatory reason is one of production, not persuasion; the ultimate burden of proving intentional discrimination remains with the plaintiff."
+        },
+        {
+          "case_name": "St. Mary's Honor Center v. Hicks",
+          "citation": "509 U.S. 502",
+          "year": 1993,
+          "court": "Supreme Court of the United States",
+          "holding": "Even when a plaintiff proves the employer's stated reason is pretextual, the factfinder is not required to find for the plaintiff; the plaintiff retains the ultimate burden of proving intentional discrimination."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "42 U.S.C. § 2000e-2",
+          "title": "Title VII - Unlawful employment practices",
+          "text": "(a) It shall be an unlawful employment practice for an employer (1) to fail or refuse to hire or to discharge any individual, or otherwise to discriminate against any individual with respect to compensation, terms, conditions, or privileges of employment, because of such individual's race, color, religion, sex, or national origin; or (2) to limit, segregate, or classify employees or applicants for employment in any way which would deprive any individual of employment opportunities or otherwise adversely affect status as an employee, because of race, color, religion, sex, or national origin.",
+          "source_type": "usc",
+          "title_number": 42,
+          "url": "https://www.law.cornell.edu/uscode/text/42/2000e-2"
+        }
+      ]
+    },
+    {
+      "doctrine_name": "FMLA eligibility (29 USC 2611)",
+      "substantive_area": "labor",
+      "description": "Eligibility requirements for unpaid leave under the Family and Medical Leave Act.",
+      "canonical_cases": [
+        {
+          "case_name": "Ragsdale v. Wolverine World Wide, Inc.",
+          "citation": "535 U.S. 81",
+          "year": 2002,
+          "court": "Supreme Court of the United States",
+          "holding": "Confirms FMLA eligibility requirements (12 months / 1,250 hours / 50-employee worksite) and limits DOL regulations that disregard the statute's text."
+        },
+        {
+          "case_name": "Nevada Department of Human Resources v. Hibbs",
+          "citation": "538 U.S. 721",
+          "year": 2003,
+          "court": "Supreme Court of the United States",
+          "holding": "FMLA's family-care provisions validly abrogate state sovereign immunity under § 5 of the Fourteenth Amendment; situates the FMLA as anti-discrimination legislation."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "29 U.S.C. § 2611",
+          "title": "FMLA - Definitions (eligible employee, employer, serious health condition)",
+          "text": "An 'eligible employee' is one who has been employed for at least 12 months and has worked at least 1,250 hours during the previous 12-month period at a worksite where the employer employs 50 or more employees within 75 miles. 'Employer' is defined to include any person engaged in commerce or in an industry affecting commerce who employs 50 or more employees for each working day during each of 20 or more calendar workweeks.",
+          "source_type": "usc",
+          "title_number": 29,
+          "url": "https://www.law.cornell.edu/uscode/text/29/2611"
+        },
+        {
+          "citation": "29 U.S.C. § 2612",
+          "title": "FMLA - Leave entitlement",
+          "text": "An eligible employee is entitled to 12 workweeks of leave during any 12-month period for: (A) birth and care of a newborn; (B) placement of a child for adoption or foster care; (C) care for an immediate family member with a serious health condition; (D) a serious health condition that makes the employee unable to perform the functions of the position; (E) any qualifying exigency arising out of a covered service member's active duty; and 26 workweeks of military caregiver leave under subsection (a)(3).",
+          "source_type": "usc",
+          "title_number": 29,
+          "url": "https://www.law.cornell.edu/uscode/text/29/2612"
+        },
+        {
+          "citation": "29 U.S.C. § 2614",
+          "title": "FMLA - Employment and benefits protection (restoration)",
+          "text": "Upon returning from FMLA leave, an eligible employee is entitled to be restored to the position held when the leave commenced or to an equivalent position with equivalent pay, benefits, and other terms and conditions of employment.",
+          "source_type": "usc",
+          "title_number": 29,
+          "url": "https://www.law.cornell.edu/uscode/text/29/2614"
+        },
+        {
+          "citation": "29 C.F.R. § 825.110",
+          "title": "Eligible employee - DOL regulation",
+          "text": "An 'eligible employee' is one who is employed by a covered employer, has been employed by the employer for at least 12 months, has been employed for at least 1,250 hours of service during the 12-month period immediately preceding the commencement of the leave, and is employed at a worksite where 50 or more employees are employed by the employer within 75 miles of that worksite.",
+          "source_type": "cfr",
+          "title_number": 29,
+          "url": "https://www.ecfr.gov/current/title-29/section-825.110"
+        }
+      ]
+    },
+    {
+      "doctrine_name": "Copyright fair use (17 USC 107)",
+      "substantive_area": "copyright",
+      "description": "The four-factor copyright fair-use test under 17 U.S.C. § 107.",
+      "canonical_cases": [
+        {
+          "case_name": "Campbell v. Acuff-Rose Music, Inc.",
+          "citation": "510 U.S. 569",
+          "year": 1994,
+          "court": "Supreme Court of the United States",
+          "holding": "Parody can be transformative and qualify as fair use; the four factors are weighed together, with no single factor dispositive; the more transformative the use, the less significant the other factors."
+        },
+        {
+          "case_name": "Harper & Row Publishers, Inc. v. Nation Enterprises",
+          "citation": "471 U.S. 539",
+          "year": 1985,
+          "court": "Supreme Court of the United States",
+          "holding": "Fair-use analysis weighs the purpose, nature, amount, and market effect of the use; commercial use is presumptively unfair; effect on the market is the single most important element."
+        },
+        {
+          "case_name": "Google LLC v. Oracle America, Inc.",
+          "citation": "593 U.S. 1",
+          "year": 2021,
+          "court": "Supreme Court of the United States",
+          "holding": "Google's copying of the Java SE API to build a new platform was transformative and qualified as fair use; reaffirmed Campbell's flexible balancing of the four factors in the software context."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "17 U.S.C. § 107",
+          "title": "Limitations on exclusive rights: Fair use",
+          "text": "Notwithstanding the provisions of sections 106 and 106A, the fair use of a copyrighted work, including such use by reproduction in copies or phonorecords or by any other means specified by that section, for purposes such as criticism, comment, news reporting, teaching (including multiple copies for classroom use), scholarship, or research, is not an infringement of copyright. In determining whether the use made of a work in any particular case is a fair use the factors to be considered shall include - (1) the purpose and character of the use, including whether such use is of a commercial nature or is for nonprofit educational purposes; (2) the nature of the copyrighted work; (3) the amount and substantiality of the portion used in relation to the copyrighted work as a whole; and (4) the effect of the use upon the potential market for or value of the copyrighted work.",
+          "source_type": "usc",
+          "title_number": 17,
+          "url": "https://www.law.cornell.edu/uscode/text/17/107"
+        }
+      ]
+    },
+    {
+      "doctrine_name": "Alice/Mayo two-step (35 USC 101)",
+      "substantive_area": "patent",
+      "description": "The two-step test for patent subject-matter eligibility under 35 U.S.C. § 101.",
+      "canonical_cases": [
+        {
+          "case_name": "Alice Corp. v. CLS Bank International",
+          "citation": "573 U.S. 208",
+          "year": 2014,
+          "court": "Supreme Court of the United States",
+          "holding": "Step 1: determine whether the claims are directed to a patent-ineligible concept (abstract idea, law of nature, natural phenomenon). Step 2: if so, search for an inventive concept that transforms the claim into patent-eligible subject matter."
+        },
+        {
+          "case_name": "Mayo Collaborative Services v. Prometheus Laboratories, Inc.",
+          "citation": "566 U.S. 66",
+          "year": 2012,
+          "court": "Supreme Court of the United States",
+          "holding": "A claim that recites a law of nature and adds only well-understood, routine, conventional activity is not patent-eligible; the inventive concept must be more than the natural law itself."
+        },
+        {
+          "case_name": "Bilski v. Kappos",
+          "citation": "561 U.S. 593",
+          "year": 2010,
+          "court": "Supreme Court of the United States",
+          "holding": "The 'machine-or-transformation' test is a useful clue but not the sole test for patent eligibility; held a hedging method to be an unpatentable abstract idea."
+        },
+        {
+          "case_name": "Diamond v. Diehr",
+          "citation": "450 U.S. 175",
+          "year": 1981,
+          "court": "Supreme Court of the United States",
+          "holding": "A process for curing rubber that incorporated a mathematical formula and the Arrhenius equation was patent-eligible because the claims as a whole performed a function the patent laws were designed to protect."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "35 U.S.C. § 101",
+          "title": "Inventions patentable (statutory subject matter)",
+          "text": "Whoever invents or discovers any new and useful process, machine, manufacture, or composition of matter, or any new and useful improvement thereof, may obtain a patent therefor, subject to the conditions and requirements of this title.",
+          "source_type": "usc",
+          "title_number": 35,
+          "url": "https://www.law.cornell.edu/uscode/text/35/101"
+        }
+      ]
+    },
+    {
+      "doctrine_name": "Well-pleaded complaint rule",
+      "substantive_area": "civil_procedure",
+      "description": "The rule that federal-question jurisdiction must appear on the face of a properly pleaded complaint.",
+      "canonical_cases": [
+        {
+          "case_name": "Louisville & Nashville Railroad Co. v. Mottley",
+          "citation": "211 U.S. 149",
+          "year": 1908,
+          "court": "Supreme Court of the United States",
+          "holding": "Federal-question jurisdiction exists only when the federal issue appears on the face of the plaintiff's well-pleaded complaint; an anticipated federal defense does not suffice."
+        },
+        {
+          "case_name": "Grable & Sons Metal Products, Inc. v. Darue Engineering & Manufacturing",
+          "citation": "545 U.S. 308",
+          "year": 2005,
+          "court": "Supreme Court of the United States",
+          "holding": "A state-law claim may invoke federal-question jurisdiction if it necessarily raises a substantial, actually disputed federal issue that may be entertained without disturbing the federal-state balance."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "28 U.S.C. § 1331",
+          "title": "Federal question jurisdiction",
+          "text": "The district courts shall have original jurisdiction of all civil actions arising under the Constitution, laws, or treaties of the United States.",
+          "source_type": "usc",
+          "title_number": 28,
+          "url": "https://www.law.cornell.edu/uscode/text/28/1331"
+        }
+      ]
+    },
+    {
+      "doctrine_name": "Federal appellate standards of review",
+      "substantive_area": "civil_procedure",
+      "description": "The appellate standards governing legal, factual, and discretionary determinations on review.",
+      "canonical_cases": [
+        {
+          "case_name": "Anderson v. City of Bessemer City",
+          "citation": "470 U.S. 564",
+          "year": 1985,
+          "court": "Supreme Court of the United States",
+          "holding": "Findings of fact may be set aside only if clearly erroneous; the appellate court may not substitute its judgment when the trial court's account is plausible in light of the record viewed as a whole."
+        },
+        {
+          "case_name": "Ornelas v. United States",
+          "citation": "517 U.S. 690",
+          "year": 1996,
+          "court": "Supreme Court of the United States",
+          "holding": "Determinations of probable cause and reasonable suspicion are reviewed de novo; findings of historical fact for clear error."
+        },
+        {
+          "case_name": "Pierce v. Underwood",
+          "citation": "487 U.S. 552",
+          "year": 1988,
+          "court": "Supreme Court of the United States",
+          "holding": "Articulated the abuse-of-discretion standard, explaining that a district court's discretionary ruling will not be disturbed unless it rests on a clearly erroneous factual finding or an erroneous legal conclusion."
+        }
+      ],
+      "canonical_statutes": []
+    },
+    {
+      "doctrine_name": "Loper Bright (overruling Chevron deference)",
+      "substantive_area": "general",
+      "description": "The overruling of Chevron deference in favor of independent judicial judgment under the APA.",
+      "canonical_cases": [
+        {
+          "case_name": "Loper Bright Enterprises v. Raimondo",
+          "citation": "603 U.S. 369",
+          "year": 2024,
+          "court": "Supreme Court of the United States",
+          "holding": "Chevron is overruled. Under the APA, courts must exercise independent judgment in determining whether an agency has acted within its statutory authority; courts may not defer to an agency interpretation merely because the statute is ambiguous."
+        },
+        {
+          "case_name": "Chevron U.S.A. Inc. v. Natural Resources Defense Council, Inc.",
+          "citation": "467 U.S. 837",
+          "year": 1984,
+          "court": "Supreme Court of the United States",
+          "holding": "Historical context: established the now-overruled framework requiring courts to defer to permissible agency interpretations of ambiguous statutes."
+        },
+        {
+          "case_name": "Skidmore v. Swift & Co.",
+          "citation": "323 U.S. 134",
+          "year": 1944,
+          "court": "Supreme Court of the United States",
+          "holding": "Agency interpretations are entitled to respect proportional to their power to persuade; this 'weak' deference framework survives Loper Bright as a guide to independent judicial judgment."
+        },
+        {
+          "case_name": "Kisor v. Wilkie",
+          "citation": "588 U.S. 558",
+          "year": 2019,
+          "court": "Supreme Court of the United States",
+          "holding": "Reaffirmed but cabined Auer deference to genuinely ambiguous regulations after exhausting traditional tools of construction; Auer deference remains in narrowed form even after Loper Bright."
+        },
+        {
+          "case_name": "Auer v. Robbins",
+          "citation": "519 U.S. 452",
+          "year": 1997,
+          "court": "Supreme Court of the United States",
+          "holding": "Established that an agency's interpretation of its own ambiguous regulation is controlling unless plainly erroneous or inconsistent with the regulation; later narrowed in Kisor."
+        }
+      ],
+      "canonical_statutes": []
+    },
+    {
+      "doctrine_name": "Transfer of venue (28 USC 1404(a))",
+      "substantive_area": "civil_procedure",
+      "description": "Transfer of a federal civil action to another district under 28 U.S.C. § 1404(a) and the Atlantic Marine framework.",
+      "canonical_cases": [
+        {
+          "case_name": "Atlantic Marine Construction Co. v. United States District Court",
+          "citation": "571 U.S. 49",
+          "year": 2013,
+          "court": "Supreme Court of the United States",
+          "holding": "When a forum-selection clause is enforceable, transfer under § 1404(a) ordinarily follows: plaintiff's choice of forum gets no weight, only public-interest factors are considered, and the original venue's choice-of-law rules do not follow the case."
+        },
+        {
+          "case_name": "Van Dusen v. Barrack",
+          "citation": "376 U.S. 612",
+          "year": 1964,
+          "court": "Supreme Court of the United States",
+          "holding": "On a § 1404(a) transfer initiated by the defendant, the transferee court must apply the choice-of-law rules of the transferor court so that the change of forum is one of courtrooms, not law."
+        },
+        {
+          "case_name": "Stewart Organization, Inc. v. Ricoh Corp.",
+          "citation": "487 U.S. 22",
+          "year": 1988,
+          "court": "Supreme Court of the United States",
+          "holding": "Federal law (§ 1404(a)) governs the enforceability of forum-selection clauses in federal court; the clause is one factor among many in the convenience analysis (later effectively superseded by Atlantic Marine)."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "28 U.S.C. § 1404(a)",
+          "title": "Change of venue - convenience of parties and witnesses",
+          "text": "For the convenience of parties and witnesses, in the interest of justice, a district court may transfer any civil action to any other district or division where it might have been brought or to any district or division to which all parties have consented.",
+          "source_type": "usc",
+          "title_number": 28,
+          "url": "https://www.law.cornell.edu/uscode/text/28/1404"
+        },
+        {
+          "citation": "28 U.S.C. § 1406(a)",
+          "title": "Cure or waiver of defects (improper venue)",
+          "text": "The district court of a district in which is filed a case laying venue in the wrong division or district shall dismiss, or if it be in the interest of justice, transfer such case to any district or division in which it could have been brought.",
+          "source_type": "usc",
+          "title_number": 28,
+          "url": "https://www.law.cornell.edu/uscode/text/28/1406"
+        }
+      ]
+    },
+    {
+      "doctrine_name": "Civil RICO (18 USC 1962(c))",
+      "substantive_area": "criminal",
+      "description": "The elements of a civil claim under 18 U.S.C. § 1962(c) of the RICO statute.",
+      "canonical_cases": [
+        {
+          "case_name": "Sedima, S.P.R.L. v. Imrex Co.",
+          "citation": "473 U.S. 479",
+          "year": 1985,
+          "court": "Supreme Court of the United States",
+          "holding": "A § 1962(c) claim requires (1) conduct (2) of an enterprise (3) through a pattern (4) of racketeering activity. No prior criminal conviction is required."
+        },
+        {
+          "case_name": "H.J. Inc. v. Northwestern Bell Telephone Co.",
+          "citation": "492 U.S. 229",
+          "year": 1989,
+          "court": "Supreme Court of the United States",
+          "holding": "A 'pattern of racketeering' requires both relationship between predicate acts and continuity (or threat of continuity)."
+        },
+        {
+          "case_name": "Anza v. Ideal Steel Supply Corp.",
+          "citation": "547 U.S. 451",
+          "year": 2006,
+          "court": "Supreme Court of the United States",
+          "holding": "Civil-RICO standing requires that the alleged predicate acts be both the but-for and the proximate cause of the plaintiff's injury."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "18 U.S.C. § 1962(c)",
+          "title": "RICO - Prohibited activities (substantive)",
+          "text": "It shall be unlawful for any person employed by or associated with any enterprise engaged in, or the activities of which affect, interstate or foreign commerce, to conduct or participate, directly or indirectly, in the conduct of such enterprise's affairs through a pattern of racketeering activity or collection of unlawful debt.",
+          "source_type": "usc",
+          "title_number": 18,
+          "url": "https://www.law.cornell.edu/uscode/text/18/1962"
+        },
+        {
+          "citation": "18 U.S.C. § 1964(c)",
+          "title": "RICO - Civil remedies (private right of action)",
+          "text": "Any person injured in his business or property by reason of a violation of section 1962 of this chapter may sue therefor in any appropriate United States district court and shall recover threefold the damages he sustains and the cost of the suit, including a reasonable attorney's fee, except that no person may rely upon any conduct that would have been actionable as fraud in the purchase or sale of securities to establish a violation of section 1962.",
+          "source_type": "usc",
+          "title_number": 18,
+          "url": "https://www.law.cornell.edu/uscode/text/18/1964"
+        },
+        {
+          "citation": "18 U.S.C. § 1961(1) (RICO - 'racketeering activity')",
+          "title": "RICO predicate acts (racketeering activity)",
+          "text": "'Racketeering activity' means (A) any act or threat involving murder, kidnapping, gambling, arson, robbery, bribery, extortion, dealing in obscene matter, or dealing in a controlled substance, which is chargeable under State law and punishable by imprisonment for more than one year; (B) any act which is indictable under any of the following provisions of title 18: section 201 (relating to bribery), section 224 (relating to sports bribery), sections 471-509 (counterfeiting), 659 (relating to theft from interstate shipment), 664 (relating to embezzlement from pension and welfare funds), 891-894 (relating to extortionate credit transactions), 1029 (access devices), 1084 (transmission of gambling), 1341 (mail fraud), 1343 (wire fraud) ...",
+          "source_type": "usc",
+          "title_number": 18,
+          "url": "https://www.law.cornell.edu/uscode/text/18/1961"
+        }
+      ]
+    },
+    {
+      "doctrine_name": "Negligent infliction of emotional distress",
+      "substantive_area": "general",
+      "description": "The state-law doctrine permitting recovery for emotional distress caused by another's negligence.",
+      "canonical_cases": [
+        {
+          "case_name": "Dillon v. Legg",
+          "citation": "68 Cal. 2d 728",
+          "year": 1968,
+          "court": "Supreme Court of California",
+          "holding": "A bystander may recover for emotional distress; foreseeability is determined by proximity to the accident, contemporaneous awareness, and close relationship to the victim."
+        },
+        {
+          "case_name": "Thing v. La Chusa",
+          "citation": "48 Cal. 3d 644",
+          "year": 1989,
+          "court": "Supreme Court of California",
+          "holding": "Bystander NIED recovery requires that the plaintiff be closely related, present at the scene and contemporaneously aware of the injury, and suffer serious emotional distress."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "Restatement (Second) of Torts § 313",
+          "title": "Emotional distress unintendedly caused",
+          "text": "(1) If the actor unintentionally causes emotional distress to another, he is subject to liability to the other for resulting illness or bodily harm if the actor (a) should have realized that his conduct involved an unreasonable risk of causing the distress, otherwise than by knowledge of the harm or peril of a third person, and (b) from facts known to him should have realized that the distress, if it were caused, might result in illness or bodily harm. (2) The rule stated in Subsection (1) has no application to illness or bodily harm of another which is caused by emotional distress arising solely from harm or peril to a third person, unless the negligence of the actor has otherwise created an unreasonable risk of bodily harm to the other.",
+          "source_type": "restatement",
+          "title_number": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "doctrine_name": "Eggshell-skull / thin-skull rule",
+      "substantive_area": "general",
+      "description": "The tort rule that a defendant is liable for the full extent of harm caused, even if unforeseeably aggravated by the plaintiff's pre-existing vulnerability.",
+      "canonical_cases": [
+        {
+          "case_name": "Vosburg v. Putney",
+          "citation": "50 N.W. 403",
+          "year": 1891,
+          "court": "Supreme Court of Wisconsin",
+          "holding": "The tortfeasor is liable for all injuries directly resulting from the wrongful act, including those exacerbated by the plaintiff's pre-existing condition; the defendant takes the plaintiff as he finds him."
+        },
+        {
+          "case_name": "Smith v. Leech Brain & Co.",
+          "citation": "[1962] 2 QB 405",
+          "year": 1962,
+          "court": "Queen's Bench Division (England)",
+          "holding": "English authority widely cited in U.S. tort treatises: where a worker's burn from molten metal triggered a latent cancer that killed him, the defendant was liable for the full extent of harm. Type of injury, not its extent, must be foreseeable."
+        },
+        {
+          "case_name": "Benn v. Thomas",
+          "citation": "512 N.W.2d 537",
+          "year": 1994,
+          "court": "Supreme Court of Iowa",
+          "holding": "Reversed for failure to give an eggshell-plaintiff jury instruction where a coronary-disease victim died after a relatively minor rear-end collision; reaffirms that a tortfeasor takes the plaintiff as found, with all pre-existing frailties."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "Restatement (Second) of Torts § 461",
+          "title": "Harm increased in extent by other's unforeseeable physical condition",
+          "text": "The negligent actor is subject to liability for harm to another although a physical condition of the other which is neither known nor should be known to the actor makes the injury greater than that which the actor as a reasonable man should have foreseen as a probable result of his conduct.",
+          "source_type": "restatement",
+          "title_number": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "doctrine_name": "Hearsay rule (FRE 801-807)",
+      "substantive_area": "evidence",
+      "description": "The federal evidentiary rule barring out-of-court statements offered for the truth of the matter asserted, and its many exceptions and exemptions under FRE 801 through 807.",
+      "canonical_cases": [
+        {
+          "case_name": "Crawford v. Washington",
+          "citation": "541 U.S. 36",
+          "year": 2004,
+          "court": "Supreme Court of the United States",
+          "holding": "Testimonial out-of-court statements are inadmissible against a criminal defendant under the Confrontation Clause unless the declarant is unavailable and the defendant had a prior opportunity to cross-examine; overruled Roberts's reliability-based framework."
+        },
+        {
+          "case_name": "Davis v. Washington",
+          "citation": "547 U.S. 813",
+          "year": 2006,
+          "court": "Supreme Court of the United States",
+          "holding": "Statements made to police are testimonial when their primary purpose is to establish past events for later prosecution, but nontestimonial when made to enable police to meet an ongoing emergency."
+        },
+        {
+          "case_name": "Williamson v. United States",
+          "citation": "512 U.S. 594",
+          "year": 1994,
+          "court": "Supreme Court of the United States",
+          "holding": "FRE 804(b)(3)'s statement-against-interest exception covers only the precise statements that are individually self-inculpatory, not a broader narrative containing both self-inculpatory and non-self-inculpatory parts."
+        },
+        {
+          "case_name": "Ohio v. Roberts",
+          "citation": "448 U.S. 56",
+          "year": 1980,
+          "court": "Supreme Court of the United States",
+          "holding": "Historically held that hearsay was admissible against a criminal defendant if it bore adequate indicia of reliability; later overruled by Crawford for testimonial statements but remains important historical context."
+        }
+      ],
+      "canonical_statutes": []
+    },
+    {
+      "doctrine_name": "Miranda rights and custodial interrogation",
+      "substantive_area": "criminal",
+      "description": "The Fifth Amendment-derived requirement that police give specific warnings before custodial interrogation, and the framework for invocation, waiver, and exceptions.",
+      "canonical_cases": [
+        {
+          "case_name": "Miranda v. Arizona",
+          "citation": "384 U.S. 436",
+          "year": 1966,
+          "court": "Supreme Court of the United States",
+          "holding": "Before custodial interrogation, police must advise a suspect of the right to remain silent, that statements may be used against them, of the right to counsel, and the right to appointed counsel if indigent; statements obtained in violation are presumptively inadmissible."
+        },
+        {
+          "case_name": "Dickerson v. United States",
+          "citation": "530 U.S. 428",
+          "year": 2000,
+          "court": "Supreme Court of the United States",
+          "holding": "Miranda is a constitutional decision that may not be overturned by an Act of Congress; struck down 18 U.S.C. § 3501 as inconsistent with Miranda."
+        },
+        {
+          "case_name": "New York v. Quarles",
+          "citation": "467 U.S. 649",
+          "year": 1984,
+          "court": "Supreme Court of the United States",
+          "holding": "Recognized a public-safety exception to Miranda: police may ask questions reasonably prompted by a concern for public safety without first administering warnings, and the answers are admissible."
+        },
+        {
+          "case_name": "Berghuis v. Thompkins",
+          "citation": "560 U.S. 370",
+          "year": 2010,
+          "court": "Supreme Court of the United States",
+          "holding": "A suspect must invoke the right to remain silent unambiguously; mere silence during interrogation does not invoke the right, and a subsequent voluntary statement constitutes implied waiver."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "18 U.S.C. § 3501",
+          "title": "Admissibility of confessions",
+          "text": "Section originally enacted to override Miranda's protections by making voluntariness the sole test of confession admissibility in federal court - held in Dickerson v. United States (2000) to be unconstitutional to the extent it conflicts with Miranda. Federal courts still apply Miranda's bright-line warning rule, but § 3501 remains on the books as historical context.",
+          "source_type": "usc",
+          "title_number": 18,
+          "url": "https://www.law.cornell.edu/uscode/text/18/3501"
+        }
+      ]
+    },
+    {
+      "doctrine_name": "Fourth Amendment exclusionary rule",
+      "substantive_area": "criminal",
+      "description": "The judge-made rule excluding evidence obtained in violation of the Fourth Amendment, and its exceptions (good faith, independent source, inevitable discovery, attenuation).",
+      "canonical_cases": [
+        {
+          "case_name": "Mapp v. Ohio",
+          "citation": "367 U.S. 643",
+          "year": 1961,
+          "court": "Supreme Court of the United States",
+          "holding": "Evidence obtained by an unconstitutional search and seizure is inadmissible in state criminal prosecutions; the exclusionary rule is incorporated against the states through the Fourteenth Amendment."
+        },
+        {
+          "case_name": "United States v. Leon",
+          "citation": "468 U.S. 897",
+          "year": 1984,
+          "court": "Supreme Court of the United States",
+          "holding": "Established the good-faith exception: evidence obtained by officers acting in objectively reasonable reliance on a facially valid warrant later found defective need not be suppressed."
+        },
+        {
+          "case_name": "Weeks v. United States",
+          "citation": "232 U.S. 383",
+          "year": 1914,
+          "court": "Supreme Court of the United States",
+          "holding": "Originated the federal exclusionary rule: evidence seized in violation of the Fourth Amendment may not be used by the federal government in a criminal prosecution."
+        },
+        {
+          "case_name": "Wong Sun v. United States",
+          "citation": "371 U.S. 471",
+          "year": 1963,
+          "court": "Supreme Court of the United States",
+          "holding": "Articulated the 'fruit of the poisonous tree' doctrine: evidence derivatively obtained from an unconstitutional search must be excluded unless the connection has become so attenuated as to dissipate the taint."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "Fed. R. Crim. P. 12(b)(3)(C)",
+          "title": "FRCrP 12 - Motion to suppress evidence",
+          "text": "Motions that must be raised before trial include: (C) suppression of evidence. A motion to suppress under Rule 12(b)(3) must be made within the time set by the court or before trial; failure to do so waives the issue absent good cause.",
+          "source_type": "other",
+          "title_number": null,
+          "url": "https://www.law.cornell.edu/rules/frcrmp/rule_12"
+        }
+      ]
+    },
+    {
+      "doctrine_name": "Equal Protection levels of scrutiny",
+      "substantive_area": "constitutional",
+      "description": "The tiered Equal Protection framework: strict scrutiny for suspect classifications and fundamental rights, intermediate scrutiny for sex and certain other classifications, and rational basis review for everything else.",
+      "canonical_cases": [
+        {
+          "case_name": "Craig v. Boren",
+          "citation": "429 U.S. 190",
+          "year": 1976,
+          "court": "Supreme Court of the United States",
+          "holding": "Established intermediate scrutiny for sex-based classifications: classifications must serve important governmental objectives and be substantially related to achievement of those objectives."
+        },
+        {
+          "case_name": "Loving v. Virginia",
+          "citation": "388 U.S. 1",
+          "year": 1967,
+          "court": "Supreme Court of the United States",
+          "holding": "Race-based classifications are subject to the most rigid scrutiny; struck down Virginia's anti-miscegenation statute as violative of both the Equal Protection and Due Process Clauses."
+        },
+        {
+          "case_name": "San Antonio Independent School District v. Rodriguez",
+          "citation": "411 U.S. 1",
+          "year": 1973,
+          "court": "Supreme Court of the United States",
+          "holding": "Wealth is not a suspect classification and education is not a fundamental right under the Federal Constitution; school funding through local property taxes survives rational-basis review."
+        },
+        {
+          "case_name": "Plyler v. Doe",
+          "citation": "457 U.S. 202",
+          "year": 1982,
+          "court": "Supreme Court of the United States",
+          "holding": "Texas could not deny free public education to children of undocumented immigrants; applied a heightened form of rational-basis review reflecting the unique status of children and the importance of education."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "U.S. Const. amend. XIV, § 1",
+          "title": "Fourteenth Amendment - Equal Protection Clause",
+          "text": "All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside. No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.",
+          "source_type": "other",
+          "title_number": null,
+          "url": "https://www.law.cornell.edu/constitution/amendmentxiv"
+        }
+      ]
+    },
+    {
+      "doctrine_name": "Commerce Clause (Article I § 8)",
+      "substantive_area": "constitutional",
+      "description": "Congress's power to regulate interstate commerce, including its three categories (channels, instrumentalities, and activities substantially affecting interstate commerce) and the dormant Commerce Clause limit on state regulation.",
+      "canonical_cases": [
+        {
+          "case_name": "Wickard v. Filburn",
+          "citation": "317 U.S. 111",
+          "year": 1942,
+          "court": "Supreme Court of the United States",
+          "holding": "Congress may regulate purely intrastate activity if, viewed in the aggregate, it has a substantial economic effect on interstate commerce; upheld federal wheat-quota limits as applied to a farmer's home consumption."
+        },
+        {
+          "case_name": "United States v. Lopez",
+          "citation": "514 U.S. 549",
+          "year": 1995,
+          "court": "Supreme Court of the United States",
+          "holding": "Struck down the Gun-Free School Zones Act as exceeding Congress's commerce power; reaffirmed that the regulated activity must substantially affect interstate commerce and clarified the three-category framework."
+        },
+        {
+          "case_name": "Gonzales v. Raich",
+          "citation": "545 U.S. 1",
+          "year": 2005,
+          "court": "Supreme Court of the United States",
+          "holding": "Congress may regulate purely intrastate, noncommercial cultivation of marijuana for personal medical use because, in the aggregate, such activity substantially affects the interstate market in controlled substances."
+        },
+        {
+          "case_name": "National Federation of Independent Business v. Sebelius",
+          "citation": "567 U.S. 519",
+          "year": 2012,
+          "court": "Supreme Court of the United States",
+          "holding": "The ACA's individual mandate exceeded Congress's commerce power because the Commerce Clause does not authorize compelling individuals to engage in commerce, but was sustained as a valid exercise of the taxing power."
+        }
+      ],
+      "canonical_statutes": []
+    },
+    {
+      "doctrine_name": "Common-law negligence (duty, breach, causation, damages)",
+      "substantive_area": "general",
+      "description": "The four elements of a common-law negligence claim, the reasonable-person standard, and the foreseeability and proximate-cause limits on duty.",
+      "canonical_cases": [
+        {
+          "case_name": "Palsgraf v. Long Island Railroad Co.",
+          "citation": "162 N.E. 99",
+          "year": 1928,
+          "court": "Court of Appeals of New York",
+          "holding": "Articulated the foreseeable-plaintiff rule: a defendant owes a duty of care only to those within the reasonably foreseeable zone of danger; conduct that is negligent toward one person is not necessarily negligent toward all."
+        },
+        {
+          "case_name": "United States v. Carroll Towing Co.",
+          "citation": "159 F.2d 169",
+          "year": 1947,
+          "court": "Court of Appeals for the Second Circuit",
+          "holding": "Judge Learned Hand's BPL formula: a defendant's conduct is negligent when the burden of precaution is less than the probability of harm multiplied by the magnitude of the resulting loss."
+        },
+        {
+          "case_name": "Tarasoff v. Regents of the University of California",
+          "citation": "551 P.2d 334",
+          "year": 1976,
+          "court": "Supreme Court of California",
+          "holding": "A psychotherapist owes a duty to use reasonable care to protect identifiable third parties from foreseeable danger posed by a patient; the duty may include warning the potential victim."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "Restatement (Second) of Torts § 281",
+          "title": "Statement of the elements of a cause of action for negligence",
+          "text": "The actor is liable for an invasion of an interest of another, if: (a) the interest invaded is protected against unintentional invasion, and (b) the conduct of the actor is negligent with respect to the other, or a class of persons within which he is included, and (c) the actor's conduct is a legal cause of the invasion, and (d) the other has not so conducted himself as to disable himself from bringing an action for such invasion.",
+          "source_type": "restatement",
+          "title_number": null,
+          "url": null
+        },
+        {
+          "citation": "Restatement (Third) of Torts: Phys. & Emot. Harm § 3",
+          "title": "Negligence - failure of reasonable care",
+          "text": "A person acts negligently if the person does not exercise reasonable care under all the circumstances. Primary factors to consider include the foreseeable likelihood that the person's conduct will result in harm, the foreseeable severity of any harm that may ensue, and the burden of precautions to eliminate or reduce the risk of harm.",
+          "source_type": "restatement",
+          "title_number": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "doctrine_name": "First Amendment unprotected-speech categories",
+      "substantive_area": "constitutional",
+      "description": "The categorical exceptions to First Amendment protection, including incitement (Brandenburg), fighting words (Chaplinsky), defamation of public figures (Sullivan), obscenity (Miller), and true threats.",
+      "canonical_cases": [
+        {
+          "case_name": "Brandenburg v. Ohio",
+          "citation": "395 U.S. 444",
+          "year": 1969,
+          "court": "Supreme Court of the United States",
+          "holding": "Speech advocating illegal conduct is unprotected only when directed to inciting or producing imminent lawless action and likely to produce such action; replaced the older 'clear and present danger' test."
+        },
+        {
+          "case_name": "Chaplinsky v. New Hampshire",
+          "citation": "315 U.S. 568",
+          "year": 1942,
+          "court": "Supreme Court of the United States",
+          "holding": "'Fighting words', face-to-face epithets likely to provoke immediate violence, are not protected by the First Amendment; the category has been narrowed substantially in subsequent cases."
+        },
+        {
+          "case_name": "New York Times Co. v. Sullivan",
+          "citation": "376 U.S. 254",
+          "year": 1964,
+          "court": "Supreme Court of the United States",
+          "holding": "A public official may not recover for defamation about official conduct without proving actual malice: knowledge of falsity or reckless disregard for the truth."
+        },
+        {
+          "case_name": "Miller v. California",
+          "citation": "413 U.S. 15",
+          "year": 1973,
+          "court": "Supreme Court of the United States",
+          "holding": "Three-part test for obscenity: whether the average person, applying contemporary community standards, would find the work appeals to the prurient interest; whether it depicts sexual conduct in a patently offensive way as defined by state law; and whether, taken as a whole, it lacks serious literary, artistic, political, or scientific value."
+        }
+      ],
+      "canonical_statutes": []
+    },
+    {
+      "doctrine_name": "Shady Grove / Erie procedural-substantive analysis",
+      "substantive_area": "civil_procedure",
+      "description": "When a Federal Rule directly conflicts with state law, the Federal Rule governs if valid under the Rules Enabling Act; absent a direct conflict, courts apply the Erie twin-aims and outcome-determinative tests.",
+      "canonical_cases": [
+        {
+          "case_name": "Shady Grove Orthopedic Associates, P.A. v. Allstate Insurance Co.",
+          "citation": "559 U.S. 393",
+          "year": 2010,
+          "court": "Supreme Court of the United States",
+          "holding": "When a Federal Rule of Civil Procedure answers the question in dispute, it governs unless invalid under the Rules Enabling Act. New York's prohibition on class actions for statutory penalties did not bar a federal Rule 23 class action in diversity."
+        },
+        {
+          "case_name": "Gasperini v. Center for Humanities, Inc.",
+          "citation": "518 U.S. 415",
+          "year": 1996,
+          "court": "Supreme Court of the United States",
+          "holding": "In diversity, federal courts apply state-law standards for reviewing the excessiveness of jury verdicts, balanced against the Seventh Amendment's federal interest in jury-trial control via abuse-of-discretion review on appeal."
+        },
+        {
+          "case_name": "Byrd v. Blue Ridge Rural Electric Cooperative, Inc.",
+          "citation": "356 U.S. 525",
+          "year": 1958,
+          "court": "Supreme Court of the United States",
+          "holding": "Even when state law might otherwise control, a strong federal interest (e.g., the federal jury-trial right) can override the state rule."
+        }
+      ],
+      "canonical_statutes": []
+    },
+    {
+      "doctrine_name": "Bristol-Myers Squibb personal jurisdiction (specific-jurisdiction doctrine)",
+      "substantive_area": "civil_procedure",
+      "description": "Specific personal jurisdiction requires a connection between the defendant's forum-state activity and each plaintiff's claim; circuits are split on whether BMS applies to absent class members in nationwide class actions.",
+      "canonical_cases": [
+        {
+          "case_name": "Bristol-Myers Squibb Co. v. Superior Court of California",
+          "citation": "582 U.S. 255",
+          "year": 2017,
+          "court": "Supreme Court of the United States",
+          "holding": "California courts lacked specific personal jurisdiction over BMS for claims by non-resident plaintiffs whose injuries had no connection to California, even though resident plaintiffs had similar claims."
+        },
+        {
+          "case_name": "Ford Motor Co. v. Montana Eighth Judicial District Court",
+          "citation": "592 U.S. 351",
+          "year": 2021,
+          "court": "Supreme Court of the United States",
+          "holding": "Specific jurisdiction exists when a defendant's in-state contacts 'relate to' the plaintiff's claim, even without strict causation; Ford's extensive sales/marketing of the same vehicle model in the forum sufficed."
+        },
+        {
+          "case_name": "Mallory v. Norfolk Southern Railway Co.",
+          "citation": "600 U.S. 122",
+          "year": 2023,
+          "court": "Supreme Court of the United States",
+          "holding": "A state law requiring out-of-state corporations to consent to general jurisdiction as a condition of doing business is constitutional under Pennsylvania Fire (1917), notwithstanding International Shoe's minimum-contacts framework."
+        }
+      ],
+      "canonical_statutes": []
+    },
+    {
+      "doctrine_name": "Online contract formation (browsewrap, clickwrap, sign-in wrap)",
+      "substantive_area": "general",
+      "description": "Enforceability of online terms turns on whether the user had reasonably conspicuous notice of the terms and manifested assent; clickwrap is routinely enforced, browsewrap rarely so.",
+      "canonical_cases": [
+        {
+          "case_name": "Meyer v. Uber Technologies, Inc.",
+          "citation": "868 F.3d 66",
+          "year": 2017,
+          "court": "Court of Appeals for the Second Circuit",
+          "holding": "Uber's sign-in-wrap was enforceable: the registration screen provided reasonably conspicuous notice that creating an account constituted assent to the linked terms, including the arbitration clause."
+        },
+        {
+          "case_name": "Specht v. Netscape Communications Corp.",
+          "citation": "306 F.3d 17",
+          "year": 2002,
+          "court": "Court of Appeals for the Second Circuit",
+          "holding": "Browsewrap terms requiring a user to scroll below the download button to find them did not bind users who had no actual or constructive notice; mere availability is not assent."
+        },
+        {
+          "case_name": "Sgouros v. TransUnion Corp.",
+          "citation": "817 F.3d 1029",
+          "year": 2016,
+          "court": "Court of Appeals for the Seventh Circuit",
+          "holding": "Online terms were unenforceable where the website's design suggested clicking 'I Accept' related to authorizing a credit check, not assent to the linked terms of service."
+        }
+      ],
+      "canonical_statutes": []
+    },
+    {
+      "doctrine_name": "Improper removal attorney fees (28 U.S.C. § 1447(c))",
+      "substantive_area": "civil_procedure",
+      "description": "An order remanding a removed case may award attorney fees only where the removing party lacked an objectively reasonable basis for seeking removal.",
+      "canonical_cases": [
+        {
+          "case_name": "Martin v. Franklin Capital Corp.",
+          "citation": "546 U.S. 132",
+          "year": 2005,
+          "court": "Supreme Court of the United States",
+          "holding": "Absent unusual circumstances, attorney fees under § 1447(c) should be awarded only where the removing party lacked an objectively reasonable basis for seeking removal."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "28 U.S.C. § 1447(c)",
+          "title": "Procedure after removal - remand and fees",
+          "text": "A motion to remand the case on the basis of any defect other than lack of subject matter jurisdiction must be made within 30 days after the filing of the notice of removal. If at any time before final judgment it appears that the district court lacks subject matter jurisdiction, the case shall be remanded. An order remanding the case may require payment of just costs and any actual expenses, including attorney fees, incurred as a result of the removal.",
+          "source_type": "usc",
+          "title_number": 28,
+          "url": "https://www.law.cornell.edu/uscode/text/28/1447"
+        }
+      ]
+    },
+    {
+      "doctrine_name": "SEC v. Jarkesy - Seventh Amendment limits on agency adjudication",
+      "substantive_area": "constitutional",
+      "description": "When the SEC seeks civil penalties for securities fraud, the Seventh Amendment guarantees a jury trial in an Article III court; the SEC may not adjudicate such claims through in-house ALJs.",
+      "canonical_cases": [
+        {
+          "case_name": "SEC v. Jarkesy",
+          "citation": "603 U.S. 109",
+          "year": 2024,
+          "court": "Supreme Court of the United States",
+          "holding": "When the SEC seeks civil penalties from a defendant for securities fraud, the Seventh Amendment requires a jury trial in an Article III court; the public-rights exception to Article III does not apply."
+        },
+        {
+          "case_name": "Axon Enterprise, Inc. v. FTC",
+          "citation": "598 U.S. 175",
+          "year": 2023,
+          "court": "Supreme Court of the United States",
+          "holding": "District courts have jurisdiction to hear structural constitutional challenges (e.g., to ALJ removal protections) to ongoing agency enforcement; plaintiffs need not wait for agency action to conclude before raising such challenges."
+        },
+        {
+          "case_name": "Free Enterprise Fund v. Public Company Accounting Oversight Board",
+          "citation": "561 U.S. 477",
+          "year": 2010,
+          "court": "Supreme Court of the United States",
+          "holding": "Dual for-cause removal protection for PCAOB members was unconstitutional because it impermissibly insulated executive officers from presidential oversight."
+        }
+      ],
+      "canonical_statutes": []
+    },
+    {
+      "doctrine_name": "Groff v. DeJoy - Title VII religious accommodation standard",
+      "substantive_area": "civil_rights",
+      "description": "An employer denying a religious accommodation under Title VII must show that the accommodation would impose 'substantial increased costs' in the conduct of its business, not merely a 'de minimis' burden.",
+      "canonical_cases": [
+        {
+          "case_name": "Groff v. DeJoy",
+          "citation": "600 U.S. 447",
+          "year": 2023,
+          "court": "Supreme Court of the United States",
+          "holding": "Title VII's 'undue hardship' standard for religious accommodations requires the employer to show that the burden of the accommodation would result in substantial increased costs, clarifying (and limiting) the prior 'de minimis' reading of TWA v. Hardison."
+        },
+        {
+          "case_name": "Trans World Airlines, Inc. v. Hardison",
+          "citation": "432 U.S. 63",
+          "year": 1977,
+          "court": "Supreme Court of the United States",
+          "holding": "Original (now-narrowed) statement that an employer need not bear more than a de minimis cost to accommodate an employee's religious practice. After Groff, the 'de minimis' language is rejected and replaced with a substantial-increased-costs test."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "42 U.S.C. § 2000e(j) (Title VII - religion definition)",
+          "title": "Title VII - definition of religion (accommodation requirement)",
+          "text": "The term 'religion' includes all aspects of religious observance and practice, as well as belief, unless an employer demonstrates that he is unable to reasonably accommodate to an employee's or prospective employee's religious observance or practice without undue hardship on the conduct of the employer's business.",
+          "source_type": "usc",
+          "title_number": 42,
+          "url": "https://www.law.cornell.edu/uscode/text/42/2000e"
+        },
+        {
+          "citation": "42 U.S.C. § 2000e-2(a) (Title VII - unlawful employment practices)",
+          "title": "Title VII - unlawful employment practices",
+          "text": "It shall be an unlawful employment practice for an employer (1) to fail or refuse to hire or to discharge any individual, or otherwise to discriminate against any individual with respect to his compensation, terms, conditions, or privileges of employment, because of such individual's race, color, religion, sex, or national origin.",
+          "source_type": "usc",
+          "title_number": 42,
+          "url": "https://www.law.cornell.edu/uscode/text/42/2000e-2"
+        }
+      ]
+    },
+    {
+      "doctrine_name": "Muldrow v. City of St. Louis - Title VII 'some harm' standard for adverse action",
+      "substantive_area": "civil_rights",
+      "description": "A Title VII discriminatory transfer claim requires only 'some harm' to an identifiable term or condition of employment, not a 'significant' or 'material' adverse change.",
+      "canonical_cases": [
+        {
+          "case_name": "Muldrow v. City of St. Louis",
+          "citation": "601 U.S. 346",
+          "year": 2024,
+          "court": "Supreme Court of the United States",
+          "holding": "A Title VII plaintiff challenging a job transfer must show only 'some harm' respecting an identifiable term or condition of employment - not a 'significant', 'serious', or 'material' adverse action."
+        },
+        {
+          "case_name": "Burlington Northern & Santa Fe Railway Co. v. White",
+          "citation": "548 U.S. 53",
+          "year": 2006,
+          "court": "Supreme Court of the United States",
+          "holding": "Title VII's anti-retaliation provision is not limited to ultimate employment actions; a 'materially adverse' action that might dissuade a reasonable worker from making a charge of discrimination is sufficient."
+        }
+      ],
+      "canonical_statutes": []
+    },
+    {
+      "doctrine_name": "Counterman v. Colorado - mens rea for 'true threats' prosecutions",
+      "substantive_area": "constitutional",
+      "description": "The First Amendment requires the State to prove a 'true threats' defendant was at least reckless - i.e. consciously disregarded a substantial risk that the communication would be viewed as a threat.",
+      "canonical_cases": [
+        {
+          "case_name": "Counterman v. Colorado",
+          "citation": "600 U.S. 66",
+          "year": 2023,
+          "court": "Supreme Court of the United States",
+          "holding": "The First Amendment requires the State to prove a 'true threats' defendant subjectively understood (at least recklessly) the threatening nature of his statements; a purely objective standard chills protected speech."
+        },
+        {
+          "case_name": "Virginia v. Black",
+          "citation": "538 U.S. 343",
+          "year": 2003,
+          "court": "Supreme Court of the United States",
+          "holding": "True threats are statements where the speaker means to communicate a serious expression of intent to commit an act of unlawful violence; states may proscribe such threats consistent with the First Amendment."
+        },
+        {
+          "case_name": "Watts v. United States",
+          "citation": "394 U.S. 705",
+          "year": 1969,
+          "court": "Supreme Court of the United States",
+          "holding": "A statute punishing threats against the President must be interpreted to require a 'true threat,' not political hyperbole."
+        }
+      ],
+      "canonical_statutes": []
+    },
+    {
+      "doctrine_name": "Garland v. Cargill - definition of 'machinegun' under the Gun Control Act",
+      "substantive_area": "criminal",
+      "description": "A semiautomatic rifle equipped with a bump stock is not a 'machinegun' under 26 U.S.C. § 5845(b) because it does not fire more than one shot 'by a single function of the trigger'.",
+      "canonical_cases": [
+        {
+          "case_name": "Garland v. Cargill",
+          "citation": "602 U.S. 406",
+          "year": 2024,
+          "court": "Supreme Court of the United States",
+          "holding": "A semiautomatic rifle equipped with a bump stock is not a 'machinegun' under 26 U.S.C. § 5845(b); ATF's contrary regulation exceeded the agency's statutory authority."
+        }
+      ],
+      "canonical_statutes": []
+    },
+    {
+      "doctrine_name": "Slack Technologies v. Pirani - Section 11 traceability in direct listings",
+      "substantive_area": "securities",
+      "description": "A Section 11 plaintiff must plead and prove that the specific shares purchased were 'such security' registered pursuant to the challenged registration statement.",
+      "canonical_cases": [
+        {
+          "case_name": "Slack Technologies, LLC v. Pirani",
+          "citation": "598 U.S. 759",
+          "year": 2023,
+          "court": "Supreme Court of the United States",
+          "holding": "Section 11 of the Securities Act of 1933 requires a plaintiff to plead and prove that they purchased shares registered under the misleading registration statement - a meaningful constraint for direct listings where registered and unregistered shares trade together."
+        }
+      ],
+      "canonical_statutes": []
+    },
+    {
+      "doctrine_name": "Thole v. U.S. Bank - Article III standing in defined-benefit ERISA plans",
+      "substantive_area": "constitutional",
+      "description": "Participants in a fully funded defined-benefit ERISA plan lack Article III standing to sue under § 502(a)(2)/(3) for fiduciary breach where they have suffered no concrete injury to their guaranteed benefits.",
+      "canonical_cases": [
+        {
+          "case_name": "Thole v. U.S. Bank N.A.",
+          "citation": "590 U.S. 538",
+          "year": 2020,
+          "court": "Supreme Court of the United States",
+          "holding": "Participants in an over-funded defined-benefit plan lacked Article III standing to bring ERISA breach-of-fiduciary-duty claims because they had received all promised benefits and would receive the same benefits regardless of the lawsuit's outcome."
+        }
+      ],
+      "canonical_statutes": []
+    },
+    {
+      "doctrine_name": "SuperValu / Safeco - subjective scienter under the False Claims Act and FCRA",
+      "substantive_area": "general",
+      "description": "Scienter under the False Claims Act and Fair Credit Reporting Act looks to what the defendant subjectively believed; an objectively reasonable interpretation does not categorically defeat scienter if the defendant actually believed otherwise.",
+      "canonical_cases": [
+        {
+          "case_name": "United States ex rel. Schutte v. SuperValu Inc.",
+          "citation": "598 U.S. 739",
+          "year": 2023,
+          "court": "Supreme Court of the United States",
+          "holding": "Under the False Claims Act, scienter is judged by what the defendant subjectively believed; an after-the-fact objectively reasonable interpretation of an ambiguous regulation does not categorically defeat scienter if the defendant did not actually hold that belief."
+        },
+        {
+          "case_name": "Safeco Insurance Co. of America v. Burr",
+          "citation": "551 U.S. 47",
+          "year": 2007,
+          "court": "Supreme Court of the United States",
+          "holding": "FCRA 'willful' violations include reckless disregard, but a defendant's interpretation of an ambiguous statute is not reckless if objectively reasonable and not foreclosed by authoritative guidance."
+        }
+      ],
+      "canonical_statutes": []
+    },
+    {
+      "doctrine_name": "ZF Automotive v. Luxshare - § 1782 reach to private commercial arbitration",
+      "substantive_area": "civil_procedure",
+      "description": "Discovery under 28 U.S.C. § 1782 is unavailable for private commercial arbitration tribunals; the statute reaches only governmental or intergovernmental adjudicative bodies.",
+      "canonical_cases": [
+        {
+          "case_name": "ZF Automotive US, Inc. v. Luxshare, Ltd.",
+          "citation": "596 U.S. 619",
+          "year": 2022,
+          "court": "Supreme Court of the United States",
+          "holding": "A 'foreign or international tribunal' under 28 U.S.C. § 1782 means a governmental or intergovernmental adjudicative body; § 1782 discovery is unavailable for purely private commercial arbitration."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "28 U.S.C. § 1782",
+          "title": "Assistance to foreign and international tribunals",
+          "text": "(a) The district court of the district in which a person resides or is found may order him to give his testimony or statement or to produce a document or other thing for use in a proceeding in a foreign or international tribunal, including criminal investigations conducted before formal accusation.",
+          "source_type": "usc",
+          "title_number": 28,
+          "url": "https://www.law.cornell.edu/uscode/text/28/1782"
+        }
+      ]
+    },
+    {
+      "doctrine_name": "MOAC Mall Holdings v. Transform - Bankruptcy Code § 363(m) is non-jurisdictional",
+      "substantive_area": "bankruptcy",
+      "description": "Section 363(m) of the Bankruptcy Code is a statutory limitation on relief, not a jurisdictional bar; an appellate court does not lose jurisdiction merely because a sale has closed.",
+      "canonical_cases": [
+        {
+          "case_name": "MOAC Mall Holdings LLC v. Transform Holdco LLC",
+          "citation": "598 U.S. 288",
+          "year": 2023,
+          "court": "Supreme Court of the United States",
+          "holding": "Bankruptcy Code § 363(m) is not jurisdictional; the failure to obtain a stay pending appeal does not deprive a federal appellate court of subject-matter jurisdiction over the appeal."
+        }
+      ],
+      "canonical_statutes": []
+    },
+    {
+      "doctrine_name": "Harrington v. Purdue Pharma - non-consensual third-party releases in Chapter 11",
+      "substantive_area": "bankruptcy",
+      "description": "Chapter 11 reorganization plans may not provide non-consensual releases of claims against non-debtor third parties; the Code does not authorize such releases.",
+      "canonical_cases": [
+        {
+          "case_name": "Harrington v. Purdue Pharma L.P.",
+          "citation": "603 U.S. 204",
+          "year": 2024,
+          "court": "Supreme Court of the United States",
+          "holding": "The Bankruptcy Code does not authorize non-consensual releases of third-party claims against non-debtors (such as the Sackler family) as part of a Chapter 11 reorganization plan."
+        }
+      ],
+      "canonical_statutes": []
+    },
+    {
+      "doctrine_name": "Comparative state law on non-compete enforceability",
+      "substantive_area": "labor",
+      "description": "Enforceability of non-compete clauses varies dramatically: California, North Dakota, Oklahoma, and Minnesota broadly ban most non-competes; New York, Massachusetts and many states enforce reasonable non-competes; the FTC's 2024 non-compete rule is enjoined.",
+      "canonical_cases": [
+        {
+          "case_name": "Edwards v. Arthur Andersen LLP",
+          "citation": "44 Cal. 4th 937",
+          "year": 2008,
+          "court": "Supreme Court of California",
+          "holding": "California Business & Professions Code § 16600 voids non-compete contracts categorically; California does not recognize a narrow-restraint exception. Even tailored, reasonable post-employment non-competes are unenforceable."
+        },
+        {
+          "case_name": "BDO Seidman v. Hirshberg",
+          "citation": "93 N.Y.2d 382",
+          "year": 1999,
+          "court": "New York Court of Appeals",
+          "holding": "Under New York law, a post-employment non-compete is enforceable only if (a) reasonable in time and geographic scope, (b) no greater than required to protect a legitimate employer interest, (c) not unduly harmful to the employee, and (d) not injurious to the public."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "Cal. Bus. & Prof. Code § 16600",
+          "title": "California non-compete ban",
+          "text": "Except as provided in this chapter, every contract by which anyone is restrained from engaging in a lawful profession, trade, or business of any kind is to that extent void.",
+          "source_type": "other",
+          "title_number": null,
+          "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=16600"
+        },
+        {
+          "citation": "N.Y. Lab. Law § 5-336 (proposed, vetoed Dec 2023)",
+          "title": "New York - non-compete statutory landscape",
+          "text": "New York Governor vetoed a near-total ban on non-competes in December 2023. Under current New York common law, a post-employment non-compete is enforceable only if (a) reasonable in time and geographic scope; (b) no greater than required to protect a legitimate employer interest (trade secrets, unique services, goodwill); (c) not unduly harmful to the employee; (d) not injurious to the public. See BDO Seidman v. Hirshberg, 93 N.Y.2d 382 (1999).",
+          "source_type": "other",
+          "title_number": null,
+          "url": null
+        },
+        {
+          "citation": "FTC Non-Compete Rule (16 C.F.R. Part 910) - STATUS: VACATED",
+          "title": "FTC Non-Compete Rule - vacated 2024",
+          "text": "The FTC promulgated a final rule on April 23, 2024, set to take effect Sept. 4, 2024, banning new non-competes and most existing non-competes nationwide. The U.S. District Court for the Northern District of Texas in Ryan LLC v. FTC entered a final order on August 20, 2024 setting aside the Rule on a nationwide basis; the FTC has appealed to the Fifth Circuit. The Rule is NOT currently in effect.",
+          "source_type": "cfr",
+          "title_number": 16,
+          "url": null
+        }
+      ]
+    },
+    {
+      "doctrine_name": "Comparative anti-SLAPP statutes (Texas TCPA / California § 425.16)",
+      "substantive_area": "civil_procedure",
+      "description": "Anti-SLAPP statutes vary substantially: California § 425.16 broadly protects 'protected activity' across the board; Texas's TCPA (Ch. 27 CPRC) was narrowed in 2019; circuits also split on whether state anti-SLAPP procedure applies in federal diversity.",
+      "canonical_cases": [
+        {
+          "case_name": "Briggs v. Eden Council for Hope & Opportunity",
+          "citation": "19 Cal. 4th 1106",
+          "year": 1999,
+          "court": "Supreme Court of California",
+          "holding": "California's anti-SLAPP statute applies to all causes of action arising from acts in furtherance of constitutionally protected speech or petitioning, regardless of whether the plaintiff is a public figure or the speech is a matter of public interest."
+        },
+        {
+          "case_name": "Equilon Enterprises v. Consumer Cause, Inc.",
+          "citation": "29 Cal. 4th 53",
+          "year": 2002,
+          "court": "Supreme Court of California",
+          "holding": "Defendant invoking § 425.16 need only show the suit arises from protected activity; intent to chill speech is not a separate element."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "Cal. Code Civ. Proc. § 425.16",
+          "title": "California anti-SLAPP - special motion to strike",
+          "text": "(b)(1) A cause of action against a person arising from any act of that person in furtherance of the person's right of petition or free speech under the United States Constitution or the California Constitution in connection with a public issue shall be subject to a special motion to strike, unless the court determines that the plaintiff has established that there is a probability that the plaintiff will prevail on the claim. (e) As used in this section, 'act in furtherance of a person's right of petition or free speech under the United States or California Constitution in connection with a public issue' includes: (1) any written or oral statement or writing made before a legislative, executive, or judicial proceeding; (2) any written or oral statement or writing made in connection with an issue under consideration or review by a legislative, executive, or judicial body; (3) any written or oral statement or writing made in a place open to the public or a public forum in connection with an issue of public interest; (4) any other conduct in furtherance of the exercise of the constitutional right of petition or the constitutional right of free speech in connection with a public issue or an issue of public interest.",
+          "source_type": "other",
+          "title_number": null,
+          "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CCP&sectionNum=425.16"
+        },
+        {
+          "citation": "Tex. Civ. Prac. & Rem. Code §§ 27.001-27.011 (TCPA)",
+          "title": "Texas Citizens Participation Act - dismissal procedure",
+          "text": "(27.003)(a) If a legal action is based on or is in response to a party's exercise of the right of free speech, right to petition, or right of association, that party may file a motion to dismiss the legal action. (27.005)(b) The court shall dismiss a legal action against the moving party if the moving party demonstrates that the legal action is based on or is in response to the party's exercise of: (1) the right of free speech; (2) the right to petition; or (3) the right of association. (c) The court may not dismiss a legal action under this section if the party bringing the legal action establishes by clear and specific evidence a prima facie case for each essential element of the claim in question.",
+          "source_type": "other",
+          "title_number": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "doctrine_name": "BIPA and CUBI - biometric privacy state statutes",
+      "substantive_area": "general",
+      "description": "Illinois's Biometric Information Privacy Act creates a private right of action and statutory damages of $1,000 / $5,000 per violation; Texas's CUBI provides only state AG enforcement. The statutes differ sharply on damages, accrual, and consent mechanics.",
+      "canonical_cases": [
+        {
+          "case_name": "Rosenbach v. Six Flags Entertainment Corp.",
+          "citation": "129 N.E.3d 1197",
+          "year": 2019,
+          "court": "Supreme Court of Illinois",
+          "holding": "A BIPA plaintiff need not allege an actual injury beyond the statutory violation of the right to control biometric data; technical violations alone confer standing to sue under § 20."
+        },
+        {
+          "case_name": "Cothron v. White Castle System, Inc.",
+          "citation": "216 N.E.3d 918",
+          "year": 2023,
+          "court": "Supreme Court of Illinois",
+          "holding": "Separate claims accrue under BIPA each time a private entity scans or transmits biometric identifiers without complying with §§ 15(b) and 15(d) - opening employers to potentially massive aggregate damages."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "740 ILCS 14/15 (BIPA)",
+          "title": "Illinois BIPA - duties and prohibitions",
+          "text": "A private entity may not collect, capture, purchase, receive, or otherwise obtain a person's biometric identifier unless it first: (1) informs the subject in writing that biometric data is being collected and stored; (2) informs the subject of the specific purpose and length of term for collection and storage; and (3) receives a written release. Statutory damages: $1,000 per negligent violation, $5,000 per intentional or reckless violation, plus attorney fees.",
+          "source_type": "other",
+          "title_number": null,
+          "url": "https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=3004&ChapterID=57"
+        },
+        {
+          "citation": "740 ILCS 14/20 (BIPA - right of action)",
+          "title": "Illinois BIPA - private right of action and damages",
+          "text": "Any person aggrieved by a violation of this Act shall have a right of action in a State circuit court or as a supplemental claim in federal district court against an offending party. A prevailing party may recover for each violation: (1) against a private entity that negligently violates a provision of this Act, liquidated damages of $1,000 or actual damages, whichever is greater; (2) against a private entity that intentionally or recklessly violates a provision of this Act, liquidated damages of $5,000 or actual damages, whichever is greater; (3) reasonable attorneys' fees and costs, including expert witness fees and other litigation expenses; and (4) other relief, including an injunction, as the State or federal court may deem appropriate.",
+          "source_type": "other",
+          "title_number": null,
+          "url": "https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=3004"
+        },
+        {
+          "citation": "Tex. Bus. & Com. Code § 503.001 (CUBI)",
+          "title": "Texas Capture or Use of Biometric Identifier Act",
+          "text": "(a) In this section, 'biometric identifier' means a retina or iris scan, fingerprint, voiceprint, or record of hand or face geometry. (b) A person may not capture a biometric identifier of an individual for a commercial purpose unless the person: (1) informs the individual before capturing the biometric identifier; and (2) receives the individual's consent to capture the biometric identifier. (d) A person who possesses a biometric identifier of an individual that is captured for a commercial purpose: (1) may not sell, lease, or otherwise disclose the biometric identifier to another person unless permitted by an enumerated exception. Enforcement is by the Attorney General; civil penalty up to $25,000 per violation.",
+          "source_type": "other",
+          "title_number": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "doctrine_name": "Caremark / Marchand - director oversight liability under Delaware law",
+      "substantive_area": "general",
+      "description": "Directors of Delaware corporations face oversight liability under In re Caremark / Marchand when they utterly fail to implement reporting systems or consciously disregard known risks - particularly 'mission critical' regulatory risks.",
+      "canonical_cases": [
+        {
+          "case_name": "In re Caremark International Inc. Derivative Litigation",
+          "citation": "698 A.2d 959",
+          "year": 1996,
+          "court": "Court of Chancery of Delaware",
+          "holding": "Directors may be liable for failing to ensure that an information and reporting system exists and provides timely, accurate information for compliance and risk monitoring. Caremark liability requires showing utterly failed oversight or conscious disregard."
+        },
+        {
+          "case_name": "Stone v. Ritter",
+          "citation": "911 A.2d 362",
+          "year": 2006,
+          "court": "Supreme Court of Delaware",
+          "holding": "Caremark oversight failures sound in good faith - a director acts in bad faith only by knowing failure to discharge the duty to monitor; held that good-faith reliance on the auditor and internal compliance systems insulated the directors there."
+        },
+        {
+          "case_name": "Marchand v. Barnhill",
+          "citation": "212 A.3d 805",
+          "year": 2019,
+          "court": "Supreme Court of Delaware",
+          "holding": "Where food safety was 'mission critical' to an ice cream company, the board's failure to establish any board-level system for monitoring food safety stated a Caremark claim."
+        }
+      ],
+      "canonical_statutes": []
+    },
+    {
+      "doctrine_name": "GE Energy v. Outokumpu - non-signatory equitable estoppel under the FAA",
+      "substantive_area": "general",
+      "description": "The Federal Arbitration Act does not preempt state-law equitable-estoppel doctrines that permit non-signatories to compel arbitration; international cases under the New York Convention are not excluded.",
+      "canonical_cases": [
+        {
+          "case_name": "GE Energy Power Conversion France SAS, Corp. v. Outokumpu Stainless USA, LLC",
+          "citation": "590 U.S. 432",
+          "year": 2020,
+          "court": "Supreme Court of the United States",
+          "holding": "The New York Convention does not conflict with state-law doctrines of equitable estoppel that allow a non-signatory to compel arbitration of disputes 'arising out of' an agreement with an arbitration clause."
+        }
+      ],
+      "canonical_statutes": []
+    },
+    {
+      "doctrine_name": "Dutra Group v. Batterton - punitive damages unavailable for unseaworthiness",
+      "substantive_area": "general",
+      "description": "Punitive damages are not available for a Jones Act seaman's general-maritime unseaworthiness claim against a vessel owner.",
+      "canonical_cases": [
+        {
+          "case_name": "Dutra Group v. Batterton",
+          "citation": "588 U.S. 358",
+          "year": 2019,
+          "court": "Supreme Court of the United States",
+          "holding": "Punitive damages are unavailable for an unseaworthiness claim under general maritime law; the Court declined to expand the remedies recognized in Atlantic Sounding (which permitted punitive damages for willful denial of maintenance and cure)."
+        },
+        {
+          "case_name": "Atlantic Sounding Co. v. Townsend",
+          "citation": "557 U.S. 404",
+          "year": 2009,
+          "court": "Supreme Court of the United States",
+          "holding": "Punitive damages remain available under general maritime law for the willful and wanton failure to provide maintenance and cure to a seaman."
+        }
+      ],
+      "canonical_statutes": []
+    },
+    {
+      "doctrine_name": "ITC § 337 - patent enforcement and exclusion orders",
+      "substantive_area": "general",
+      "description": "Section 337 of the Tariff Act of 1930 (19 U.S.C. § 1337) authorizes the International Trade Commission to investigate and bar imports that infringe U.S. patents, copyrights, trademarks, or trade secrets; the ITC's in rem exclusion orders are independent of district-court remedies.",
+      "canonical_cases": [
+        {
+          "case_name": "Suprema, Inc. v. International Trade Commission",
+          "citation": "796 F.3d 1338",
+          "year": 2015,
+          "court": "Court of Appeals for the Federal Circuit",
+          "holding": "En banc Federal Circuit held that the ITC may bar imports under § 337 based on induced infringement of method claims even if direct infringement occurs only after importation."
+        },
+        {
+          "case_name": "Spansion, Inc. v. International Trade Commission",
+          "citation": "629 F.3d 1331",
+          "year": 2010,
+          "court": "Court of Appeals for the Federal Circuit",
+          "holding": "Once a § 337 violation is established, exclusion orders issue as a matter of course; the public-interest factors limiting exclusion are rarely dispositive."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "19 U.S.C. § 1337",
+          "title": "Tariff Act § 337 - unfair practices in import trade",
+          "text": "(a)(1) The following are declared unlawful, and when found by the Commission to exist shall be dealt with, in addition to any other provision of law, as provided in this section: (B) The importation into the United States, the sale for importation, or the sale within the United States after importation of articles that (i) infringe a valid and enforceable United States patent or a valid and enforceable United States copyright registered under title 17 ...",
+          "source_type": "usc",
+          "title_number": 19,
+          "url": "https://www.law.cornell.edu/uscode/text/19/1337"
+        }
+      ]
+    },
+    {
+      "doctrine_name": "EEOC filing deadline (300/180 days) - National R.R. v. Morgan continuing violations",
+      "substantive_area": "civil_rights",
+      "description": "Discrete discriminatory or retaliatory acts under Title VII must be filed with the EEOC within 300 days (in deferral states) or 180 days; hostile-work-environment claims accrue under the continuing-violations doctrine.",
+      "canonical_cases": [
+        {
+          "case_name": "National Railroad Passenger Corp. v. Morgan",
+          "citation": "536 U.S. 101",
+          "year": 2002,
+          "court": "Supreme Court of the United States",
+          "holding": "Discrete acts (termination, failure to promote, denial of transfer) are independent unlawful employment practices each of which must be timely charged. Hostile-work-environment claims may include conduct outside the limitations window if at least one act contributing to the claim falls within the window."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "42 U.S.C. § 2000e-5(e)(1)",
+          "title": "Title VII - EEOC filing deadline",
+          "text": "A charge under this section shall be filed within one hundred and eighty days after the alleged unlawful employment practice occurred ... except that in a case of an unlawful employment practice with respect to which the person aggrieved has initially instituted proceedings with a State or local agency with authority to grant or seek relief from such practice ... such charge shall be filed by or on behalf of the person aggrieved within three hundred days after the alleged unlawful employment practice occurred.",
+          "source_type": "usc",
+          "title_number": 42,
+          "url": "https://www.law.cornell.edu/uscode/text/42/2000e-5"
+        }
+      ]
+    },
+    {
+      "doctrine_name": "FRE 702 - December 2023 amendment and Daubert/Kumho",
+      "substantive_area": "evidence",
+      "description": "Rule 702 as amended effective December 1, 2023 makes explicit that the proponent must establish admissibility by a preponderance of the evidence and that the expert's opinion must reflect a reliable application of methods to facts. The amendment confirms (but does not change) the gatekeeping function under Daubert / Kumho Tire.",
+      "canonical_cases": [
+        {
+          "case_name": "Daubert v. Merrell Dow Pharmaceuticals, Inc.",
+          "citation": "509 U.S. 579",
+          "year": 1993,
+          "court": "Supreme Court of the United States",
+          "holding": "Federal Rule of Evidence 702 displaced the Frye 'general acceptance' test; judges serve as gatekeepers to ensure expert testimony rests on a reliable foundation and is relevant to the task."
+        },
+        {
+          "case_name": "Kumho Tire Co. v. Carmichael",
+          "citation": "526 U.S. 137",
+          "year": 1999,
+          "court": "Supreme Court of the United States",
+          "holding": "Daubert's gatekeeping obligation applies to ALL expert testimony, not just scientific testimony; the trial court has broad latitude in deciding how to assess reliability of technical and other specialized expertise."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "Fed. R. Evid. 702 (amended Dec. 1, 2023)",
+          "title": "Testimony by expert witnesses (post-2023)",
+          "text": "A witness who is qualified as an expert by knowledge, skill, experience, training, or education may testify in the form of an opinion or otherwise if the proponent demonstrates to the court that it is more likely than not that: (a) the expert's scientific, technical, or other specialized knowledge will help the trier of fact to understand the evidence or to determine a fact in issue; (b) the testimony is based on sufficient facts or data; (c) the testimony is the product of reliable principles and methods; and (d) the expert's opinion reflects a reliable application of the principles and methods to the facts of the case.",
+          "source_type": "other",
+          "title_number": null,
+          "url": "https://www.law.cornell.edu/rules/fre/rule_702"
+        }
+      ]
+    },
+    {
+      "doctrine_name": "Equal Protection in race-conscious admissions (post-SFFA)",
+      "substantive_area": "constitutional",
+      "description": "After Students for Fair Admissions v. Harvard (2023), race-based admissions programs face strict scrutiny that the prior Grutter framework no longer survives; most race-conscious admissions are unconstitutional.",
+      "canonical_cases": [
+        {
+          "case_name": "Students for Fair Admissions, Inc. v. President & Fellows of Harvard College",
+          "citation": "600 U.S. 181",
+          "year": 2023,
+          "court": "Supreme Court of the United States",
+          "holding": "Race-based admissions programs at Harvard and UNC violate the Equal Protection Clause and Title VI; Grutter's permissive framework is effectively overruled. Race may be considered only as it relates to an applicant's individual experiences, never as a numerical 'plus' or category."
+        },
+        {
+          "case_name": "Parents Involved in Community Schools v. Seattle School District No. 1",
+          "citation": "551 U.S. 701",
+          "year": 2007,
+          "court": "Supreme Court of the United States",
+          "holding": "K-12 race-based assignment plans intended to maintain racial balance fail strict scrutiny; achieving diversity for its own sake is not a compelling interest in K-12, and individualized consideration is required."
+        },
+        {
+          "case_name": "Grutter v. Bollinger",
+          "citation": "539 U.S. 306",
+          "year": 2003,
+          "court": "Supreme Court of the United States",
+          "holding": "Historical context (effectively overruled by SFFA): held that universities could consider race as one factor in admissions to achieve the educational benefits of diversity."
+        },
+        {
+          "case_name": "Adarand Constructors, Inc. v. Peña",
+          "citation": "515 U.S. 200",
+          "year": 1995,
+          "court": "Supreme Court of the United States",
+          "holding": "Race-based classifications by any level of government (federal or state) are subject to strict scrutiny; the same standard applies regardless of the racial group benefited or burdened."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "U.S. Const. amend. XIV, § 1 (Equal Protection Clause)",
+          "title": "Fourteenth Amendment - Equal Protection (race classifications)",
+          "text": "No State shall ... deny to any person within its jurisdiction the equal protection of the laws. Race-based classifications by government are presumptively unconstitutional and survive only if narrowly tailored to a compelling governmental interest.",
+          "source_type": "other",
+          "title_number": null,
+          "url": "https://www.law.cornell.edu/constitution/amendmentxiv"
+        }
+      ]
+    },
+    {
+      "doctrine_name": "Fourth Amendment in digital surveillance - Carpenter / Smith / Riley",
+      "substantive_area": "criminal",
+      "description": "Carpenter v. United States held that long-term cell-site location records require a warrant; subsequent geofence-warrant cases (US v. Smith 5th Cir.; US v. Chatrie 4th Cir., 2024) divide on third-party-doctrine reach in the digital era.",
+      "canonical_cases": [
+        {
+          "case_name": "Carpenter v. United States",
+          "citation": "585 U.S. 296",
+          "year": 2018,
+          "court": "Supreme Court of the United States",
+          "holding": "The government's acquisition of seven days of historical cell-site location information (CSLI) constitutes a search under the Fourth Amendment and generally requires a warrant supported by probable cause. The third-party doctrine does not extend to the comprehensive chronicle of a person's movements revealed by CSLI."
+        },
+        {
+          "case_name": "Riley v. California",
+          "citation": "573 U.S. 373",
+          "year": 2014,
+          "court": "Supreme Court of the United States",
+          "holding": "Police generally may not, without a warrant, search digital information on a cell phone seized incident to arrest; the digital privacy stakes are too high to treat phones like cigarette packs."
+        },
+        {
+          "case_name": "Smith v. Maryland",
+          "citation": "442 U.S. 735",
+          "year": 1979,
+          "court": "Supreme Court of the United States",
+          "holding": "Historical context: established the third-party doctrine - there is no reasonable expectation of privacy in numbers dialed and conveyed to the phone company. Carpenter limits but does not overrule Smith."
+        },
+        {
+          "case_name": "United States v. Chatrie",
+          "citation": "107 F.4th 319",
+          "year": 2024,
+          "court": "Court of Appeals for the Fourth Circuit",
+          "holding": "Held that a Google geofence warrant for a 30-minute window in a bank-robbery investigation did not violate the Fourth Amendment because the defendant lacked a reasonable expectation of privacy in the Google Location History data revealed."
+        },
+        {
+          "case_name": "United States v. Smith",
+          "citation": "110 F.4th 817",
+          "year": 2024,
+          "court": "Court of Appeals for the Fifth Circuit",
+          "holding": "The Fifth Circuit reached the opposite conclusion from the Fourth Circuit in Chatrie: a geofence warrant directed at Google's Location History database is a general search that lacks particularity and probable cause, violating the Fourth Amendment. Defendants had a reasonable expectation of privacy in their LH data."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "U.S. Const. amend. IV",
+          "title": "Fourth Amendment",
+          "text": "The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.",
+          "source_type": "other",
+          "title_number": null,
+          "url": "https://www.law.cornell.edu/constitution/fourth_amendment"
+        },
+        {
+          "citation": "18 U.S.C. § 2703(d) (Stored Communications Act)",
+          "title": "Stored Communications Act - disclosure of CSLI",
+          "text": "A court order for disclosure under subsection (b) or (c) may be issued by any court that is a court of competent jurisdiction and shall issue only if the governmental entity offers specific and articulable facts showing that there are reasonable grounds to believe that the contents of a wire or electronic communication, or the records or other information sought, are relevant and material to an ongoing criminal investigation.",
+          "source_type": "usc",
+          "title_number": 18,
+          "url": "https://www.law.cornell.edu/uscode/text/18/2703"
+        }
+      ]
+    },
+    {
+      "doctrine_name": "Cancellation of removal under INA § 240A - Wilkinson v. Garland",
+      "substantive_area": "immigration",
+      "description": "Nonpermanent residents may obtain cancellation of removal under INA § 240A(b)(1) by showing 10 years' physical presence, good moral character, no disqualifying convictions, and 'exceptional and extremely unusual hardship' to a qualifying U.S. citizen or LPR relative. Wilkinson v. Garland (2024) makes the BIA's hardship determination judicially reviewable.",
+      "canonical_cases": [
+        {
+          "case_name": "Wilkinson v. Garland",
+          "citation": "601 U.S. 209",
+          "year": 2024,
+          "court": "Supreme Court of the United States",
+          "holding": "The 'exceptional and extremely unusual hardship' determination under INA § 240A(b)(1)(D) is a mixed question of law and fact, and federal courts have jurisdiction to review it under 8 U.S.C. § 1252(a)(2)(D); Patel v. Garland's bar on review extends only to predicate facts, not the application of the hardship standard."
+        },
+        {
+          "case_name": "Matter of Monreal-Aguinaga",
+          "citation": "23 I&N Dec. 56",
+          "year": 2001,
+          "court": "Board of Immigration Appeals",
+          "holding": "Established the 'exceptional and extremely unusual hardship' standard for cancellation: hardship must be substantially beyond the ordinary hardship that would result from a qualifying relative's removal."
+        },
+        {
+          "case_name": "Matter of Recinas",
+          "citation": "23 I&N Dec. 467",
+          "year": 2002,
+          "court": "Board of Immigration Appeals",
+          "holding": "Refined the hardship standard, recognizing that a single mother with multiple U.S.-citizen children and no realistic ability to relocate them to Mexico had shown exceptional and extremely unusual hardship."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "8 U.S.C. § 1229b(b)(1) (INA § 240A(b)(1))",
+          "title": "Cancellation of removal - nonpermanent residents",
+          "text": "The Attorney General may cancel removal of, and adjust to the status of an alien lawfully admitted for permanent residence, an alien who is inadmissible or deportable from the United States if the alien - (A) has been physically present in the United States for a continuous period of not less than 10 years immediately preceding the date of such application; (B) has been a person of good moral character during such period; (C) has not been convicted of an offense under section 1182(a)(2), 1227(a)(2), or 1227(a)(3) of this title; and (D) establishes that removal would result in exceptional and extremely unusual hardship to the alien's spouse, parent, or child, who is a citizen of the United States or an alien lawfully admitted for permanent residence.",
+          "source_type": "usc",
+          "title_number": 8,
+          "url": "https://www.law.cornell.edu/uscode/text/8/1229b"
+        }
+      ]
+    },
+    {
+      "doctrine_name": "Waiver of fiduciary duties in Delaware LLCs (6 Del. C. § 18-1101)",
+      "substantive_area": "general",
+      "description": "Delaware permits LLC operating agreements to expand, restrict, or eliminate fiduciary duties, provided the implied contractual covenant of good faith and fair dealing is preserved (§ 18-1101(c)). The implied covenant itself may not be waived.",
+      "canonical_cases": [
+        {
+          "case_name": "Manti Holdings, LLC v. Authentix Acquisition Co.",
+          "citation": "261 A.3d 1199",
+          "year": 2021,
+          "court": "Supreme Court of Delaware",
+          "holding": "Sophisticated parties to a Delaware LLC agreement may by clear contractual language waive even statutory appraisal rights; freedom of contract is a paramount principle under the DLLC Act, but waivers must be clear and unambiguous."
+        },
+        {
+          "case_name": "Wood v. U.S. Bank National Ass'n",
+          "citation": "246 A.3d 141",
+          "year": 2021,
+          "court": "Court of Chancery of Delaware",
+          "holding": "Confirmed that under § 18-1101(c), LLC agreements may eliminate fiduciary duties so long as the implied covenant of good faith and fair dealing remains; Court of Chancery enforces explicit waivers consistent with statute."
+        },
+        {
+          "case_name": "Miller v. HCP Trumpet Investments, LLC",
+          "citation": "194 A.3d 908",
+          "year": 2018,
+          "court": "Supreme Court of Delaware",
+          "holding": "Implied covenant of good faith and fair dealing cannot be waived in an LLC agreement; it operates as a gap-filler when the contract is silent, and parties may not contract around it."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "6 Del. C. § 18-1101(c)",
+          "title": "DLLC Act - fiduciary duties may be expanded or restricted",
+          "text": "To the extent that, at law or in equity, a member or manager or other person has duties (including fiduciary duties) to a limited liability company or to another member or manager or to another person that is a party to or is otherwise bound by a limited liability company agreement, the member's or manager's or other person's duties may be expanded or restricted or eliminated by provisions in the limited liability company agreement; provided, that the limited liability company agreement may not eliminate the implied contractual covenant of good faith and fair dealing.",
+          "source_type": "other",
+          "title_number": null,
+          "url": "https://delcode.delaware.gov/title6/c018/sc11/index.html"
+        }
+      ]
+    },
+    {
+      "doctrine_name": "Chapter 11 plan releases - 11 U.S.C. § 1123(b)(6) + Harrington v. Purdue",
+      "substantive_area": "bankruptcy",
+      "description": "Chapter 11 plans may include 'any other appropriate provision not inconsistent with the applicable provisions of this title' under § 1123(b)(6), but Harrington v. Purdue (2024) confirms this catchall cannot authorize non-consensual third-party (non-debtor) releases.",
+      "canonical_cases": [
+        {
+          "case_name": "Harrington v. Purdue Pharma L.P.",
+          "citation": "603 U.S. 204",
+          "year": 2024,
+          "court": "Supreme Court of the United States",
+          "holding": "The Bankruptcy Code does not authorize non-consensual releases of third-party claims against non-debtors as part of a Chapter 11 plan; § 1123(b)(6)'s catchall does not stretch that far."
+        },
+        {
+          "case_name": "In re Metromedia Fiber Network, Inc.",
+          "citation": "416 F.3d 136",
+          "year": 2005,
+          "court": "Court of Appeals for the Second Circuit",
+          "holding": "Pre-Harrington Second Circuit framework for non-debtor releases: permitted only in 'rare cases' supported by specific factors. Harrington largely supersedes this for non-consensual releases."
+        },
+        {
+          "case_name": "In re Continental Airlines",
+          "citation": "203 F.3d 203",
+          "year": 2000,
+          "court": "Court of Appeals for the Third Circuit",
+          "holding": "Pre-Harrington Third Circuit position: rejected non-consensual third-party releases absent extraordinary circumstances. Harrington adopts a near-categorical bar in line with this view."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "11 U.S.C. § 1123(b)(6)",
+          "title": "Catchall - contents of a Chapter 11 plan",
+          "text": "Subject to subsection (a) of this section, a plan may - (6) include any other appropriate provision not inconsistent with the applicable provisions of this title.",
+          "source_type": "usc",
+          "title_number": 11,
+          "url": "https://www.law.cornell.edu/uscode/text/11/1123"
+        },
+        {
+          "citation": "11 U.S.C. § 524(e)",
+          "title": "Bankruptcy discharge - effect on non-debtors",
+          "text": "Except as provided in subsection (a)(3) of this section, discharge of a debt of the debtor does not affect the liability of any other entity on, or the property of any other entity for, such debt.",
+          "source_type": "usc",
+          "title_number": 11,
+          "url": "https://www.law.cornell.edu/uscode/text/11/524"
+        }
+      ]
+    },
+    {
+      "doctrine_name": "State-law execution of wills (Florida v. New York)",
+      "substantive_area": "general",
+      "description": "State will-execution formalities vary: Florida (Fla. Stat. § 732.502) requires two witnesses present at signing; New York (N.Y. EPTL § 3-2.1) similarly requires two witnesses, but with different attestation mechanics; New York also recognizes very narrow holographic-will exceptions under § 3-2.2.",
+      "canonical_cases": [
+        {
+          "case_name": "In re Estate of Wiltbank",
+          "citation": "986 So. 2d 1289",
+          "year": 2008,
+          "court": "District Court of Appeal of Florida, Fourth District",
+          "holding": "Florida strictly enforces § 732.502 will-formality requirements; substantial compliance is insufficient if the statutory witness-presence requirement is not satisfied."
+        }
+      ],
+      "canonical_statutes": [
+        {
+          "citation": "Fla. Stat. § 732.502",
+          "title": "Florida - execution of wills",
+          "text": "Every will must be in writing and executed as follows: (1) Testator's signature.-(a) The testator must sign the will at the end; or the testator's name must be subscribed at the end of the will by some other person in the testator's presence and by the testator's direction. (b) The signing must be: 1. In the presence of at least two attesting witnesses. (2) Witnesses.-Any witness must sign the will in the presence of the testator and in the presence of each other.",
+          "source_type": "other",
+          "title_number": null,
+          "url": null
+        },
+        {
+          "citation": "N.Y. EPTL § 3-2.1",
+          "title": "New York - execution and attestation of wills",
+          "text": "Except for nuncupative and holographic wills authorized by 3-2.2, every will must be in writing, and executed and attested in the following manner: (1) The will must be signed at the end by the testator or, in the name of the testator, by another person in his presence and by his direction. (2) The signature of the testator shall be affixed to the will in the presence of each of the attesting witnesses, or shall be acknowledged by the testator to each of them. There shall be at least two attesting witnesses, who shall, within one 30 day period, both attest the testator's signature and sign their names and addresses at the end of the will.",
+          "source_type": "other",
+          "title_number": null,
+          "url": null
+        },
+        {
+          "citation": "N.Y. EPTL § 3-2.2",
+          "title": "New York - nuncupative and holographic wills",
+          "text": "(a) For the purposes of this section, (1) A nuncupative will is one which is unwritten, and the making thereof by the testator and its provisions are clearly established by at least two witnesses. (2) A holographic will is one which is written entirely in the handwriting of the testator, and is not executed and attested in accordance with the formalities prescribed by 3-2.1. (b) A nuncupative or holographic will is valid only if made by: (1) A member of the armed forces of the United States while in actual military or naval service during a war or other armed conflict.",
+          "source_type": "other",
+          "title_number": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "doctrine_name": "Business judgment rule (Delaware)",
+      "substantive_area": "general",
+      "description": "The business judgment rule: a rebuttable presumption that Delaware corporate directors, in making a business decision, acted on an informed basis, in good faith, and in the honest belief the action was in the corporation's best interest; rebutted by gross negligence, bad faith, or a disabling conflict of interest.",
+      "canonical_cases": [
+        {
+          "case_name": "Aronson v. Lewis",
+          "citation": "473 A.2d 805",
+          "year": 1984,
+          "court": "Supreme Court of Delaware",
+          "holding": "The business judgment rule is a presumption that in making a business decision the directors of a corporation acted on an informed basis, in good faith, and in the honest belief that the action taken was in the best interests of the company. Absent an abuse of discretion, that judgment will be respected by the courts."
+        },
+        {
+          "case_name": "Smith v. Van Gorkom",
+          "citation": "488 A.2d 858",
+          "year": 1985,
+          "court": "Supreme Court of Delaware",
+          "holding": "To invoke the business judgment rule's protection directors must inform themselves, prior to making a business decision, of all material information reasonably available to them; the presumption is rebutted by gross negligence, including a failure to be adequately informed."
+        }
+      ],
+      "canonical_statutes": []
+    },
+    {
+      "doctrine_name": "Defamation and the actual-malice standard",
+      "substantive_area": "constitutional",
+      "description": "The constitutional fault standard for defamation of public officials and public figures: knowledge of falsity or reckless disregard for the truth (actual malice).",
+      "canonical_cases": [
+        {
+          "case_name": "New York Times Co. v. Sullivan",
+          "citation": "376 U.S. 254",
+          "year": 1964,
+          "court": "Supreme Court of the United States",
+          "holding": "A public official may not recover for a defamatory falsehood relating to official conduct unless he proves the statement was made with 'actual malice' - with knowledge that it was false or with reckless disregard of whether it was false or not."
+        },
+        {
+          "case_name": "Gertz v. Robert Welch, Inc.",
+          "citation": "418 U.S. 323",
+          "year": 1974,
+          "court": "Supreme Court of the United States",
+          "holding": "A private figure need only show fault (at least negligence), not actual malice, to recover actual damages for defamation; states may not impose liability without fault."
+        }
+      ],
+      "canonical_statutes": []
+    },
+    {
+      "doctrine_name": "Sixth Amendment right to appointed counsel",
+      "substantive_area": "criminal",
+      "description": "The Sixth Amendment right to counsel is fundamental and obligatory on the states; indigent defendants charged with serious crimes are entitled to appointed counsel.",
+      "canonical_cases": [
+        {
+          "case_name": "Gideon v. Wainwright",
+          "citation": "372 U.S. 335",
+          "year": 1963,
+          "court": "Supreme Court of the United States",
+          "holding": "The Sixth Amendment's guarantee of counsel is a fundamental right made obligatory on the states by the Fourteenth Amendment; a state must provide counsel to an indigent defendant charged with a serious offense who cannot afford a lawyer."
+        }
+      ],
+      "canonical_statutes": []
+    },
+    {
+      "doctrine_name": "Judicial review (Marbury v. Madison)",
+      "substantive_area": "constitutional",
+      "description": "The power of the federal courts to review acts of Congress and the executive and to declare void those repugnant to the Constitution.",
+      "canonical_cases": [
+        {
+          "case_name": "Marbury v. Madison",
+          "citation": "5 U.S. (1 Cranch) 137",
+          "year": 1803,
+          "court": "Supreme Court of the United States",
+          "holding": "It is emphatically the province and duty of the judicial department to say what the law is; a legislative act repugnant to the Constitution is void, and courts must not give it effect. This established judicial review."
+        }
+      ],
+      "canonical_statutes": []
+    },
+    {
+      "doctrine_name": "Selective incorporation (Fourteenth Amendment)",
+      "substantive_area": "constitutional",
+      "description": "The doctrine by which most Bill of Rights guarantees are applied to the states through the Fourteenth Amendment's Due Process Clause.",
+      "canonical_cases": [
+        {
+          "case_name": "McDonald v. City of Chicago",
+          "citation": "561 U.S. 742",
+          "year": 2010,
+          "court": "Supreme Court of the United States",
+          "holding": "The Second Amendment right to keep and bear arms recognized in Heller is fully applicable to the states through the Fourteenth Amendment's Due Process Clause; most Bill of Rights guarantees are selectively incorporated against the states."
+        }
+      ],
+      "canonical_statutes": []
+    },
+    {
+      "doctrine_name": "Eighth Amendment limit on felony-murder death penalty",
+      "substantive_area": "criminal",
+      "description": "Eighth Amendment limits on capital punishment for a felony-murder participant who did not kill, attempt to kill, or intend a killing.",
+      "canonical_cases": [
+        {
+          "case_name": "Enmund v. Florida",
+          "citation": "458 U.S. 782",
+          "year": 1982,
+          "court": "Supreme Court of the United States",
+          "holding": "The Eighth Amendment forbids the death penalty for a defendant who aids and abets a felony in which a murder is committed by others but who does not himself kill, attempt to kill, or intend that a killing take place or that lethal force be used."
+        },
+        {
+          "case_name": "Tison v. Arizona",
+          "citation": "481 U.S. 137",
+          "year": 1987,
+          "court": "Supreme Court of the United States",
+          "holding": "The death penalty may be imposed on a felony-murder participant who was a major participant in the underlying felony and acted with reckless indifference to human life, even absent an intent to kill."
+        }
+      ],
+      "canonical_statutes": []
+    },
+    {
+      "doctrine_name": "Incitement (Brandenburg v. Ohio)",
+      "substantive_area": "constitutional",
+      "description": "The First Amendment standard for punishing advocacy of force or law violation: directed to inciting imminent lawless action and likely to produce it.",
+      "canonical_cases": [
+        {
+          "case_name": "Brandenburg v. Ohio",
+          "citation": "395 U.S. 444",
+          "year": 1969,
+          "court": "Supreme Court of the United States",
+          "holding": "The government may not forbid advocacy of the use of force or of law violation except where such advocacy is directed to inciting or producing imminent lawless action and is likely to incite or produce such action."
+        }
+      ],
+      "canonical_statutes": []
+    },
+    {
+      "doctrine_name": "Probable cause - totality of the circumstances",
+      "substantive_area": "criminal",
+      "description": "The totality-of-the-circumstances test for probable cause supporting warrants and warrantless arrests.",
+      "canonical_cases": [
+        {
+          "case_name": "Illinois v. Gates",
+          "citation": "462 U.S. 213",
+          "year": 1983,
+          "court": "Supreme Court of the United States",
+          "holding": "Probable cause is assessed under a practical, common-sense totality-of-the-circumstances test, replacing the rigid two-pronged Aguilar-Spinelli test for evaluating an informant's tip."
+        }
+      ],
+      "canonical_statutes": []
+    },
+    {
+      "doctrine_name": "Consideration - forbearance of a legal right",
+      "substantive_area": "general",
+      "description": "Forbearance from exercising a legal right, at the promisor's request, is valid consideration even without economic benefit to the promisor.",
+      "canonical_cases": [
+        {
+          "case_name": "Hamer v. Sidway",
+          "citation": "124 N.Y. 538",
+          "year": 1891,
+          "court": "Court of Appeals of New York",
+          "holding": "Forbearance - a nephew giving up drinking, smoking, swearing, and gambling at his uncle's request - is valid consideration; the promisee's abandonment of a legal right is sufficient to support the promise even though the promisor received no economic benefit."
+        }
+      ],
+      "canonical_statutes": []
+    },
+    {
+      "doctrine_name": "Implied warranty of habitability (residential leases)",
+      "substantive_area": "general",
+      "description": "A residential lease carries an implied warranty of habitability, measured by the housing code, on which the tenant's duty to pay rent depends.",
+      "canonical_cases": [
+        {
+          "case_name": "Javins v. First National Realty Corp.",
+          "citation": "428 F.2d 1071",
+          "year": 1970,
+          "court": "United States Court of Appeals for the District of Columbia Circuit",
+          "holding": "A warranty of habitability, measured by the standards of the housing code, is implied by operation of law into residential leases; the tenant's obligation to pay rent is dependent on the landlord's performance of that warranty, so breach may be raised as a defense to eviction for nonpayment."
+        }
+      ],
+      "canonical_statutes": []
+    },
+    {
+      "doctrine_name": "Burden of proof for affirmative defenses",
+      "substantive_area": "criminal",
+      "description": "A state may constitutionally require a defendant to prove an affirmative defense so long as the prosecution still proves every element of the offense beyond a reasonable doubt.",
+      "canonical_cases": [
+        {
+          "case_name": "Patterson v. New York",
+          "citation": "432 U.S. 197",
+          "year": 1977,
+          "court": "Supreme Court of the United States",
+          "holding": "A state may place on the defendant the burden of proving an affirmative defense (there, extreme emotional disturbance) by a preponderance of the evidence without violating due process, so long as it does not shift or relieve the prosecution's burden to prove each element of the crime beyond a reasonable doubt."
+        }
+      ],
+      "canonical_statutes": []
+    },
+    {
+      "doctrine_name": "Corporate attorney-client privilege (Upjohn)",
+      "substantive_area": "evidence",
+      "description": "The scope of the corporate attorney-client privilege; rejection of the narrow control-group test.",
+      "canonical_cases": [
+        {
+          "case_name": "Upjohn Co. v. United States",
+          "citation": "449 U.S. 383",
+          "year": 1981,
+          "court": "Supreme Court of the United States",
+          "holding": "The corporate attorney-client privilege is not limited to a 'control group' of senior management; it protects communications between counsel and employees at any level made, at the direction of superiors, to secure legal advice for the corporation."
+        }
+      ],
+      "canonical_statutes": []
+    },
+    {
+      "doctrine_name": "Negligence per se (statutory standard of care)",
+      "substantive_area": "general",
+      "description": "An unexcused violation of a statute enacted to protect a class of persons from a type of harm is negligence in itself.",
+      "canonical_cases": [
+        {
+          "case_name": "Martin v. Herzog",
+          "citation": "228 N.Y. 164",
+          "year": 1920,
+          "court": "Court of Appeals of New York",
+          "holding": "The unexcused omission of a statutory duty (there, driving without lights) is negligence in itself; jurors are not free to treat the disregard of a safety statute enacted for the protection of others as immaterial."
+        }
+      ],
+      "canonical_statutes": []
+    }
+  ]
+}

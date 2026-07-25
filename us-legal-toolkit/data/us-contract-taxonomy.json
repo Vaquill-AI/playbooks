@@ -1,0 +1,51 @@
+{
+  "_note": "Enumerated taxonomy labels for US contract and compliance work. Values are stable machine-readable slugs suitable for dropdowns, validation, or routing.",
+  "contract_types": [
+    "saas", "professional_services", "msa", "sow", "consulting", "license",
+    "sale", "partnership", "procurement", "vendor_agreement",
+    "reseller_distribution", "supply", "lease", "loan", "eula",
+    "terms_of_service", "baa", "order_form", "nda", "dpa", "ip_assignment",
+    "employment", "executive_employment", "independent_contractor",
+    "offer_letter", "severance_agreement", "non_compete", "asset_purchase",
+    "stock_purchase", "merger_agreement", "shareholders_agreement",
+    "operating_agreement", "safe", "term_sheet", "settlement_agreement",
+    "engagement_letter", "protective_order", "joint_defense", "other"
+  ],
+  "user_sides": [
+    "vendor", "customer", "licensor", "licensee", "partner", "supplier",
+    "reseller", "employer", "employee", "buyer", "seller", "company",
+    "investor", "lender", "borrower", "disclosing_party", "receiving_party",
+    "plaintiff", "defendant", "other"
+  ],
+  "clause_types": [
+    "limitation_of_liability", "indemnification", "termination",
+    "confidentiality", "non_compete", "non_solicitation",
+    "intellectual_property", "force_majeure", "dispute_resolution",
+    "governing_law", "assignment", "amendment", "severability", "waiver",
+    "notices", "entire_agreement", "survival", "representations_warranties",
+    "payment_terms", "insurance", "data_protection", "audit_rights",
+    "subcontracting", "sla", "change_of_control", "most_favoured_nation",
+    "exclusivity", "liquidated_damages", "escrow", "anti_corruption",
+    "export_control", "publicity", "residuals", "order_of_precedence",
+    "ai_training_data", "ai_output_ownership", "settlement_terms",
+    "release_of_claims", "non_disparagement", "definitions", "preamble",
+    "recitals", "signature_block", "custom"
+  ],
+  "response_categories": [
+    "data_subject_request", "privacy_inquiry", "discovery_hold", "subpoena",
+    "meet_and_confer", "document_production", "cease_desist_response",
+    "regulatory_inquiry", "audit_request", "vendor_question", "nda_request",
+    "payment_dispute", "security_questionnaire", "contract_amendment",
+    "employment_verification", "accommodation_request", "insurance"
+  ],
+  "regulation_types": [
+    "gdpr", "ccpa", "dpdp", "uk_gdpr", "lgpd", "ferpa", "hipaa", "glba",
+    "tcpa", "sox", "pci_dss", "dora", "nis2", "soc2", "other"
+  ],
+  "document_categories": [
+    "dpa", "privacy_policy", "terms_of_service", "data_breach_plan",
+    "consent_form", "dsr_process", "vendor_agreement",
+    "information_security_policy", "incident_response_plan", "financial_report",
+    "ict_risk_policy", "business_continuity_plan", "other"
+  ]
+}

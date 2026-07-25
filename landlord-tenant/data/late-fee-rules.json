@@ -1,0 +1,74 @@
+{
+  "_table": "Late fee rules (states that statutorily regulate)",
+  "_key": "2-letter USPS state code",
+  "_note": "Absent states have no statutory cap; a common-law reasonableness rule applies. rule carries the citation inline.",
+  "_last_reviewed": "2026-05",
+  "_notice": "General reference, not legal advice. Statutes change and vary by jurisdiction; verify every figure against the current official state code before relying on it. Last reviewed 2026-05.",
+  "_entries": 22,
+  "CA": {
+    "rule": "Cal. Civ. Code § 1671(d) (liquidated-damages reasonableness rule: late fee must approximate the landlord's anticipated harm, per Orozco v. Casimiro, 212 Cal. App. 4th Supp. 7 (2010)); no statutory cap; local ordinances may cap"
+  },
+  "CO": {
+    "rule": "Colo. Rev. Stat. § 38-12-105: cap at the greater of $50 or 5% of past-due rent; 7-day grace; one late fee per late payment"
+  },
+  "CT": {
+    "rule": "Conn. Gen. Stat. § 47a-15a(b) (P.A. 23-207, eff. 2023-10-01): cap at the lesser of $5/day up to $50, or 5% of the delinquent rent; only after a 9-day grace period"
+  },
+  "DC": {
+    "rule": "D.C. Code § 42-3505.31: cap at 5% of monthly rent; charged once per late month"
+  },
+  "DE": {
+    "rule": "Del. Code tit. 25 § 5501(d): cap at 5%; charged only after rent is 5 days late"
+  },
+  "HI": {
+    "rule": "Haw. Rev. Stat. § 521-21(f): cap at 8% of the rent due"
+  },
+  "IA": {
+    "rule": "Iowa Code § 562A.9(4): cap at $12/day if rent <= $700/month or $20/day if rent > $700; not to exceed $60/$100 in a month"
+  },
+  "MA": {
+    "rule": "M.G.L. ch. 186 § 15B(1)(c): no late fee permitted unless rent is 30+ days late"
+  },
+  "MD": {
+    "rule": "Md. Code, Real Prop. § 8-208(d)(3): cap at 5% of rent due"
+  },
+  "ME": {
+    "rule": "14 M.R.S. § 6028: cap at 4% of one month's rent; 15-day grace period required"
+  },
+  "MN": {
+    "rule": "Minn. Stat. § 504B.177: cap at 8% of overdue rent"
+  },
+  "NC": {
+    "rule": "N.C.G.S. § 42-46: cap at greater of $15 or 5% of monthly rent"
+  },
+  "NJ": {
+    "rule": "N.J.S.A. 2A:42-6.1: senior tenants (62+) entitled to 5-day grace period; landlord may not charge late fee before grace expires"
+  },
+  "NM": {
+    "rule": "N.M.S.A. § 47-8-15(D): cap at 5% of rent (reduced from 10% by SB 267, eff. 2025-06-20; calculated on rent only, excluding deposits/fees/utilities)"
+  },
+  "NV": {
+    "rule": "NRS § 118A.210(4): cap at 5% of the periodic rent; no fee until rent is 3 days late"
+  },
+  "NY": {
+    "rule": "N.Y. Real Prop. Law § 238-a(2): cap at the lesser of $50 or 5% of monthly rent; no fee until rent is 5 days late"
+  },
+  "OR": {
+    "rule": "ORS 90.260: reasonable late fee permitted after 4-day grace period; specific caps based on flat-fee or daily-fee structure"
+  },
+  "TN": {
+    "rule": "Tenn. Code § 66-28-201(d): cap at 10% of overdue rent (URLTA counties)"
+  },
+  "TX": {
+    "rule": "Tex. Prop. Code § 92.019: reasonable; presumed reasonable if not more than 12% (<=4 units) or 10% (>4 units) of monthly rent; charged only after 2-day grace"
+  },
+  "UT": {
+    "rule": "Utah Code § 57-22-4: cap at the greater of 10% of rent or $75"
+  },
+  "VA": {
+    "rule": "Va. Code § 55.1-1204(E): cap at the lesser of 10% of the periodic rent or 10% of the remaining balance due"
+  },
+  "WA": {
+    "rule": "RCW 59.18.170(2): late fee may not be charged until rent is 5+ days past due; amount must be reasonable"
+  }
+}

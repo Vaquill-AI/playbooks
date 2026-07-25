@@ -1,0 +1,143 @@
+{
+  "_table": "Unconditional notice to quit: statutory grounds (no cure right)",
+  "_key": "2-letter USPS state code",
+  "_note": "grounds carries the controlling citation inline.",
+  "_last_reviewed": "2026-05",
+  "_notice": "General reference, not legal advice. Statutes change and vary by jurisdiction; verify every figure against the current official state code before relying on it. Last reviewed 2026-05.",
+  "_entries": 45,
+  "AK": {
+    "grounds": "Alaska Stat. § 34.03.220(a)(2): substantial damage or repeat violation within 6 months"
+  },
+  "AL": {
+    "grounds": "Ala. Code § 35-9A-421(c): material falsification of rental application; criminal activity affecting health/safety"
+  },
+  "AZ": {
+    "grounds": "A.R.S. § 33-1368(A): material falsification, repeated noncompliance, criminal nuisance"
+  },
+  "CA": {
+    "grounds": "Cal. Civ. Proc. Code § 1161(4): waste, nuisance, illegal use, criminal activity (also pursuant to AB 1482 just-cause § 1946.2(b)(1) for at-fault grounds)"
+  },
+  "CO": {
+    "grounds": "Colo. Rev. Stat. § 13-40-107.5: substantial violation (drug/violent crime)"
+  },
+  "CT": {
+    "grounds": "Conn. Gen. Stat. § 47a-15(c): serious nuisance"
+  },
+  "DE": {
+    "grounds": "Del. Code tit. 25 § 5513(a): material misrepresentation in rental application"
+  },
+  "FL": {
+    "grounds": "Fla. Stat. § 83.56(2)(a): intentional destruction, unreasonable disturbance, continued unreasonable disturbance"
+  },
+  "GA": {
+    "grounds": "O.C.G.A. § 44-7-50: holding over (no statutory cure for breach; lease terms control)"
+  },
+  "HI": {
+    "grounds": "Haw. Rev. Stat. § 521-72: criminal activity, threats, intentional damage"
+  },
+  "IA": {
+    "grounds": "Iowa Code § 562A.27A: clear-and-present-danger (3-day unconditional)"
+  },
+  "IL": {
+    "grounds": "735 ILCS 5/9-209 (rent) and § 9-210 (breach); criminal activity per local ordinances"
+  },
+  "IN": {
+    "grounds": "Ind. Code § 32-31-1-6 (general; lease terms control)"
+  },
+  "KS": {
+    "grounds": "Kan. Stat. § 58-2564(b): material noncompliance is not curable (immediate termination)"
+  },
+  "KY": {
+    "grounds": "KRS § 383.660(2): recurring noncompliance within 6 months (URLTA counties)"
+  },
+  "MA": {
+    "grounds": "M.G.L. ch. 139 § 19: illegal activity"
+  },
+  "MD": {
+    "grounds": "Md. Code, Real Prop. § 8-402.1: breach of lease (general); illegal drug activity (Real Prop. § 8-402.1(a)(1)(ii))"
+  },
+  "ME": {
+    "grounds": "14 M.R.S. § 6002: substantial damage or nuisance"
+  },
+  "MN": {
+    "grounds": "Minn. Stat. § 504B.171: illegal activity; § 504B.281 (clear-and-present-danger)"
+  },
+  "MS": {
+    "grounds": "Miss. Code § 89-8-13(3)(b): repeat violation within 6 months"
+  },
+  "MT": {
+    "grounds": "Mont. Code § 70-24-422(2): substantial damage, criminal activity"
+  },
+  "NC": {
+    "grounds": "N.C.G.S. § 42-26: criminal activity"
+  },
+  "ND": {
+    "grounds": "N.D.C.C. § 47-32-01(4): substantial damage"
+  },
+  "NE": {
+    "grounds": "Neb. Rev. Stat. § 76-1431(4): violent criminal activity"
+  },
+  "NH": {
+    "grounds": "N.H. Rev. Stat. § 540:2(II)(c), substantial damage; § 540:2(II)(d), nonpayment after Demand for Rent (subject to cure)"
+  },
+  "NJ": {
+    "grounds": "N.J.S.A. 2A:18-61.1(c) (destruction), (n) (criminal conviction on/related to premises), (p) (drug activity), (q) (firearm)"
+  },
+  "NM": {
+    "grounds": "N.M.S.A. § 47-8-33(I): substantial violation; clear-and-present danger"
+  },
+  "NV": {
+    "grounds": "Nev. Rev. Stat. § 40.2514: material misrepresentation; criminal activity (3-day no-cure)"
+  },
+  "NY": {
+    "grounds": "NY RPAPL § 711(1)-(5) and lease grounds; lease default + holdover are unconditional in many forms"
+  },
+  "OH": {
+    "grounds": "Ohio Rev. Code § 1923.02, multiple statutory grounds; § 5321.17(C), substantial breach"
+  },
+  "OK": {
+    "grounds": "Okla. Stat. tit. 41 § 132(B): repeat violation within 6 months"
+  },
+  "OR": {
+    "grounds": "ORS 90.396: 24-hour no-cure for outrageous conduct (assault, drug manufacturing, etc.)"
+  },
+  "PA": {
+    "grounds": "68 P.S. § 250.501(b): lease forfeiture grounds (lease must specify)"
+  },
+  "RI": {
+    "grounds": "R.I. Gen. Laws § 34-18-36: material noncompliance"
+  },
+  "SC": {
+    "grounds": "S.C. Code § 27-40-710(c): prior breach within 6 months"
+  },
+  "SD": {
+    "grounds": "S.D.C.L. § 21-16-2: nonpayment, breach, criminal activity"
+  },
+  "TN": {
+    "grounds": "Tenn. Code § 66-28-505(g): drug/violent crime (no cure required)"
+  },
+  "TX": {
+    "grounds": "Tex. Prop. Code § 24.005: default if lease so provides; § 91.003 (intentional misrepresentation)"
+  },
+  "UT": {
+    "grounds": "Utah Code § 78B-6-802: nuisance, unlawful activity, criminal activity"
+  },
+  "VA": {
+    "grounds": "Va. Code § 55.1-1245(C): nonremediable breach; § 55.1-1246 (drug activity)"
+  },
+  "VT": {
+    "grounds": "9 V.S.A. § 4467(b)(2): criminal activity"
+  },
+  "WA": {
+    "grounds": "RCW 59.18.650(2): enumerated unconditional grounds (waste, nuisance, criminal activity, gang activity, four-or-more-late-payments)"
+  },
+  "WI": {
+    "grounds": "Wis. Stat. § 704.17(2)(b): repeat breach within 1 year"
+  },
+  "WV": {
+    "grounds": "W. Va. Code § 55-3A-1: nonpayment / breach; lease terms control"
+  },
+  "WY": {
+    "grounds": "Wyo. Stat. § 1-21-1003(b): repeated violations"
+  }
+}

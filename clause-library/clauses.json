@@ -1,0 +1,1372 @@
+[
+  {
+    "name": "Limitation of Liability (mutual, 12-month fee cap, consequential waiver with carve-outs)",
+    "clause_type": "limitation_of_liability",
+    "tone": "balanced",
+    "jurisdiction": "US",
+    "content": "(a) Exclusion of Indirect Damages. Except as provided in subsection (c), neither party will be liable to the other for any indirect, incidental, special, consequential, exemplary, or punitive damages, or for any loss of profits, revenue, goodwill, anticipated savings, or business opportunity, or for the cost of substitute goods or services, in each case arising out of or relating to this Agreement, whether based in contract, tort (including negligence), strict liability, or any other theory, and whether or not the party has been advised of the possibility of such damages.\n\n(b) Aggregate Cap. Except as provided in subsection (c), each party's total cumulative liability for all claims arising out of or relating to this Agreement will not exceed the total amounts paid or payable by Customer to Provider under this Agreement during the twelve (12) months immediately preceding the event giving rise to the most recent claim.\n\n(c) Exclusions from Limitation. The exclusions and cap in subsections (a) and (b) do not apply to: (i) a party's indemnification obligations for third-party claims of intellectual property infringement; (ii) a party's breach of its confidentiality obligations; (iii) damages arising from a party's unauthorized access, use, or disclosure of, or failure to secure, the other party's data; (iv) Customer's payment obligations; or (v) liability arising from a party's fraud, gross negligence, or willful misconduct, or that cannot be limited or excluded under applicable law.\n\n(d) Essential Basis. The parties acknowledge that the limitations in this Section reflect an agreed allocation of risk and form an essential basis of the bargain, and will apply notwithstanding the failure of essential purpose of any limited remedy.",
+    "applicable_acts": [
+      "Uniform Commercial Code § 2-719",
+      "Cal. Civ. Code § 1668"
+    ],
+    "tags": [
+      "limitation-of-liability",
+      "liability-cap",
+      "consequential-damages-waiver",
+      "mutual",
+      "12-month-fee-cap",
+      "carve-outs",
+      "ip-indemnity",
+      "confidentiality",
+      "data-breach",
+      "essential-purpose"
+    ],
+    "applicable_categories": [
+      "saas",
+      "msa",
+      "vendor_agreement",
+      "professional_services",
+      "consulting",
+      "license",
+      "procurement",
+      "sow"
+    ]
+  },
+  {
+    "name": "Limitation of Liability (protective, fee cap with data-breach super-cap and uncapped carve-outs)",
+    "clause_type": "limitation_of_liability",
+    "tone": "protective",
+    "jurisdiction": "US",
+    "content": "(a) Exclusion of Indirect Damages. Except as provided in subsection (d), in no event will either party be liable for any indirect, incidental, special, consequential, exemplary, or punitive damages, or for any loss of profits, revenue, goodwill, anticipated savings, business interruption, or cost of cover or substitute services, arising out of or relating to this Agreement, regardless of the form of action and whether or not the party was advised of the possibility of such damages.\n\n(b) General Cap. Except as provided in subsections (c) and (d), Provider's total aggregate liability for all claims arising out of or relating to this Agreement will not exceed the total fees paid by Customer to Provider under this Agreement in the twelve (12) months preceding the first event giving rise to liability.\n\n(c) Data-Breach Super-Cap. For claims arising from a Security Incident, breach of Provider's data-protection or security obligations, or unauthorized access to, use of, or disclosure of Customer Personal Data, Provider's aggregate liability will not exceed three (3) times the amount of the general cap in subsection (b), inclusive of regulatory fines, notification costs, credit-monitoring, and forensic expenses, but exclusive of any amounts recoverable under subsection (d).\n\n(d) Uncapped Matters. Nothing in this Section limits liability for: (i) Provider's indemnification obligations for third-party intellectual property infringement claims; (ii) breach of confidentiality obligations; (iii) a party's fraud, gross negligence, or willful misconduct; or (iv) any liability that may not lawfully be limited under applicable law, including, in California, liability that cannot be released under Cal. Civ. Code § 1668.\n\n(e) Carve-Back; Essential Basis. The damages exclusion in subsection (a) does not apply to the matters described in subsections (c) and (d), and direct damages for those matters remain recoverable. These limitations allocate risk between the parties, form an essential basis of the bargain, and survive and apply notwithstanding the failure of essential purpose of any limited remedy.",
+    "applicable_acts": [
+      "Uniform Commercial Code § 2-719",
+      "Cal. Civ. Code § 1668",
+      "CCPA/CPRA",
+      "DTSA (18 U.S.C. § 1836)"
+    ],
+    "tags": [
+      "limitation-of-liability",
+      "liability-cap",
+      "consequential-damages-waiver",
+      "protective",
+      "12-month-fee-cap",
+      "data-breach-super-cap",
+      "uncapped-carve-outs",
+      "ip-indemnity",
+      "confidentiality",
+      "carve-back",
+      "essential-purpose"
+    ],
+    "applicable_categories": [
+      "saas",
+      "msa",
+      "dpa",
+      "vendor_agreement",
+      "professional_services",
+      "license",
+      "procurement",
+      "consulting"
+    ]
+  },
+  {
+    "name": "Indemnification (mutual third-party claims, reciprocal procedure, subject to cap)",
+    "clause_type": "indemnification",
+    "tone": "balanced",
+    "jurisdiction": "US",
+    "content": "Each party (in such capacity, the \"Indemnifying Party\") shall defend, indemnify, and hold harmless the other party and its affiliates, and their respective officers, directors, employees, and agents (collectively, the \"Indemnified Party\"), from and against any third-party claim, action, or proceeding (each, a \"Claim\"), and shall pay all damages, liabilities, settlements, and reasonable attorneys' fees and costs finally awarded against, or agreed to in settlement by, the Indemnified Party, to the extent the Claim arises out of (a) the Indemnifying Party's breach of this Agreement, (b) the Indemnifying Party's gross negligence or willful misconduct, or (c) bodily injury, death, or damage to tangible personal property caused by the Indemnifying Party's personnel. (a) The Indemnified Party shall (i) promptly notify the Indemnifying Party in writing of the Claim, provided that failure to give prompt notice relieves the Indemnifying Party of its obligations only to the extent it is actually and materially prejudiced thereby, (ii) grant the Indemnifying Party sole control of the defense and settlement of the Claim, and (iii) provide reasonable cooperation at the Indemnifying Party's expense. (b) The Indemnifying Party shall not enter into any settlement that imposes any non-monetary obligation or liability on, or requires any admission of fault by, the Indemnified Party without the Indemnified Party's prior written consent, not to be unreasonably withheld or delayed. (c) The Indemnified Party may participate in the defense with counsel of its own choosing at its own expense. Each party's indemnification obligations under this Section are subject to the limitation of liability set forth in this Agreement, except that the foregoing limitation shall not cap a party's obligation to pay amounts finally awarded by a court to a third party or agreed in a settlement of a Claim.",
+    "applicable_acts": [],
+    "tags": [
+      "indemnification",
+      "third-party-claims",
+      "defense-control",
+      "settlement-consent",
+      "mutual",
+      "bodily-injury",
+      "cooperation",
+      "notice",
+      "subject-to-cap"
+    ],
+    "applicable_categories": [
+      "saas",
+      "msa",
+      "sow",
+      "consulting",
+      "vendor_agreement",
+      "professional_services",
+      "procurement",
+      "partnership"
+    ]
+  },
+  {
+    "name": "IP Infringement Indemnity (provider-favorable, defense control, procure/replace/refund, carve-outs)",
+    "clause_type": "indemnification",
+    "tone": "protective",
+    "jurisdiction": "US",
+    "content": "Provider shall defend Customer against any third-party claim alleging that the Services or Deliverables, as furnished by Provider and used by Customer in accordance with this Agreement, infringe a United States patent, registered copyright, or registered trademark, or misappropriate a trade secret of such third party (an \"Infringement Claim\"), and shall pay damages and reasonable attorneys' fees finally awarded against Customer, or agreed to in a settlement approved by Provider, with respect to such Infringement Claim. As conditions to Provider's obligations, Customer shall (a) give Provider prompt written notice of the Infringement Claim, (b) grant Provider sole control over the defense and settlement of the Infringement Claim, and (c) provide all reasonable cooperation requested by Provider, at Provider's expense. If the Services or Deliverables are, or in Provider's reasonable opinion are likely to become, the subject of an Infringement Claim, Provider may, at its option and expense: (i) procure for Customer the right to continue using the affected item; (ii) modify or replace it with a functionally equivalent, non-infringing item; or (iii) if neither (i) nor (ii) is commercially reasonable, terminate the affected Services or license and refund to Customer the fees paid for the affected item, prorated over the applicable subscription or amortization period. Provider shall have no obligation under this Section to the extent an Infringement Claim arises from (a) combination of the Services or Deliverables with products, data, or services not supplied by Provider, (b) modification of the Services or Deliverables by anyone other than Provider, (c) Customer's specifications, designs, content, or instructions, (d) use after Provider has provided a non-infringing update or notice to discontinue, or (e) use in violation of this Agreement. THIS SECTION STATES PROVIDER'S SOLE AND EXCLUSIVE LIABILITY, AND CUSTOMER'S SOLE AND EXCLUSIVE REMEDY, FOR ANY INFRINGEMENT OR MISAPPROPRIATION CLAIM. Provider's obligations under this Section are subject to the limitation of liability in this Agreement.",
+    "applicable_acts": [
+      "DTSA (18 U.S.C. 1836)",
+      "Lanham Act (15 U.S.C. ch. 22)",
+      "Patent Act (35 U.S.C.)",
+      "Copyright Act (17 U.S.C.)"
+    ],
+    "tags": [
+      "indemnification",
+      "ip-infringement",
+      "defense-control",
+      "settlement-consent",
+      "procure-replace-refund",
+      "carve-outs",
+      "combination",
+      "modification",
+      "customer-spec",
+      "exclusive-remedy",
+      "provider-favorable",
+      "subject-to-cap"
+    ],
+    "applicable_categories": [
+      "saas",
+      "msa",
+      "license",
+      "vendor_agreement",
+      "professional_services",
+      "ip_assignment",
+      "procurement",
+      "sow"
+    ]
+  },
+  {
+    "name": "Confidentiality (mutual, 3-year term, perpetual for trade secrets)",
+    "clause_type": "confidentiality",
+    "tone": "balanced",
+    "jurisdiction": "US",
+    "content": "(a) Definition. \"Confidential Information\" means non-public information disclosed by or on behalf of one party (the \"Disclosing Party\") to the other (the \"Receiving Party\") in connection with the Purpose, whether disclosed in writing, orally, visually, electronically, or by inspection, and whether or not marked or identified as confidential, including business, financial, technical, and product information, pricing, customer and supplier data, source code, know-how, and trade secrets. Confidential Information does not include a person's general knowledge, skill, training, or experience.\n(b) Exclusions. Confidential Information does not include information that: (i) is or becomes publicly available through no act or omission of the Receiving Party; (ii) was lawfully known to the Receiving Party before disclosure, as shown by its records; (iii) is independently developed by the Receiving Party without use of or reference to the Confidential Information; or (iv) is rightfully received from a third party without a duty of confidentiality.\n(c) Obligations. The Receiving Party shall use the Confidential Information solely for the Purpose, shall protect it using no less than reasonable care, and shall limit access to its employees, affiliates, and advisors (\"Representatives\") who need to know it for the Purpose and are bound by confidentiality obligations no less protective than these. The Receiving Party is responsible for any breach by its Representatives.\n(d) Compelled Disclosure. If the Receiving Party is required by law or valid legal process to disclose Confidential Information, it shall, to the extent legally permitted, give the Disclosing Party prompt written notice and reasonable cooperation to seek a protective order, and shall disclose only the portion legally required.\n(e) Term. Confidentiality obligations continue for three (3) years after disclosure of the applicable item, except that obligations as to information that constitutes a trade secret continue for so long as it remains a trade secret under applicable law.\n(f) Return or Destruction. Upon the Disclosing Party's written request or termination, the Receiving Party shall return or destroy Confidential Information in its possession, except for copies retained in routine backups or as required by law, which remain subject to this clause. Nothing in this clause limits any rights or remedies under the Defend Trade Secrets Act, 18 U.S.C. §§ 1836-1839, or applicable state trade-secret law.",
+    "applicable_acts": [
+      "DTSA (18 U.S.C. 1836)",
+      "18 U.S.C. 1839",
+      "Uniform Trade Secrets Act (state)"
+    ],
+    "tags": [
+      "confidentiality",
+      "mutual",
+      "trade-secret",
+      "compelled-disclosure",
+      "need-to-know",
+      "return-or-destruction",
+      "us"
+    ],
+    "applicable_categories": [
+      "nda",
+      "msa",
+      "saas",
+      "vendor_agreement",
+      "consulting",
+      "professional_services",
+      "procurement",
+      "partnership"
+    ]
+  },
+  {
+    "name": "Confidentiality (protective, discloser-favorable, perpetual trade secrets, DTSA notice)",
+    "clause_type": "confidentiality",
+    "tone": "protective",
+    "jurisdiction": "US",
+    "content": "(a) Definition. \"Confidential Information\" means all non-public information disclosed by or on behalf of the Disclosing Party to the Receiving Party, before or after the Effective Date, in any form and whether or not marked confidential, including the existence and terms of this Agreement, business plans, financial and pricing information, customer and prospect lists, source code, algorithms, designs, processes, know-how, and trade secrets, together with all notes, analyses, and derivatives the Receiving Party prepares that contain or are based on such information.\n(b) Exclusions. The Receiving Party bears the burden of proving, by contemporaneous written records, that information falls within an exclusion. Confidential Information does not include information that: (i) is or becomes public through no act or omission of the Receiving Party or its Representatives; (ii) was rightfully in the Receiving Party's possession, free of any duty of confidentiality, before disclosure; (iii) is independently developed by the Receiving Party without any use of or reference to the Confidential Information; or (iv) is rightfully obtained from a third party with no duty of confidentiality to the Disclosing Party.\n(c) Obligations. The Receiving Party shall (i) hold the Confidential Information in strict confidence and use at least the degree of care it uses for its own most sensitive information, but never less than reasonable care; (ii) use it solely to perform under this Agreement and for no other purpose; (iii) not disclose it except to Representatives who have a strict need to know and are bound in writing to obligations at least as protective as these; (iv) not reverse engineer, decompile, or disassemble any disclosed item; and (v) promptly notify the Disclosing Party of any actual or suspected unauthorized use or disclosure. The Receiving Party is fully liable for its Representatives' acts and omissions. No residual-knowledge or implied license is granted, and all Confidential Information is provided \"as is.\"\n(d) Compelled Disclosure. If compelled by law or legal process to disclose, the Receiving Party shall, unless legally prohibited, give the Disclosing Party prompt written notice and reasonable cooperation, at the Disclosing Party's expense, to seek confidential treatment or a protective order, and shall disclose only the minimum portion legally required.\n(e) DTSA Notice. Under 18 U.S.C. 1833(b), an individual will not be held criminally or civilly liable under any federal or state trade-secret law for disclosing a trade secret that is made in confidence to a government official or attorney solely to report or investigate a suspected violation of law, or in a sealed court filing. Nothing in this Agreement limits any individual's right to report possible violations to, or communicate with, any governmental agency, including under 17 C.F.R. 240.21F-17.\n(f) Term; Return. Obligations survive for five (5) years after termination, and indefinitely as to any item that qualifies as a trade secret for as long as it remains a trade secret. Upon request or termination, the Receiving Party shall promptly return or destroy all Confidential Information and, if requested, certify the destruction in writing signed by an officer, subject only to archival backups retained under legal-hold or records-retention obligations, which remain protected.",
+    "applicable_acts": [
+      "DTSA (18 U.S.C. 1836)",
+      "18 U.S.C. 1833(b)",
+      "18 U.S.C. 1839",
+      "17 C.F.R. 240.21F-17",
+      "Uniform Trade Secrets Act (state)"
+    ],
+    "tags": [
+      "confidentiality",
+      "protective",
+      "discloser-favorable",
+      "trade-secret",
+      "dtsa-notice",
+      "whistleblower-carveout",
+      "no-residuals",
+      "return-or-destruction",
+      "officer-certification",
+      "us"
+    ],
+    "applicable_categories": [
+      "nda",
+      "msa",
+      "saas",
+      "vendor_agreement",
+      "consulting",
+      "professional_services",
+      "license",
+      "procurement",
+      "ip_assignment"
+    ]
+  },
+  {
+    "name": "Confidentiality (permissive, marking required, 2-year term, light-touch)",
+    "clause_type": "confidentiality",
+    "tone": "permissive",
+    "jurisdiction": "US",
+    "content": "(a) Definition. \"Confidential Information\" means information that the Disclosing Party discloses to the Receiving Party and that is either marked or identified as \"Confidential\" at the time of disclosure or, if disclosed orally or visually, is identified as confidential when disclosed and summarized in writing to the Receiving Party within thirty (30) days. Confidential Information does not include the Receiving Party's general knowledge, skill, training, or experience, including ideas, concepts, and techniques retained in the unaided memory of its personnel.\n(b) Exclusions. Confidential Information does not include information that: (i) is or becomes publicly available other than through the Receiving Party's breach; (ii) was known to the Receiving Party before disclosure; (iii) is independently developed by the Receiving Party; or (iv) is received from a third party without a known duty of confidentiality.\n(c) Obligations. The Receiving Party shall use reasonable care, no less than it uses to protect its own similar information, to avoid unauthorized disclosure of Confidential Information, and shall use it for the Purpose. The Receiving Party may disclose Confidential Information to its employees, affiliates, contractors, and professional advisors who need it and are subject to confidentiality duties, and may disclose it as reasonably necessary to perform under this Agreement. The Receiving Party may also disclose Confidential Information where required by law or legal process, and will, where practicable and lawful, notify the Disclosing Party so it may seek protective treatment.\n(d) Term. The Receiving Party's obligations apply for two (2) years from the date each item is disclosed, after which the Receiving Party has no further obligation with respect to that item, except that information constituting a trade secret remains protected for as long as it qualifies as a trade secret under applicable law, including the Defend Trade Secrets Act, 18 U.S.C. 1836 et seq.\n(e) No Other Restrictions; Return. Nothing in this clause restricts either party from independently developing or marketing products or services, or from entering similar arrangements with others, provided it does not breach this clause. Upon the Disclosing Party's written request after termination, the Receiving Party will return or destroy the Confidential Information then in its possession, except for copies in routine system backups or retained as required by law or internal compliance policy, which remain subject to confidentiality until deleted in the ordinary course.",
+    "applicable_acts": [
+      "DTSA (18 U.S.C. 1836)",
+      "Uniform Trade Secrets Act (state)"
+    ],
+    "tags": [
+      "confidentiality",
+      "permissive",
+      "receiver-friendly",
+      "marking-required",
+      "residual-knowledge",
+      "trade-secret",
+      "short-term",
+      "us"
+    ],
+    "applicable_categories": [
+      "nda",
+      "msa",
+      "saas",
+      "vendor_agreement",
+      "consulting",
+      "professional_services",
+      "license",
+      "procurement"
+    ]
+  },
+  {
+    "name": "Termination (mutual for cause, customer convenience, insolvency, effect + survival)",
+    "clause_type": "termination",
+    "tone": "balanced",
+    "jurisdiction": "US",
+    "content": "(a) Term. This Agreement begins on the Effective Date and continues for the initial term stated in the applicable Order or Statement of Work, after which it will renew or expire as set forth there. (b) Termination for Cause. Either party may terminate this Agreement, or the affected Order or Statement of Work, on written notice if the other party materially breaches this Agreement and fails to cure the breach within thirty (30) days after receiving written notice describing it in reasonable detail; provided that for a failure to pay undisputed amounts when due, the cure period is ten (10) days after written notice. (c) Termination for Convenience. The Customer may terminate any Order or Statement of Work for convenience on thirty (30) days' prior written notice to the Provider. If the Customer terminates for convenience, the Customer will pay for services performed and noncancelable commitments incurred through the effective date of termination, and the Provider will refund any prepaid fees for services not yet delivered as of that date. Fees for a fixed-term subscription are noncancelable and nonrefundable except as expressly stated in the applicable Order. (d) Insolvency. Either party may terminate this Agreement immediately on written notice if the other party becomes insolvent, makes a general assignment for the benefit of creditors, files or has filed against it any petition under applicable bankruptcy or insolvency law that is not dismissed within sixty (60) days, or has a receiver appointed for substantially all of its assets. (e) Effect of Termination. On expiration or termination, all rights and licenses granted under this Agreement terminate, each party will promptly return or, at the disclosing party's written request, destroy the other party's Confidential Information in its possession, and all undisputed amounts accrued before the effective date of termination become immediately due. Termination does not relieve either party of any obligation that accrued before the effective date of termination and is without prejudice to any other remedy available at law or in equity. (f) Survival. Any provision that by its nature should survive termination, including provisions on accrued payment obligations, confidentiality, intellectual property ownership, warranty disclaimers, limitation of liability, indemnification, and governing law, will survive expiration or termination of this Agreement.",
+    "applicable_acts": [],
+    "tags": [
+      "termination",
+      "termination for cause",
+      "cure period",
+      "termination for convenience",
+      "insolvency",
+      "bankruptcy",
+      "survival",
+      "effect of termination",
+      "mutual",
+      "material breach"
+    ],
+    "applicable_categories": [
+      "saas",
+      "msa",
+      "sow",
+      "consulting",
+      "vendor_agreement",
+      "professional_services",
+      "license",
+      "procurement"
+    ]
+  },
+  {
+    "name": "Governing Law, Forum Selection, and Jury Waiver (mutual)",
+    "clause_type": "governing_law",
+    "tone": "balanced",
+    "jurisdiction": "US",
+    "content": "This Agreement, and all matters arising out of or relating to this Agreement, whether sounding in contract, tort, statute, or otherwise, shall be governed by and construed in accordance with the laws of the State of [STATE] (commonly the State of Delaware or the State of New York for commercial agreements), without giving effect to any conflict-of-laws principles that would require the application of the laws of a different jurisdiction. The United Nations Convention on Contracts for the International Sale of Goods does not apply to this Agreement. Subject to any binding dispute-resolution provision elsewhere in this Agreement, each party irrevocably submits to the exclusive jurisdiction of the state and federal courts located in [COUNTY/CITY], [STATE] for any action or proceeding arising out of or relating to this Agreement, and each party waives any objection to venue in, or any claim that any such court is an inconvenient forum for, any such action or proceeding. Each party agrees that final judgment in any such action or proceeding may be enforced in any other jurisdiction by suit on the judgment or in any other manner provided by law. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, EACH PARTY KNOWINGLY, VOLUNTARILY, AND IRREVOCABLY WAIVES ANY RIGHT TO A TRIAL BY JURY IN ANY ACTION OR PROCEEDING ARISING OUT OF OR RELATING TO THIS AGREEMENT. The parties acknowledge that jury-trial waivers are not enforceable in all states (for example, California and Georgia generally do not enforce pre-dispute contractual jury waivers), and in any such jurisdiction this waiver shall apply only to the extent permitted by applicable law and shall not affect the validity of the remainder of this Section.",
+    "applicable_acts": [],
+    "tags": [
+      "governing-law",
+      "choice-of-law",
+      "forum-selection",
+      "venue",
+      "jury-waiver",
+      "conflict-of-laws",
+      "boilerplate",
+      "dispute-resolution"
+    ],
+    "applicable_categories": [
+      "saas",
+      "msa",
+      "sow",
+      "consulting",
+      "vendor_agreement",
+      "nda",
+      "dpa",
+      "ip_assignment",
+      "license",
+      "sale",
+      "professional_services",
+      "partnership",
+      "procurement"
+    ]
+  },
+  {
+    "name": "Dispute Resolution (mutual escalation to AAA arbitration, FAA)",
+    "clause_type": "dispute_resolution",
+    "tone": "balanced",
+    "jurisdiction": "US",
+    "content": "(a) Informal resolution. Before commencing any formal proceeding, a party asserting a dispute, claim, or controversy arising out of or relating to this Agreement, including its formation, breach, termination, or validity (a \"Dispute\"), shall give the other party written notice describing the Dispute and the relief sought. The parties' authorized representatives shall negotiate in good faith for thirty (30) days after the notice. If the Dispute is not resolved, either party may submit it to non-binding mediation administered by the American Arbitration Association (\"AAA\") under its Commercial Mediation Procedures, with the parties sharing the mediator's fees equally.\n(b) Binding arbitration. Any Dispute not resolved within thirty (30) days after a mediation request shall be finally resolved by binding arbitration administered by the AAA under its Commercial Arbitration Rules then in effect. The arbitration shall be seated in the home state of the responding party, and the arbitrator may award any relief available in a court of law or equity. Judgment on the award may be entered in any court of competent jurisdiction.\n(c) Arbitrator. The arbitration shall be conducted by a single arbitrator, except that where the amount in controversy exceeds Three Million Dollars ($3,000,000), exclusive of interest and costs, it shall be conducted by a panel of three arbitrators.\n(d) Governing law and scope. This clause evidences a transaction involving interstate commerce, and the Federal Arbitration Act, 9 U.S.C. ss. 1-16, governs its interpretation and enforcement. Each party bears its own fees and costs, and the parties share the AAA and arbitrator fees equally unless the arbitrator allocates them otherwise.\n(e) Injunctive relief. Nothing in this clause prevents either party from seeking temporary or preliminary injunctive or other equitable relief from a court of competent jurisdiction to prevent actual or threatened breach of confidentiality or infringement or misappropriation of intellectual property, pending the appointment of the arbitrator.",
+    "applicable_acts": [
+      "Federal Arbitration Act (9 U.S.C. 1-16)",
+      "AAA Commercial Arbitration Rules",
+      "AAA Commercial Mediation Procedures"
+    ],
+    "tags": [
+      "arbitration",
+      "mediation",
+      "escalation",
+      "aaa",
+      "faa",
+      "injunctive-relief",
+      "single-arbitrator",
+      "three-arbitrator",
+      "interstate-commerce",
+      "mutual"
+    ],
+    "applicable_categories": [
+      "saas",
+      "msa",
+      "sow",
+      "consulting",
+      "vendor_agreement",
+      "nda",
+      "license",
+      "sale",
+      "professional_services",
+      "procurement"
+    ]
+  },
+  {
+    "name": "Dispute Resolution (protective, AAA arbitration + class-action waiver, EFAA carve-out)",
+    "clause_type": "dispute_resolution",
+    "tone": "protective",
+    "jurisdiction": "US",
+    "content": "(a) Mandatory escalation. The parties shall attempt in good faith to resolve any dispute, claim, or controversy arising out of or relating to this Agreement, including its formation, performance, breach, termination, or validity (a \"Dispute\"), through senior-executive negotiation within fifteen (15) days after written notice, followed, if unresolved, by mediation administered by the American Arbitration Association (\"AAA\") under its Commercial Mediation Procedures. Completion of these steps is a condition precedent to arbitration, except where a party seeks the equitable relief described in subsection (e) or where a limitations period would otherwise expire.\n(b) Binding arbitration. Any Dispute not resolved through the foregoing steps shall be finally resolved by confidential, binding arbitration administered by the AAA under its Commercial Arbitration Rules then in effect, including the Procedures for Large, Complex Commercial Disputes where the amount in controversy exceeds Three Million Dollars ($3,000,000) (in which case three arbitrators shall be appointed; otherwise a single arbitrator shall preside). The arbitration shall be seated in, and the award rendered in, the home state of Provider, and judgment on the award may be entered in any court of competent jurisdiction. This Agreement evidences a transaction in interstate commerce, and the Federal Arbitration Act, 9 U.S.C. ss. 1-16, governs the enforceability and interpretation of this clause.\n(c) Class-action and consolidation waiver. To the fullest extent permitted by law, each party waives any right to bring or participate in any Dispute as a class, collective, consolidated, or representative action, and the arbitrator shall have no authority to arbitrate any Dispute on a class or representative basis or to consolidate the claims of more than one party. If this waiver is found unenforceable as to a particular claim, that claim alone shall proceed in court, and the remainder shall remain in arbitration.\n(d) Statutory carve-out. Notwithstanding anything to the contrary, this clause does not require arbitration of any claim that, at the electing party's option, may not be subject to a pre-dispute arbitration agreement under the Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act, 9 U.S.C. ss. 401-402, or any other claim rendered non-arbitrable by applicable law.\n(e) Equitable relief. Either party may seek temporary, preliminary, or permanent injunctive relief and specific performance from a court of competent jurisdiction, without posting bond and without waiving arbitration of any remaining claim, to address actual or threatened breach of its confidentiality, data-protection, or intellectual-property rights.\n(f) Confidentiality and fees. The existence, content, and result of the arbitration shall remain confidential except as required by law or to enforce the award. The arbitrator shall award the prevailing party its reasonable attorneys' fees and costs to the extent permitted by applicable law.",
+    "applicable_acts": [
+      "Federal Arbitration Act (9 U.S.C. 1-16)",
+      "AAA Commercial Arbitration Rules",
+      "AAA Procedures for Large, Complex Commercial Disputes",
+      "EFAA (9 U.S.C. 401-402)",
+      "AAA Commercial Mediation Procedures"
+    ],
+    "tags": [
+      "arbitration",
+      "class-action-waiver",
+      "mediation",
+      "escalation",
+      "aaa",
+      "faa",
+      "efaa",
+      "injunctive-relief",
+      "confidential",
+      "attorneys-fees",
+      "large-complex",
+      "three-arbitrator",
+      "protective"
+    ],
+    "applicable_categories": [
+      "saas",
+      "msa",
+      "sow",
+      "consulting",
+      "vendor_agreement",
+      "nda",
+      "license",
+      "dpa",
+      "professional_services",
+      "procurement"
+    ]
+  },
+  {
+    "name": "Intellectual Property Ownership (deliverables to Customer, vendor retains tools)",
+    "clause_type": "intellectual_property",
+    "tone": "balanced",
+    "jurisdiction": "US",
+    "content": "(a) Background IP. Each party owns and retains all right, title, and interest in and to all Intellectual Property Rights and materials that it owned or developed prior to or independently of this Agreement, together with any modifications, enhancements, and derivatives thereof (\"Background IP\"). Nothing in this Agreement transfers ownership of either party's Background IP to the other, except for the limited licenses expressly granted herein.\n\n(b) Deliverables. Subject to Customer's payment of the fees due for the applicable Deliverables and excluding Vendor Tools (as defined below), Vendor hereby irrevocably assigns to Customer all right, title, and interest, including all Intellectual Property Rights, in and to the deliverables, work product, and materials that Vendor is engaged to create specifically for Customer under this Agreement and that are delivered to Customer (collectively, the \"Deliverables\"). To the extent any Deliverable qualifies as a \"work made for hire\" within the meaning of 17 U.S.C. Section 101, it shall be deemed a work made for hire and owned by Customer; to the extent any Deliverable does not so qualify, the foregoing assignment shall apply. Vendor shall, at Customer's reasonable request and expense, execute documents and take actions reasonably necessary to perfect and record Customer's ownership.\n\n(c) Vendor Tools and License-Back. Vendor retains all right, title, and interest in and to its Background IP and in any tools, methods, templates, libraries, know-how, and general-purpose components that Vendor uses to create the Deliverables or that are of general application (collectively, \"Vendor Tools\"). To the extent any Vendor Tools are incorporated into a Deliverable, Vendor grants Customer a perpetual, irrevocable, worldwide, non-exclusive, royalty-free license to use, reproduce, modify, and create derivative works of such Vendor Tools solely as embedded in and necessary for Customer's use of the Deliverables.\n\n(d) Feedback. If Customer provides Vendor with suggestions, ideas, or other feedback regarding Vendor's products or services (\"Feedback\"), Vendor may use the Feedback without restriction or obligation, and Customer grants Vendor a perpetual, irrevocable, worldwide, royalty-free license to use and incorporate the Feedback into Vendor's offerings, provided that Vendor does not identify Customer as the source.",
+    "applicable_acts": [
+      "17 U.S.C. 101 (Copyright Act, work made for hire)",
+      "17 U.S.C. 201 (Copyright Act, ownership)",
+      "DTSA (18 U.S.C. 1836)"
+    ],
+    "tags": [
+      "ip",
+      "ownership",
+      "work-made-for-hire",
+      "assignment",
+      "license-back",
+      "feedback",
+      "deliverables",
+      "background-ip"
+    ],
+    "applicable_categories": [
+      "msa",
+      "sow",
+      "consulting",
+      "professional_services",
+      "saas",
+      "vendor_agreement",
+      "procurement"
+    ]
+  },
+  {
+    "name": "Data Protection (mutual, US state privacy + processor obligations)",
+    "clause_type": "data_protection",
+    "tone": "balanced",
+    "jurisdiction": "US",
+    "content": "(a) Roles and Scope. To the extent Provider Processes Personal Information on behalf of Customer in connection with this Agreement, Provider acts as Customer's service provider, processor, or contractor (as those terms are used under applicable Data Protection Laws), and Customer acts as the business or controller. \"Personal Information\" means information relating to an identified or identifiable individual that Customer provides to or makes accessible to Provider, and \"Data Protection Laws\" means privacy and data-security laws applicable to such Processing, including the California Consumer Privacy Act, as amended by the CPRA (Cal. Civ. Code 1798.100 et seq.), and other comprehensive U.S. state privacy laws to the extent applicable. (b) Use Limitation. Provider shall Process Personal Information only on Customer's documented instructions and solely to provide the services, and shall not sell or share Personal Information, retain, use, or disclose it for any purpose other than performing the services or as otherwise permitted by Data Protection Laws, or combine it with other data except as so permitted. Provider certifies that it understands and will comply with these restrictions. (c) Security Safeguards. Provider shall maintain reasonable and appropriate administrative, technical, and physical safeguards designed to protect Personal Information against unauthorized access, use, or disclosure, including encryption of Personal Information in transit and at rest, access controls, and personnel confidentiality obligations, and shall make available, on request, a current SOC 2 Type II report or ISO/IEC 27001 certification evidencing such controls. (d) Security Incidents. Provider shall notify Customer without undue delay, and in any event within seventy-two (72) hours, after becoming aware of any confirmed unauthorized acquisition of or access to Personal Information, and shall reasonably cooperate with Customer's investigation and required notifications. (e) Subprocessors. Provider may engage subprocessors to Process Personal Information provided that Provider gives Customer prior notice of any new subprocessor (with a reasonable opportunity to object on reasonable data-protection grounds), imposes data-protection obligations no less protective than those in this Section by written contract, and remains liable for each subprocessor's performance. (f) International Transfers. Where Processing involves transfer of personal data originating in the European Economic Area, the United Kingdom, or Switzerland to a country without an adequacy determination, the parties shall implement an approved transfer mechanism, including the European Commission's Standard Contractual Clauses (Decision (EU) 2021/914) and, for UK data, the UK International Data Transfer Addendum, which are incorporated by reference and prevail over conflicting terms to the extent of any conflict. (g) Assistance and Deletion. Provider shall reasonably assist Customer in responding to verified individual rights requests and in meeting Customer's obligations under Data Protection Laws, and upon expiration or termination shall, at Customer's election, return or delete Personal Information in its possession, subject to retention required by law.",
+    "applicable_acts": [
+      "CCPA/CPRA (Cal. Civ. Code 1798.100 et seq.)",
+      "CCPA Regulations (Cal. Code Regs. tit. 11, 7050-7051)",
+      "Virginia Consumer Data Protection Act (Va. Code 59.1-575 et seq.)",
+      "Colorado Privacy Act (Colo. Rev. Stat. 6-1-1301 et seq.)",
+      "Connecticut Data Privacy Act",
+      "Texas Data Privacy and Security Act",
+      "EU Standard Contractual Clauses (Decision (EU) 2021/914)",
+      "UK International Data Transfer Addendum",
+      "GDPR Article 28",
+      "SOC 2 (AICPA)",
+      "ISO/IEC 27001"
+    ],
+    "tags": [
+      "data-protection",
+      "privacy",
+      "ccpa",
+      "cpra",
+      "service-provider",
+      "processor",
+      "data-security",
+      "breach-notification",
+      "subprocessor",
+      "standard-contractual-clauses",
+      "sccs",
+      "soc2",
+      "iso-27001",
+      "mutual",
+      "cross-border-transfer"
+    ],
+    "applicable_categories": [
+      "saas",
+      "msa",
+      "vendor_agreement",
+      "dpa",
+      "professional_services",
+      "consulting",
+      "procurement",
+      "license"
+    ]
+  },
+  {
+    "name": "Payment Terms (Net 30, dispute window, capped late charge)",
+    "clause_type": "payment_terms",
+    "tone": "balanced",
+    "jurisdiction": "US",
+    "content": "(a) Invoicing and Payment. Customer shall pay all undisputed amounts set forth in each invoice within thirty (30) days after the invoice date. All amounts are stated and payable in U.S. dollars by the payment methods designated by Vendor. Payment is deemed made when actually received by Vendor in immediately available funds. (b) Disputed Amounts. If Customer in good faith disputes any portion of an invoice, Customer shall pay all undisputed amounts when due and shall, within fifteen (15) days after the invoice date, notify Vendor in writing of the disputed amount and the basis for the dispute. The parties shall work in good faith to resolve any such dispute promptly, and Customer's withholding of a properly disputed amount in accordance with this Section shall not be a breach of this Agreement. Any invoice not disputed within this period is deemed accepted as to the amounts stated. (c) Late Charges. Undisputed amounts not paid when due shall accrue a late charge of the lesser of one and one-half percent (1.5%) per month (18% per annum) or the maximum rate permitted by applicable law, calculated from the due date until paid in full. Exercise of this remedy is in addition to any other remedies available to Vendor. (d) Taxes. All fees are exclusive of taxes. Customer is responsible for all sales, use, value-added, excise, and similar taxes, duties, and assessments imposed by any governmental authority on the amounts payable hereunder, excluding taxes based on Vendor's net income, property, or employees. If Vendor is legally obligated to collect or pay any such tax for which Customer is responsible, the tax will be invoiced to and paid by Customer, unless Customer timely provides a valid exemption certificate or other documentation acceptable to the relevant taxing authority.",
+    "applicable_acts": [
+      "UCC Article 2 (Sales)",
+      "State usury laws"
+    ],
+    "tags": [
+      "payment",
+      "net-30",
+      "late-fee",
+      "usury-cap",
+      "taxes",
+      "dispute-window",
+      "usd",
+      "invoicing"
+    ],
+    "applicable_categories": [
+      "saas",
+      "msa",
+      "sow",
+      "consulting",
+      "vendor_agreement",
+      "professional_services",
+      "procurement",
+      "license",
+      "sale"
+    ]
+  },
+  {
+    "name": "Representations & Warranties (mutual authority + service warranty + AS-IS disclaimer)",
+    "clause_type": "representations_warranties",
+    "tone": "balanced",
+    "jurisdiction": "US",
+    "content": "(a) Mutual Representations. Each party represents and warrants to the other that: (i) it is duly organized, validly existing, and in good standing under the laws of its jurisdiction of formation; (ii) it has full power and authority to enter into and perform this Agreement, and the person signing on its behalf is duly authorized to do so; (iii) this Agreement, when executed, will constitute its legal, valid, and binding obligation, enforceable in accordance with its terms; and (iv) its execution and performance of this Agreement will not violate, conflict with, or result in a breach of any law, judgment, or other agreement to which it is a party or by which it is bound.\n\n(b) Service Warranty. Provider warrants that, for a period of ninety (90) days following acceptance of the applicable deliverable or completion of the applicable Services (the \"Warranty Period\"): (i) the Services will be performed in a professional and workmanlike manner consistent with generally accepted industry standards; (ii) the deliverables and Services will materially conform to the specifications and documentation set forth in the applicable Statement of Work or other writing signed by the parties; and (iii) to Provider's knowledge, the deliverables, as delivered and used in accordance with this Agreement, do not infringe or misappropriate any third party's patent, copyright, trademark, or trade secret rights. As Customer's sole and exclusive remedy, and Provider's entire liability, for breach of the warranty in this Section (b), Provider will, at its option and expense, promptly re-perform or correct the nonconforming Services or deliverable, or, if Provider cannot do so within a commercially reasonable time after written notice given during the Warranty Period, refund the fees paid for the nonconforming Services or deliverable.\n\n(c) Disclaimer. EXCEPT FOR THE EXPRESS WARRANTIES STATED IN THIS SECTION, THE SERVICES AND DELIVERABLES ARE PROVIDED \"AS IS,\" AND PROVIDER MAKES NO OTHER WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, AND PROVIDER SPECIFICALLY DISCLAIMS ALL IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT, AND ANY WARRANTIES ARISING FROM COURSE OF DEALING OR USAGE OF TRADE. To the extent the Uniform Commercial Code applies to any goods supplied under this Agreement, this disclaimer is intended to be conspicuous and to satisfy U.C.C. 2-316. Some jurisdictions do not allow the exclusion of certain implied warranties, so portions of this disclaimer may not apply where prohibited by law.",
+    "applicable_acts": [
+      "UCC 2-314",
+      "UCC 2-315",
+      "UCC 2-316",
+      "UCC 2-312",
+      "DTSA (18 U.S.C. 1836)"
+    ],
+    "tags": [
+      "representations",
+      "warranties",
+      "authority",
+      "no-conflict",
+      "workmanlike",
+      "conformance-to-spec",
+      "non-infringement",
+      "as-is",
+      "implied-warranty-disclaimer",
+      "mutual",
+      "sole-remedy",
+      "warranty-period"
+    ],
+    "applicable_categories": [
+      "msa",
+      "sow",
+      "professional_services",
+      "consulting",
+      "vendor_agreement",
+      "saas",
+      "procurement"
+    ]
+  },
+  {
+    "name": "Assignment (mutual consent, change-of-control carve-out, binding on successors)",
+    "clause_type": "assignment",
+    "tone": "balanced",
+    "jurisdiction": "US",
+    "content": "Neither party may assign, delegate, or otherwise transfer this Agreement or any of its rights or obligations under it, whether voluntarily, by operation of law, or otherwise, without the prior written consent of the other party, which consent shall not be unreasonably withheld, conditioned, or delayed. Notwithstanding the foregoing, either party may assign this Agreement in its entirety, without the other party's consent, to (a) an Affiliate of the assigning party or (b) a successor in connection with a merger, consolidation, reorganization, sale of all or substantially all of its assets, or other change of control, provided in each case that the assignee agrees in writing to be bound by all terms of this Agreement and that the assigning party gives the other party written notice of the assignment promptly thereafter. The non-assigning party may terminate this Agreement on written notice if the assignee is a direct competitor of the non-assigning party. Any purported assignment, delegation, or transfer in violation of this Section is void and of no effect. No assignment relieves the assigning party of any obligation accrued before the effective date of the assignment unless the other party agrees otherwise in writing. Subject to the foregoing, this Agreement is binding upon and inures to the benefit of the parties and their respective permitted successors and assigns. For purposes of this Section, \"Affiliate\" means any entity that controls, is controlled by, or is under common control with a party, where \"control\" means direct or indirect ownership of more than fifty percent (50%) of the voting securities or equivalent ownership interests of an entity.",
+    "applicable_acts": [],
+    "tags": [
+      "assignment",
+      "anti-assignment",
+      "consent-not-unreasonably-withheld",
+      "change-of-control",
+      "affiliate-carveout",
+      "successors-and-assigns",
+      "delegation",
+      "merger",
+      "mutual"
+    ],
+    "applicable_categories": [
+      "saas",
+      "msa",
+      "sow",
+      "consulting",
+      "vendor_agreement",
+      "nda",
+      "dpa",
+      "license",
+      "sale",
+      "professional_services",
+      "partnership",
+      "procurement"
+    ]
+  },
+  {
+    "name": "Insurance (mutual, market-standard limits with additional insured)",
+    "clause_type": "insurance",
+    "tone": "balanced",
+    "jurisdiction": "US",
+    "content": "Insurance. During the term of this Agreement and for any survival period expressly stated below, each party shall, at its own expense, maintain insurance with carriers having an A.M. Best rating of at least A- VII, in not less than the following amounts: (a) Commercial General Liability, including bodily injury, property damage, products and completed operations, and contractual liability, with limits of at least $1,000,000 per occurrence and $2,000,000 in the aggregate; (b) where the party performs professional or technical services under this Agreement, Professional Liability (Errors and Omissions) of at least $2,000,000 per claim; (c) where the party will access, store, process, or transmit the other party's confidential or personal information, Cyber Liability (including privacy, network security, and data breach response) of at least $5,000,000 per claim; (d) Workers' Compensation at statutory limits and Employer's Liability of at least $1,000,000; and (e) if vehicles are used in connection with this Agreement, Commercial Automobile Liability of at least $1,000,000 combined single limit. Umbrella or excess coverage may be used to satisfy these limits. With respect to the Commercial General Liability, Automobile Liability, and Umbrella policies, each party shall name the other party as an additional insured, and such coverage shall be primary and non-contributory with any insurance maintained by the additional insured. Each party shall obtain a waiver of subrogation in favor of the other party to the extent of the indemnities given under this Agreement and permitted by the applicable policy. Upon request, and in any event before performance begins, each party shall deliver a certificate of insurance evidencing the foregoing coverages (and at minimum for the Professional Liability and Cyber Liability coverages), and shall provide at least thirty (30) days' prior written notice of cancellation or material reduction. These insurance requirements do not limit either party's liability or obligations under this Agreement.",
+    "applicable_acts": [],
+    "tags": [
+      "insurance",
+      "additional-insured",
+      "primary-non-contributory",
+      "waiver-of-subrogation",
+      "certificate-of-insurance",
+      "cyber-liability",
+      "commercial-general-liability",
+      "errors-and-omissions",
+      "workers-compensation",
+      "mutual"
+    ],
+    "applicable_categories": [
+      "msa",
+      "saas",
+      "sow",
+      "consulting",
+      "vendor_agreement",
+      "professional_services",
+      "procurement"
+    ]
+  },
+  {
+    "name": "Non-Solicitation (mutual, 12-month, employees & customers)",
+    "clause_type": "non_solicitation",
+    "tone": "balanced",
+    "jurisdiction": "US",
+    "content": "(a) Non-Solicitation of Personnel. During the term of this Agreement and for a period of twelve (12) months following its expiration or termination (the \"Restricted Period\"), neither party will, directly or indirectly, solicit for employment or engagement, or hire or engage, any employee or independent contractor of the other party with whom the soliciting party had material contact in connection with this Agreement. \"Material contact\" means involvement in the performance, supervision, or receipt of the services or deliverables under this Agreement during the twelve (12) months preceding the solicitation.\n\n(b) Non-Solicitation of Customers. During the Restricted Period, neither party will knowingly and intentionally use the other party's Confidential Information to solicit, divert, or take away the business of any customer of the other party that the soliciting party identified or learned of solely through this Agreement, for the purpose of providing products or services competitive with those the non-soliciting party provides.\n\n(c) Carve-Outs. Nothing in this Section restricts either party from: (i) conducting general advertising, public job postings, recruiting through agencies or job boards, or other solicitations not specifically directed at the other party's personnel or customers; (ii) hiring or engaging any individual who responds to such general solicitation, who approaches the party on an unsolicited basis, or who has not been employed or engaged by the other party for at least six (6) months; or (iii) soliciting or doing business with any customer that independently and without targeted inducement initiates contact or that the party had a pre-existing relationship with before the Effective Date.\n\n(d) Remedies and Reasonableness. The parties agree these restrictions are reasonable and necessary to protect their respective legitimate business interests, including Confidential Information and customer goodwill. The parties acknowledge that the enforceability of restrictive covenants is governed by the law of the applicable state and that this Section is to be enforced only to the maximum extent permitted by such law; if any portion is held overbroad, it will be reformed or limited rather than void, to the extent the governing jurisdiction permits reformation. A breach may cause irreparable harm for which monetary damages are inadequate, and the non-breaching party may seek injunctive relief in addition to any other available remedy.",
+    "applicable_acts": [
+      "DTSA (18 U.S.C. 1836)"
+    ],
+    "tags": [
+      "non-solicitation",
+      "non-solicit",
+      "employees",
+      "customers",
+      "12-month",
+      "mutual",
+      "restricted-period",
+      "general-advertising-carveout",
+      "unsolicited-applicants",
+      "blue-pencil",
+      "restrictive-covenant",
+      "injunctive-relief"
+    ],
+    "applicable_categories": [
+      "msa",
+      "vendor_agreement",
+      "consulting",
+      "professional_services",
+      "sow",
+      "saas",
+      "procurement"
+    ]
+  },
+  {
+    "name": "Non-Compete (narrow, senior employee, 12-month, defined scope/territory, with consideration)",
+    "clause_type": "non_compete",
+    "tone": "balanced",
+    "jurisdiction": "US",
+    "content": "Covenant Not to Compete. In exchange for the Employee's employment or continued employment, access to Confidential Information, specialized training, and the additional consideration described in Section [__] (which the Employee acknowledges is good, valuable, and sufficient consideration the Employee would not otherwise receive), the Employee agrees that, during employment and for twelve (12) months after the termination of employment for any reason (the \"Restricted Period\"), the Employee will not, directly or indirectly, whether as an owner, officer, director, employee, consultant, or agent, perform services that are the same as or substantially similar to the services the Employee actually performed for the Company during the last twelve (12) months of employment for any business that competes with the specific products or services of the Company with which the Employee was materially involved or about which the Employee received Confidential Information (the \"Competing Business\"). This restriction applies only within the geographic territory in which the Employee actually worked or had material responsibility during that same period, or, if no such territory can be identified, the counties or states in which the Company actively conducted such business and in which the Employee's activities could cause competitive harm (the \"Restricted Territory\"). Nothing in this Section restricts the Employee from owning two percent (2%) or less of the publicly traded securities of any company, or from accepting employment with a non-competing division or affiliate of a Competing Business in a role that does not involve the products, services, or Confidential Information described above. The Employee acknowledges that these limitations are reasonable, are no broader than necessary to protect the Company's legitimate business interests in its Confidential Information, trade secrets, and customer goodwill, and do not unreasonably restrict the Employee's ability to earn a living. Drafting note: This covenant is governed by, and enforceable only to the extent permitted by, the law of the state whose law governs this agreement and the state in which the Employee primarily works. Post-employment non-competes are VOID and unenforceable for employees who primarily work in California (Cal. Bus. & Prof. Code 16600), Minnesota (Minn. Stat. 181.988), North Dakota, Oklahoma, Montana, and Wyoming, and several states (e.g., Washington, Colorado, Illinois, Oregon, Virginia, Maine) enforce non-competes only above statutory wage or salary thresholds and with advance-notice and consideration timing rules. There is no enforceable federal non-compete ban: the FTC 2024 Non-Compete Rule was vacated in Ryan, LLC v. FTC and abandoned by the FTC, so state reasonableness law controls. Use this covenant only for senior, well-compensated employees with access to trade secrets, and confirm wage thresholds, advance-notice, and consideration timing for the governing state. Where a non-compete is void or doubtful, rely instead on the confidentiality, trade-secret (DTSA, 18 U.S.C. 1836), customer/employee non-solicitation, and (where lawful) garden-leave provisions, which are independently enforceable and severable from this covenant.",
+    "applicable_acts": [
+      "Federal Trade Commission Act, Section 5 (15 U.S.C. 45)",
+      "DTSA (18 U.S.C. 1836)",
+      "Cal. Bus. & Prof. Code 16600",
+      "Minn. Stat. 181.988",
+      "Wash. Rev. Code 49.62",
+      "Colo. Rev. Stat. 8-2-113"
+    ],
+    "tags": [
+      "non-compete",
+      "restrictive-covenant",
+      "post-employment",
+      "trade-secrets",
+      "state-specific",
+      "senior-employee",
+      "ftc-rule-vacated",
+      "consideration",
+      "severable"
+    ],
+    "applicable_categories": [
+      "employment"
+    ]
+  },
+  {
+    "name": "Force Majeure (mutual, suspends performance not payment, 60-day termination)",
+    "clause_type": "force_majeure",
+    "tone": "balanced",
+    "jurisdiction": "US",
+    "content": "(a) Definition. \"Force Majeure Event\" means an event or circumstance beyond the reasonable control of the party affected (the \"Affected Party\") that could not have been avoided or overcome through the exercise of reasonable diligence, including: acts of God, fire, flood, earthquake, hurricane, or other natural disaster; epidemic or pandemic; war, invasion, armed conflict, act of terrorism, riot, or civil unrest; embargo, blockade, or general failure of public utilities, telecommunications, or the internet; strike, lockout, or other labor disturbance not specific to the Affected Party's own workforce; and any binding order, law, or action of a governmental authority that prohibits or materially impedes performance.\n\n(b) Effect. If a Force Majeure Event prevents, hinders, or delays a party's performance of its obligations under this Agreement, the affected obligations will be suspended for so long as, and to the extent that, the Force Majeure Event continues, and the time for performance will be extended accordingly. Neither party will be liable for any failure or delay in performance to that extent.\n\n(c) Payment obligations not excused. A Force Majeure Event does not relieve either party of any obligation to pay amounts that are due or that become due for services already rendered or goods already delivered, except where the Force Majeure Event makes such payment legally impossible.\n\n(d) Notice and mitigation. The Affected Party will give the other party prompt written notice of the Force Majeure Event, including a reasonable estimate of its expected duration, and will use commercially reasonable efforts to mitigate the effect of the event and to resume full performance.\n\n(e) Termination. If a Force Majeure Event continues for more than sixty (60) consecutive days, either party may terminate this Agreement (or the affected Statement of Work or order) on written notice to the other, without liability except for obligations accrued before termination.\n\n(f) Exclusions. A Force Majeure Event does not include any event that the Affected Party could reasonably have foreseen and guarded against, the unavailability or insufficiency of funds, general market or economic conditions, or any event arising from the Affected Party's own negligence or breach of this Agreement.",
+    "applicable_acts": [],
+    "tags": [
+      "force majeure",
+      "excused performance",
+      "suspension of obligations",
+      "payment carve-out",
+      "notice and mitigation",
+      "termination right",
+      "60-day",
+      "mutual",
+      "boilerplate",
+      "us"
+    ],
+    "applicable_categories": [
+      "saas",
+      "msa",
+      "sow",
+      "consulting",
+      "vendor_agreement",
+      "license",
+      "sale",
+      "professional_services",
+      "procurement"
+    ]
+  },
+  {
+    "name": "Audit Rights (balanced, annual, 30 days notice, SOC 2/ISO in lieu of on-site)",
+    "clause_type": "audit_rights",
+    "tone": "balanced",
+    "jurisdiction": "US",
+    "content": "(a) Audit. No more than once per calendar year, and upon at least thirty (30) days' prior written notice, Customer (or an independent third-party auditor designated by Customer and reasonably acceptable to Vendor, who is not a competitor of Vendor and who is bound by confidentiality obligations no less protective than those in this Agreement) may audit Vendor's records, systems, and facilities solely to the extent reasonably necessary to verify Vendor's compliance with this Agreement, including the fees invoiced and Vendor's security and data-handling obligations. Any such audit shall be conducted during Vendor's normal business hours, in a manner that does not unreasonably interfere with Vendor's operations, and in compliance with Vendor's reasonable safety, security, and access policies. (b) Reports in lieu of on-site audit. In lieu of an on-site audit of Vendor's security controls, Vendor may satisfy its obligations under this Section by providing, upon request, its most recent SOC 2 Type II report, ISO/IEC 27001 certification, or a comparable independent third-party audit report or attestation, and Customer agrees to rely on such report or certification where it reasonably addresses the matters in scope, except where applicable law or a documented regulatory request requires a more specific examination. (c) Confidentiality. All information disclosed or observed in connection with an audit is the Confidential Information of Vendor and may be used by Customer only to assess and enforce compliance under this Agreement. (d) Costs and findings. Each party shall bear its own costs in connection with an audit; provided that if an audit reveals (i) an underpayment exceeding five percent (5%) of the amounts properly due for the audited period, or (ii) a material non-compliance with Vendor's obligations under this Agreement, then Vendor shall reimburse Customer's reasonable out-of-pocket audit costs and shall promptly remediate the deficiency, and any underpayment shall be paid within thirty (30) days. This Section survives termination or expiration of this Agreement for one (1) year.",
+    "applicable_acts": [
+      "SOC 2 (AICPA SSAE 18 / TSC)",
+      "ISO/IEC 27001"
+    ],
+    "tags": [
+      "audit_rights",
+      "audit",
+      "annual_audit",
+      "soc2",
+      "iso27001",
+      "compliance",
+      "confidentiality",
+      "records_inspection",
+      "underpayment",
+      "remediation"
+    ],
+    "applicable_categories": [
+      "saas",
+      "msa",
+      "vendor_agreement",
+      "procurement",
+      "dpa",
+      "professional_services"
+    ]
+  },
+  {
+    "name": "Entire Agreement (integration, NDA carve-out, no reliance)",
+    "clause_type": "entire_agreement",
+    "tone": "balanced",
+    "jurisdiction": "US",
+    "content": "This Agreement, together with all exhibits, schedules, and order forms expressly incorporated by reference, constitutes the entire agreement between the parties with respect to its subject matter and supersedes and replaces all prior and contemporaneous agreements, proposals, negotiations, representations, warranties, understandings, and communications, whether written or oral, relating to that subject matter. Notwithstanding the foregoing, any separate confidentiality or non-disclosure agreement previously executed by the parties shall remain in full force and effect according to its terms and shall survive, and to the extent its confidentiality protections are broader than those in this Agreement, those broader protections control; in the event of any other conflict between such agreement and this Agreement, the terms of this Agreement govern. Each party acknowledges and agrees that, in entering into this Agreement, it has not relied on, and shall have no remedy in respect of, any statement, representation, assurance, or warranty (whether made negligently or innocently) that is not expressly set out in this Agreement. Nothing in this section limits or excludes any liability for fraud or fraudulent misrepresentation. No purchase order, acknowledgment, invoice, or other business form issued by either party shall add to, vary, or supersede the terms of this Agreement, and any conflicting or additional terms contained in any such document are hereby rejected and of no effect, even if signed or accepted, unless expressly agreed in a writing that references this section. This Agreement may be amended or modified only by a written instrument signed by an authorized representative of each party.",
+    "applicable_acts": [],
+    "tags": [
+      "entire-agreement",
+      "integration",
+      "merger",
+      "no-reliance",
+      "nda-carveout",
+      "order-of-precedence",
+      "no-oral-modification",
+      "antifraud",
+      "boilerplate"
+    ],
+    "applicable_categories": [
+      "saas",
+      "msa",
+      "sow",
+      "consulting",
+      "vendor_agreement",
+      "nda",
+      "license",
+      "professional_services",
+      "procurement",
+      "sale"
+    ]
+  },
+  {
+    "name": "Severability (mutual, with good-faith reformation to nearest enforceable intent)",
+    "clause_type": "severability",
+    "tone": "balanced",
+    "jurisdiction": "US",
+    "content": "Severability. If any term, covenant, or provision of this Agreement, or its application to any person or circumstance, is held by a court or other tribunal of competent jurisdiction to be invalid, illegal, void, or unenforceable in any respect, then (a) that holding will not affect, impair, or invalidate any other term, covenant, or provision of this Agreement or the application of the affected provision to any other person or circumstance, and (b) the remainder of this Agreement will continue in full force and effect and will be enforced to the fullest extent permitted by applicable law, as if the invalid, illegal, void, or unenforceable provision had never been contained in it. Upon a determination that any provision is invalid, illegal, void, or unenforceable, the parties will negotiate in good faith to modify this Agreement so as to effect their original intent as closely as possible to the greatest extent permitted by law, in order that the transactions contemplated by this Agreement be consummated as originally contemplated to the fullest extent possible. To that end, each party agrees that the court or tribunal making the determination is authorized and requested to reform, blue-pencil, or otherwise modify the affected provision to the minimum extent necessary to render it valid, legal, and enforceable while preserving as nearly as possible the economic and legal substance and intent of the original provision; if a provision is held unenforceable because it is excessive in scope, duration, geographic reach, or degree, the provision will be deemed amended to the maximum scope, duration, reach, or degree that is enforceable, and the provision will be enforced as so amended. Notwithstanding the foregoing, if severance or reformation of a provision would materially frustrate the essential purpose of this Agreement or deprive either party of the substantial benefit of its bargain, the parties will negotiate in good faith an equitable adjustment to the affected terms.",
+    "applicable_acts": [],
+    "tags": [
+      "severability",
+      "savings-clause",
+      "reformation",
+      "blue-pencil",
+      "boilerplate",
+      "general-provisions",
+      "miscellaneous",
+      "balanced",
+      "mutual"
+    ],
+    "applicable_categories": [
+      "saas",
+      "msa",
+      "sow",
+      "consulting",
+      "vendor_agreement",
+      "nda",
+      "employment",
+      "dpa",
+      "ip_assignment",
+      "license",
+      "sale",
+      "professional_services",
+      "partnership",
+      "procurement"
+    ]
+  },
+  {
+    "name": "No Waiver (writing-signed; non-continuing; no course-of-dealing waiver)",
+    "clause_type": "waiver",
+    "tone": "balanced",
+    "jurisdiction": "US",
+    "content": "No waiver of any provision of this Agreement, or of any breach, default, right, or remedy under it, will be effective unless it is set forth in a writing that identifies the provision or right being waived and is signed by the Party against whom the waiver is asserted. No waiver granted under this Section will constitute a waiver of, or estoppel with respect to, any other or subsequent breach or default, whether of the same or a different character, and no such waiver will extend to or affect any provision other than the one expressly waived. A waiver on any one occasion will be limited to that specific occasion and instance and will not be construed as a continuing waiver or as a waiver of any future performance of the same obligation. No failure or delay by either Party in exercising any right, power, or remedy under this Agreement will operate as a waiver of that right, power, or remedy, nor will any single or partial exercise of any right, power, or remedy preclude any other or further exercise of it or the exercise of any other right, power, or remedy. No waiver will be implied from, and neither Party may rely on, any course of dealing or course of performance between the Parties, any prior or subsequent indulgence or forbearance, any usage of trade, or the acceptance of any payment or performance, whether or not made or accepted with knowledge of a breach or of the existence of any right or remedy. The rights and remedies provided in this Agreement are cumulative and in addition to, and not exclusive of, any rights or remedies available at law or in equity, and a Party's election to pursue one remedy will not preclude it from pursuing any other.",
+    "applicable_acts": [],
+    "tags": [
+      "no-waiver",
+      "boilerplate",
+      "writing-signed",
+      "non-continuing-waiver",
+      "course-of-dealing",
+      "cumulative-remedies",
+      "no-implied-waiver",
+      "general-provisions"
+    ],
+    "applicable_categories": [
+      "saas",
+      "msa",
+      "sow",
+      "consulting",
+      "vendor_agreement",
+      "nda",
+      "employment",
+      "dpa",
+      "ip_assignment",
+      "license",
+      "sale",
+      "professional_services",
+      "partnership",
+      "procurement"
+    ]
+  },
+  {
+    "name": "Notices (mutual, certified mail / courier / email, effective on receipt or 3 business days)",
+    "clause_type": "notices",
+    "tone": "balanced",
+    "jurisdiction": "US",
+    "content": "All notices, consents, demands, approvals, and other communications required or permitted under this Agreement (each, a \"Notice\") must be in writing and delivered to the receiving party at the address set forth below such party's signature, or to any other address that such party may designate by Notice given in accordance with this Section. A Notice may be delivered by any of the following methods: (a) personal delivery; (b) certified or registered United States mail, postage prepaid, return receipt requested; (c) a nationally recognized overnight courier with tracking and signature confirmation; or (d) email to the email address designated below, provided that the sender does not receive an automated bounce or non-delivery message and concurrently sends a copy by a method described in clause (a), (b), or (c). A Notice is deemed effective: (i) upon actual receipt if personally delivered or sent by email in accordance with clause (d); (ii) one business day after deposit with an overnight courier; or (iii) the earlier of confirmed receipt or three business days after deposit with the United States Postal Service. Notwithstanding the foregoing, any Notice alleging a breach of, electing to terminate, or asserting indemnification or a claim under this Agreement must be delivered by a method described in clause (a), (b), or (c) (and may not be given solely by email) in order to be effective. Either party may update its Notice address or designated recipient by giving Notice to the other party in accordance with this Section. References to a party's legal department or general counsel, where designated below, are for courtesy copies only and do not by themselves constitute effective Notice.",
+    "applicable_acts": [
+      "E-SIGN Act (15 U.S.C. ch. 96)",
+      "Uniform Electronic Transactions Act (UETA)"
+    ],
+    "tags": [
+      "notices",
+      "boilerplate",
+      "miscellaneous",
+      "general-provisions",
+      "written-notice",
+      "email-notice",
+      "certified-mail",
+      "overnight-courier",
+      "effective-date",
+      "breach-notice",
+      "termination-notice"
+    ],
+    "applicable_categories": [
+      "saas",
+      "msa",
+      "sow",
+      "consulting",
+      "vendor_agreement",
+      "nda",
+      "employment",
+      "dpa",
+      "ip_assignment",
+      "license",
+      "sale",
+      "professional_services",
+      "partnership",
+      "procurement"
+    ]
+  },
+  {
+    "name": "Survival of Obligations on Expiration or Termination (mutual)",
+    "clause_type": "survival",
+    "tone": "balanced",
+    "jurisdiction": "US",
+    "content": "Survival. The expiration or termination of this Agreement, for any reason, shall not relieve either party of any obligation or liability that accrued before the effective date of such expiration or termination, nor of any obligation or liability arising out of any breach occurring before that date, and shall not affect any right or remedy that has accrued to either party as of that date. Any provision of this Agreement that, by its nature or express terms, is intended to survive expiration or termination shall so survive and remain in full force and effect, including the following (together with any related definitions and any Exhibits, Schedules, or Order Forms incorporated by reference to the extent they pertain to such provisions): (a) Confidentiality, for the period stated in that Section, and protection of trade secrets for so long as the information qualifies as a trade secret under applicable law; (b) ownership, assignment, and license of intellectual property and pre-existing materials; (c) representations and warranties, to the extent of their stated survival period; (d) indemnification; (e) limitation of liability and disclaimer of warranties; (f) accrued payment and reimbursement obligations, including any amounts that became due or were earned before the effective date of termination, together with applicable taxes and late charges; (g) audit and record-retention rights, to the extent expressly stated to survive; (h) return or destruction of materials and any post-termination transition or wind-down obligations; (i) governing law, dispute resolution, and venue or forum selection; and (j) the provisions of this Section and any provision addressing notices, no waiver, severability, and construction reasonably necessary to interpret or enforce the surviving terms. Where a Section specifies its own survival period, that stated period controls for that Section. The enumeration in this Section is illustrative and not exhaustive, and the omission of any provision from this list shall not be construed to mean that such provision does not survive if its survival is otherwise required by its nature or by law.",
+    "applicable_acts": [
+      "DTSA (18 U.S.C. 1836)",
+      "Uniform Trade Secrets Act (state-enacted)"
+    ],
+    "tags": [
+      "survival",
+      "termination",
+      "expiration",
+      "boilerplate",
+      "accrued-obligations",
+      "confidentiality",
+      "indemnity",
+      "mutual"
+    ],
+    "applicable_categories": [
+      "saas",
+      "msa",
+      "sow",
+      "consulting",
+      "vendor_agreement",
+      "nda",
+      "dpa",
+      "ip_assignment",
+      "license",
+      "sale",
+      "professional_services",
+      "partnership",
+      "procurement"
+    ]
+  },
+  {
+    "name": "Limitation of Liability (permissive, customer-favorable, 24-month or USD floor cap)",
+    "clause_type": "limitation_of_liability",
+    "tone": "permissive",
+    "jurisdiction": "US",
+    "content": "(a) Cap. Except for the Excluded Matters in subsection (c), each party's total aggregate liability arising out of or relating to this Agreement will not exceed the greater of (i) the total fees paid or payable under this Agreement in the twenty-four (24) months preceding the event giving rise to the claim, or (ii) USD 500,000.\n\n(b) Indirect Damages. Except for the Excluded Matters, neither party will be liable for indirect, incidental, special, consequential, or punitive damages, or for lost profits or revenue, whether or not advised of the possibility.\n\n(c) Excluded Matters (uncapped). The cap and the indirect-damages waiver do not apply to: (i) a party's indemnification obligations; (ii) breach of confidentiality or data-protection obligations; (iii) infringement or misappropriation of the other party's intellectual property; (iv) Customer's payment obligations; or (v) a party's gross negligence, willful misconduct, or fraud.",
+    "applicable_acts": [
+      "Uniform Commercial Code § 2-719",
+      "Cal. Civ. Code § 1668"
+    ],
+    "tags": [
+      "limitation-of-liability",
+      "liability-cap",
+      "permissive",
+      "customer-favorable",
+      "carve-outs"
+    ],
+    "applicable_categories": [
+      "saas",
+      "msa",
+      "vendor_agreement",
+      "consulting",
+      "license",
+      "procurement",
+      "sow"
+    ]
+  },
+  {
+    "name": "Mutual Indemnification (permissive, narrow third-party claims, capped at fees)",
+    "clause_type": "indemnification",
+    "tone": "permissive",
+    "jurisdiction": "US",
+    "content": "(a) Mutual Indemnity. Each party (the \"Indemnifying Party\") will defend the other party and its officers, directors, and employees (the \"Indemnified Party\") against any third-party claim to the extent arising from the Indemnifying Party's (i) gross negligence or willful misconduct or (ii) breach of its confidentiality obligations, and will indemnify the Indemnified Party for damages and reasonable attorneys' fees finally awarded against, or agreed in settlement by, the Indemnifying Party.\n\n(b) Cap. Each party's indemnification liability under this Section is subject to the limitations of liability in this Agreement, except for claims arising from a party's willful misconduct.\n\n(c) Procedure. The Indemnified Party will promptly notify the Indemnifying Party of the claim, give it sole control of the defense (except that it may not settle a claim that imposes non-monetary obligations on the Indemnified Party without consent), and provide reasonable cooperation at the Indemnifying Party's expense.",
+    "applicable_acts": [],
+    "tags": [
+      "indemnification",
+      "mutual",
+      "permissive",
+      "capped",
+      "third-party-claims",
+      "procedure"
+    ],
+    "applicable_categories": [
+      "saas",
+      "msa",
+      "vendor_agreement",
+      "consulting",
+      "professional_services",
+      "sow"
+    ]
+  },
+  {
+    "name": "Customer Indemnity (balanced, Customer data, content, and use of the Service)",
+    "clause_type": "indemnification",
+    "tone": "balanced",
+    "jurisdiction": "US",
+    "content": "Customer will defend Provider and its affiliates, officers, directors, and employees against any third-party claim to the extent arising from (a) Customer Data or any content, materials, or instructions Customer provides, including any claim that they infringe or misappropriate a third party's intellectual property or privacy rights; (b) Customer's use of the Service in violation of this Agreement, the documentation, or applicable law; or (c) Customer's products or services. Customer will indemnify Provider for damages and reasonable attorneys' fees finally awarded against, or agreed in settlement by, Provider. Provider will promptly notify Customer of the claim, grant Customer control of the defense (subject to Provider's right to participate with its own counsel at its expense), and provide reasonable cooperation at Customer's expense. Customer may not settle a claim in a manner that admits fault by Provider or imposes obligations on Provider without Provider's prior written consent.",
+    "applicable_acts": [],
+    "tags": [
+      "indemnification",
+      "customer-indemnity",
+      "balanced",
+      "customer-data",
+      "acceptable-use"
+    ],
+    "applicable_categories": [
+      "saas",
+      "msa",
+      "vendor_agreement",
+      "license",
+      "procurement"
+    ]
+  },
+  {
+    "name": "Termination for Convenience (balanced, either party, 30 days' notice, prepaid-fee refund)",
+    "clause_type": "termination",
+    "tone": "balanced",
+    "jurisdiction": "US",
+    "content": "(a) For Convenience. Either party may terminate this Agreement (or any affected Order) for convenience upon thirty (30) days' prior written notice to the other party.\n\n(b) Effect. Upon a termination by Customer for convenience, Customer will pay all fees accrued through the effective date of termination and is not entitled to a refund of prepaid fees. Upon a termination by Provider for convenience, Provider will refund to Customer any prepaid, unused fees for the period after the effective date of termination, calculated on a pro-rata basis.\n\n(c) No Penalty. Termination for convenience under this Section is without liability or penalty, and is in addition to, not in lieu of, any other right or remedy.",
+    "applicable_acts": [],
+    "tags": [
+      "termination",
+      "for-convenience",
+      "balanced",
+      "notice-period",
+      "prepaid-refund"
+    ],
+    "applicable_categories": [
+      "saas",
+      "msa",
+      "vendor_agreement",
+      "consulting",
+      "professional_services",
+      "sow"
+    ]
+  },
+  {
+    "name": "Termination for Cause with Cure Period and Suspension (protective, provider-favorable)",
+    "clause_type": "termination",
+    "tone": "protective",
+    "jurisdiction": "US",
+    "content": "(a) For Cause. A party may terminate this Agreement for cause if the other party materially breaches and fails to cure within thirty (30) days after written notice describing the breach (ten (10) days for non-payment), or immediately if the breach is not capable of cure.\n\n(b) Suspension. Without limiting its termination rights, Provider may suspend Customer's access to the Service upon notice if (i) Customer's account is overdue, (ii) Customer's use poses a security risk or may harm Provider's systems or other customers, or (iii) Customer is in breach of the acceptable-use terms. Provider will restore access promptly after the cause of suspension is resolved.\n\n(c) Insolvency. Either party may terminate immediately if the other becomes insolvent, makes an assignment for the benefit of creditors, or becomes subject to a bankruptcy proceeding not dismissed within sixty (60) days.\n\n(d) Effect. Upon termination for Customer's breach, all unpaid fees for the remainder of the then-current term become immediately due.",
+    "applicable_acts": [],
+    "tags": [
+      "termination",
+      "for-cause",
+      "cure-period",
+      "suspension",
+      "insolvency",
+      "protective"
+    ],
+    "applicable_categories": [
+      "saas",
+      "msa",
+      "vendor_agreement",
+      "license",
+      "procurement"
+    ]
+  },
+  {
+    "name": "Data Protection (CCPA/CPRA service-provider terms, protective)",
+    "clause_type": "data_protection",
+    "tone": "protective",
+    "jurisdiction": "US",
+    "content": "(a) Roles. To the extent Provider processes Personal Information (as defined under the California Consumer Privacy Act, as amended by the CPRA) on Customer's behalf, Provider acts as a \"service provider\" and Customer is the \"business.\"\n\n(b) Service-Provider Restrictions. Provider will not (i) sell or share Personal Information; (ii) retain, use, or disclose Personal Information for any purpose other than the specific purpose of performing the Service, or otherwise outside the direct business relationship with Customer; or (iii) combine Personal Information with information received from other sources, except as permitted by the CPRA. Provider certifies that it understands and will comply with these restrictions.\n\n(c) Assistance. Provider will reasonably assist Customer in responding to verifiable consumer requests (access, deletion, correction, opt-out) and in fulfilling Customer's security and risk-assessment obligations.\n\n(d) Subprocessors; Deletion. Provider will impose these obligations on any subprocessor by written contract, and on expiration or termination will delete or return Personal Information except as required by law.",
+    "applicable_acts": [
+      "CCPA/CPRA (Cal. Civ. Code § 1798.100 et seq.)"
+    ],
+    "tags": [
+      "data-protection",
+      "ccpa",
+      "cpra",
+      "service-provider",
+      "protective",
+      "subprocessors"
+    ],
+    "applicable_categories": [
+      "dpa",
+      "saas",
+      "vendor_agreement",
+      "msa",
+      "procurement"
+    ]
+  },
+  {
+    "name": "Data Protection (GDPR Article 28 processor terms with SCCs, balanced)",
+    "clause_type": "data_protection",
+    "tone": "balanced",
+    "jurisdiction": "US",
+    "content": "(a) Roles. Where Provider processes Personal Data subject to the EU/UK GDPR on Customer's behalf, Provider acts as processor and Customer as controller. Provider will process Personal Data only on Customer's documented instructions, including with regard to international transfers.\n\n(b) Article 28 Obligations. Provider will (i) ensure persons authorized to process Personal Data are bound by confidentiality; (ii) implement appropriate technical and organizational security measures; (iii) engage subprocessors only under a written contract imposing equivalent obligations and with notice to Customer; (iv) assist Customer with data-subject requests and with its obligations under Articles 32 to 36; and (v) on termination, delete or return Personal Data and delete existing copies except as required by law.\n\n(c) International Transfers. Where Provider transfers Personal Data outside the EEA or UK without an adequacy decision, the parties incorporate the EU Standard Contractual Clauses (and the UK International Data Transfer Addendum) by reference, which prevail in the event of conflict.\n\n(d) Audits. Provider will make available information necessary to demonstrate compliance and allow for audits, which may be satisfied by current third-party certifications or reports.",
+    "applicable_acts": [
+      "EU GDPR Article 28",
+      "EU Standard Contractual Clauses",
+      "UK GDPR / IDTA"
+    ],
+    "tags": [
+      "data-protection",
+      "gdpr",
+      "article-28",
+      "processor",
+      "sccs",
+      "international-transfers",
+      "balanced"
+    ],
+    "applicable_categories": [
+      "dpa",
+      "saas",
+      "vendor_agreement",
+      "msa"
+    ]
+  },
+  {
+    "name": "Assignment of Inventions and Work Made for Hire (balanced, employee/contractor)",
+    "clause_type": "intellectual_property",
+    "tone": "balanced",
+    "jurisdiction": "US",
+    "content": "(a) Work Made for Hire. All deliverables, works of authorship, inventions, and other materials conceived or developed by the Personnel in the course of performing under this Agreement (the \"Work Product\") are \"works made for hire\" under the U.S. Copyright Act to the extent permitted by law, and are owned by Company.\n\n(b) Present Assignment. To the extent any Work Product does not qualify as a work made for hire, the Personnel hereby irrevocably assign to Company all right, title, and interest in and to the Work Product, including all patent, copyright, trade-secret, and other intellectual property rights, effective automatically upon creation.\n\n(c) Moral Rights; Further Assurances. The Personnel waive any moral rights in the Work Product and will, at Company's expense, execute documents and take actions reasonably necessary to perfect and enforce Company's rights, and appoint Company as attorney-in-fact to do so if the Personnel are unavailable.\n\n(d) Pre-Existing and Excluded IP. This assignment does not apply to inventions developed entirely on the Personnel's own time without Company resources that do not relate to Company's business, to the extent such an exclusion is required by applicable state law.",
+    "applicable_acts": [
+      "17 U.S.C. § 101 (work made for hire)",
+      "Cal. Lab. Code § 2870"
+    ],
+    "tags": [
+      "intellectual-property",
+      "ip-assignment",
+      "work-made-for-hire",
+      "inventions",
+      "moral-rights",
+      "balanced"
+    ],
+    "applicable_categories": [
+      "ip_assignment",
+      "employment",
+      "consulting",
+      "professional_services",
+      "sow"
+    ]
+  },
+  {
+    "name": "IP Ownership with Pre-Existing IP Retained and License to Deliverables (permissive, provider-favorable)",
+    "clause_type": "intellectual_property",
+    "tone": "permissive",
+    "jurisdiction": "US",
+    "content": "(a) Pre-Existing and Background IP. Each party retains all right, title, and interest in its intellectual property existing before, or developed independently of, this Agreement, including Provider's tools, templates, methodologies, know-how, and software (\"Provider Materials\").\n\n(b) Deliverables License. Provider retains ownership of the deliverables and the Provider Materials embedded in them, and grants Customer a perpetual, non-exclusive, worldwide, fully-paid license to use, copy, and modify the deliverables for Customer's internal business purposes.\n\n(c) Customer Materials. Customer retains ownership of materials and data it provides and grants Provider a license to use them solely to perform the Service.\n\n(d) Residuals. Provider may use the general knowledge, skills, and experience, and any ideas, concepts, and techniques retained in the unaided memory of its personnel, acquired during performance, provided it does not use Customer's Confidential Information in breach of this Agreement.",
+    "applicable_acts": [],
+    "tags": [
+      "intellectual-property",
+      "background-ip",
+      "deliverables-license",
+      "residuals",
+      "permissive",
+      "provider-favorable"
+    ],
+    "applicable_categories": [
+      "consulting",
+      "professional_services",
+      "sow",
+      "saas",
+      "license"
+    ]
+  },
+  {
+    "name": "Payment Terms (protective, Net 45, late interest, suspension, no setoff)",
+    "clause_type": "payment_terms",
+    "tone": "protective",
+    "jurisdiction": "US",
+    "content": "(a) Invoicing and Due Date. Provider will invoice Customer as set out in the applicable Order, and Customer will pay undisputed amounts within forty-five (45) days after the invoice date in U.S. dollars.\n\n(b) Late Payment. Overdue amounts accrue interest at the lesser of 1.5% per month or the maximum rate permitted by law, from the due date until paid, and Customer will reimburse reasonable costs of collection.\n\n(c) Suspension. If any undisputed amount is more than fifteen (15) days overdue, Provider may, on notice, suspend performance until paid, without limiting its other remedies.\n\n(d) Taxes. Fees are exclusive of taxes; Customer is responsible for all sales, use, VAT, and similar taxes other than taxes on Provider's net income.\n\n(e) No Setoff. Customer will pay all amounts without setoff, deduction, or withholding, except as required by law.",
+    "applicable_acts": [],
+    "tags": [
+      "payment-terms",
+      "net-45",
+      "late-interest",
+      "suspension",
+      "taxes",
+      "no-setoff",
+      "protective"
+    ],
+    "applicable_categories": [
+      "saas",
+      "msa",
+      "vendor_agreement",
+      "consulting",
+      "professional_services",
+      "sow",
+      "procurement"
+    ]
+  },
+  {
+    "name": "Governing Law and Jurisdiction (balanced, Delaware law, consent to Delaware courts)",
+    "clause_type": "governing_law",
+    "tone": "balanced",
+    "jurisdiction": "US",
+    "content": "This Agreement is governed by the laws of the State of Delaware, without regard to its conflict-of-laws rules, and excluding the U.N. Convention on Contracts for the International Sale of Goods. The parties consent to the exclusive jurisdiction of the state and federal courts located in Wilmington, Delaware for any dispute arising out of or relating to this Agreement that is not subject to arbitration, and waive any objection to venue or forum non conveniens. Each party irrevocably waives any right to a trial by jury.",
+    "applicable_acts": [],
+    "tags": [
+      "governing-law",
+      "delaware",
+      "forum-selection",
+      "jury-waiver",
+      "balanced"
+    ],
+    "applicable_categories": [
+      "saas",
+      "msa",
+      "vendor_agreement",
+      "shareholders",
+      "license",
+      "procurement",
+      "sow"
+    ]
+  },
+  {
+    "name": "Dispute Resolution (balanced, escalation then litigation, no arbitration)",
+    "clause_type": "dispute_resolution",
+    "tone": "balanced",
+    "jurisdiction": "US",
+    "content": "(a) Escalation. Before commencing litigation (other than for injunctive relief), the parties will attempt in good faith to resolve any dispute by escalating it to senior executives with authority to settle, who will meet (in person or by video) within fifteen (15) business days after a party's written request.\n\n(b) Litigation. If the dispute is not resolved within thirty (30) days after the escalation request, either party may pursue its remedies in the courts designated in the Governing Law section.\n\n(c) Injunctive Relief. Either party may seek injunctive or other equitable relief in any court of competent jurisdiction to protect its intellectual property or Confidential Information without first complying with subsection (a).\n\n(d) Fees. In any action to enforce this Agreement, the prevailing party is entitled to recover its reasonable attorneys' fees and costs.",
+    "applicable_acts": [],
+    "tags": [
+      "dispute-resolution",
+      "escalation",
+      "litigation",
+      "injunctive-relief",
+      "prevailing-party",
+      "balanced"
+    ],
+    "applicable_categories": [
+      "saas",
+      "msa",
+      "vendor_agreement",
+      "consulting",
+      "professional_services",
+      "sow"
+    ]
+  },
+  {
+    "name": "Amendments and Order of Precedence (balanced, writing-signed, no oral modification)",
+    "clause_type": "amendment",
+    "tone": "balanced",
+    "jurisdiction": "US",
+    "content": "(a) Amendments. No amendment or modification of this Agreement is effective unless in writing and signed by an authorized representative of each party. No oral statement, course of dealing, or course of performance modifies this Agreement.\n\n(b) Order of Precedence. In the event of a conflict among the documents comprising this Agreement, the following order of precedence governs, unless an Order expressly states that it overrides a specific section by reference: (i) the body of this Agreement, (ii) any exhibits or addenda, and (iii) the applicable Order or statement of work.\n\n(c) Click-Through Terms. Any conflicting or additional terms in a Customer purchase order, vendor portal, or click-through are void and of no effect.",
+    "applicable_acts": [],
+    "tags": [
+      "amendment",
+      "no-oral-modification",
+      "order-of-precedence",
+      "purchase-order-override",
+      "balanced"
+    ],
+    "applicable_categories": [
+      "msa",
+      "saas",
+      "vendor_agreement",
+      "procurement",
+      "sow"
+    ]
+  },
+  {
+    "name": "Subcontracting (balanced, consent, flow-down, prime responsibility)",
+    "clause_type": "subcontracting",
+    "tone": "balanced",
+    "jurisdiction": "US",
+    "content": "Provider may engage subcontractors to perform portions of the Service, provided that Provider (a) remains fully responsible and liable for the acts and omissions of its subcontractors and for their compliance with this Agreement to the same extent as if performed by Provider; (b) imposes on each subcontractor written obligations consistent with this Agreement, including confidentiality, data-protection, and intellectual-property terms; and (c) does not disclose Customer's Confidential Information to a subcontractor except on a need-to-know basis. Provider will, on Customer's reasonable request, identify its subcontractors that have access to Customer Data, and Customer may object on reasonable, documented grounds relating to data protection or security.",
+    "applicable_acts": [],
+    "tags": [
+      "subcontracting",
+      "flow-down",
+      "prime-responsibility",
+      "subprocessors",
+      "balanced"
+    ],
+    "applicable_categories": [
+      "msa",
+      "vendor_agreement",
+      "saas",
+      "professional_services",
+      "procurement",
+      "sow"
+    ]
+  },
+  {
+    "name": "Non-Compete (balanced, narrow, state-law savings; void where prohibited)",
+    "clause_type": "non_compete",
+    "tone": "balanced",
+    "jurisdiction": "US",
+    "content": "(a) Covenant. During employment and for twelve (12) months after the Personnel's separation, the Personnel will not, within the defined territory, provide services to a competing business that are the same as or substantially similar to those the Personnel provided to the Company, where doing so would foreseeably involve the use or disclosure of the Company's Confidential Information or trade secrets.\n\n(b) State-Law Limitations. This Section does not apply, and is void, to the extent prohibited by the law of the jurisdiction governing the Personnel's employment. Post-employment non-competes are unenforceable for most employees in California, Minnesota, North Dakota, and Oklahoma, and several states (for example, Washington, Colorado, Illinois, and Oregon) enforce them only above a statutory compensation threshold; in those jurisdictions this Section is of no force as to a covered employee.\n\n(c) Reformation. If a court finds the duration, geographic scope, or activity restriction unreasonable, the parties intend the court to reform this Section to the maximum restriction that is enforceable rather than void it.\n\n(d) Preserved Protections. Regardless of the enforceability of this Section, the Personnel's confidentiality, trade-secret, and non-solicitation obligations remain in full effect.",
+    "applicable_acts": [
+      "Cal. Bus. & Prof. Code § 16600",
+      "Defend Trade Secrets Act (18 U.S.C. § 1836)"
+    ],
+    "tags": [
+      "non-compete",
+      "restrictive-covenant",
+      "state-law-savings",
+      "blue-pencil",
+      "reformation",
+      "balanced"
+    ],
+    "applicable_categories": [
+      "employment",
+      "consulting",
+      "professional_services"
+    ]
+  },
+  {
+    "name": "Information Security and Breach Notification (protective, SOC 2/encryption, notice without undue delay)",
+    "clause_type": "data_protection",
+    "tone": "protective",
+    "jurisdiction": "US",
+    "content": "(a) Security Program. Provider will maintain a written information security program with administrative, technical, and physical safeguards aligned to a recognized framework (for example, SOC 2 Type II, ISO/IEC 27001, or the NIST Cybersecurity Framework), including encryption of Customer Data in transit and at rest, access controls on a least-privilege basis, secure software development practices, logging, and regular vulnerability testing.\n\n(b) Breach Notification. Provider will notify Customer of any confirmed Security Incident affecting Customer Data without undue delay and in any event within seventy-two (72) hours of confirmation, will provide the information reasonably necessary for Customer to meet its own notification obligations, and will not notify regulators or affected individuals on Customer's behalf without Customer's prior written consent except as required by law.\n\n(c) Remediation. Provider will investigate, remediate, and mitigate the Security Incident at its expense, and will reasonably cooperate with Customer's investigation.\n\n(d) Audits. On reasonable notice and no more than annually (or after a Security Incident), Provider will make available its current third-party audit reports and respond to reasonable security questionnaires.",
+    "applicable_acts": [
+      "SOC 2",
+      "ISO/IEC 27001",
+      "NIST Cybersecurity Framework"
+    ],
+    "tags": [
+      "data-protection",
+      "information-security",
+      "breach-notification",
+      "soc2",
+      "encryption",
+      "protective"
+    ],
+    "applicable_categories": [
+      "dpa",
+      "saas",
+      "vendor_agreement",
+      "msa",
+      "procurement"
+    ]
+  },
+  {
+    "name": "Artificial Intelligence and Generative-AI Use (balanced, output, IP indemnity, no training on Customer Data)",
+    "clause_type": "custom",
+    "tone": "balanced",
+    "jurisdiction": "US",
+    "content": "(a) Permitted Use. To the extent Provider uses artificial intelligence or machine-learning models (including generative-AI systems) to provide the Service, Provider will do so in accordance with this Agreement, the documentation, and applicable law.\n\n(b) Customer Data; No Training. Provider will not use Customer Data, Customer's inputs, or outputs generated for Customer to train, fine-tune, or improve any model made available to other customers or third parties, except using aggregated and de-identified data that cannot reasonably be associated with Customer.\n\n(c) Output Ownership. As between the parties, Customer owns the outputs generated for it through its use of the Service, and Provider assigns to Customer any rights it may have in those outputs, subject to Provider's retained rights in the underlying models and Provider Materials.\n\n(d) IP Indemnity. Provider's intellectual-property indemnification obligations extend to third-party claims that the Service's AI output, as delivered by Provider, infringes a third party's intellectual-property rights, excluding claims arising from Customer's inputs or Customer's modification or combination of the output.\n\n(e) Human Oversight. Customer is responsible for reviewing AI-generated output before relying on it for any decision with legal or similarly significant effect.",
+    "applicable_acts": [],
+    "tags": [
+      "artificial-intelligence",
+      "generative-ai",
+      "model-training",
+      "output-ownership",
+      "ip-indemnity",
+      "balanced"
+    ],
+    "applicable_categories": [
+      "saas",
+      "vendor_agreement",
+      "msa",
+      "license",
+      "procurement"
+    ]
+  },
+  {
+    "name": "Anti-Corruption and Economic Sanctions (protective, FCPA, OFAC, export controls)",
+    "clause_type": "custom",
+    "tone": "protective",
+    "jurisdiction": "US",
+    "content": "(a) Anti-Corruption. Each party will comply with all applicable anti-corruption laws, including the U.S. Foreign Corrupt Practices Act and the UK Bribery Act, and will not, directly or indirectly, offer, promise, give, or authorize any payment or thing of value to any government official or private party to obtain an improper advantage in connection with this Agreement.\n\n(b) Sanctions and Export Controls. Each party will comply with applicable economic-sanctions and export-control laws, including those administered by the U.S. Office of Foreign Assets Control (OFAC), the U.S. Export Administration Regulations, and the International Traffic in Arms Regulations. Neither party will provide the Service to, or use the Service in, a sanctioned jurisdiction or by a sanctioned or denied party.\n\n(c) Representations. Each party represents that it and its owners, directors, and officers are not the target of sanctions and have not been convicted of, and are not under investigation for, a violation of anti-corruption or sanctions laws.\n\n(d) Remedies. A breach of this Section is a material breach permitting immediate termination, and the breaching party will indemnify the other for resulting losses, fines, and penalties.",
+    "applicable_acts": [
+      "Foreign Corrupt Practices Act (15 U.S.C. §§ 78dd-1 et seq.)",
+      "OFAC sanctions regulations (31 C.F.R.)",
+      "Export Administration Regulations (15 C.F.R. Part 730 et seq.)"
+    ],
+    "tags": [
+      "anti-corruption",
+      "fcpa",
+      "sanctions",
+      "ofac",
+      "export-controls",
+      "compliance",
+      "protective"
+    ],
+    "applicable_categories": [
+      "msa",
+      "vendor_agreement",
+      "procurement",
+      "consulting",
+      "supply"
+    ]
+  },
+  {
+    "name": "Service Levels and Service Credits (balanced, uptime commitment, credits, chronic-failure termination)",
+    "clause_type": "custom",
+    "tone": "balanced",
+    "jurisdiction": "US",
+    "content": "(a) Availability Commitment. Provider will make the Service available at least 99.9% of the time each calendar month, measured excluding scheduled maintenance (for which Provider gives at least forty-eight (48) hours' notice) and events outside Provider's reasonable control.\n\n(b) Service Credits. If monthly availability falls below the commitment, Customer is entitled, as its primary remedy, to service credits on a tiered schedule (for example, 5% of the monthly fee for availability of 99.0% to 99.9%, scaling up for lower availability), claimed within thirty (30) days of the affected month.\n\n(c) Chronic Failure. If the Service fails to meet the availability commitment in three (3) consecutive months, or in any four (4) months in a rolling twelve-month period, Customer may terminate the affected Order for cause without penalty and receive a pro-rata refund of prepaid, unused fees.\n\n(d) Support. Provider will provide support and incident response in accordance with the severity-based response and resolution targets in the applicable Order or support policy.",
+    "applicable_acts": [],
+    "tags": [
+      "service-levels",
+      "sla",
+      "uptime",
+      "service-credits",
+      "chronic-failure",
+      "support",
+      "balanced"
+    ],
+    "applicable_categories": [
+      "saas",
+      "msa",
+      "vendor_agreement",
+      "procurement"
+    ]
+  },
+  {
+    "name": "Publicity and Use of Name (balanced, mutual prior written consent, limited customer-list license)",
+    "clause_type": "custom",
+    "tone": "balanced",
+    "jurisdiction": "US",
+    "content": "Neither party will issue any press release or public statement regarding this Agreement, or use the other party's name, logo, or trademarks in any advertising, marketing, or customer list, without the other party's prior written consent (email accepted), which may be withheld in its sole discretion. Notwithstanding the foregoing, Customer grants Provider a limited, revocable license to use Customer's name and logo solely to identify Customer as a customer on Provider's website and customer lists, subject to Customer's trademark usage guidelines and Customer's right to revoke that license on written notice. Any goodwill arising from use of a party's marks inures to the owner of the marks.",
+    "applicable_acts": [],
+    "tags": [
+      "publicity",
+      "use-of-name",
+      "logo-license",
+      "press-release",
+      "trademarks",
+      "balanced"
+    ],
+    "applicable_categories": [
+      "msa",
+      "saas",
+      "vendor_agreement",
+      "consulting",
+      "professional_services"
+    ]
+  }
+]

@@ -1,0 +1,827 @@
+[
+  {
+    "name": "M&A Due Diligence",
+    "description": "25 high-signal columns covering parties, structure, price, indemnification, escrow, regulatory, and termination terms.",
+    "category": "ma_diligence",
+    "columns": [
+      {
+        "label": "Buyer",
+        "question": "Who is the acquirer / buyer entity named in this agreement?",
+        "column_type": "party_name"
+      },
+      {
+        "label": "Seller / Target",
+        "question": "Who is the seller or target entity?",
+        "column_type": "party_name"
+      },
+      {
+        "label": "Transaction structure",
+        "question": "Is the deal structured as a stock purchase, asset purchase, or merger?",
+        "column_type": "single_select",
+        "options": [
+          "stock purchase",
+          "asset purchase",
+          "merger",
+          "other"
+        ]
+      },
+      {
+        "label": "Purchase price",
+        "question": "What is the total purchase price or consideration paid?",
+        "column_type": "money"
+      },
+      {
+        "label": "Payment form",
+        "question": "How is the consideration paid (cash, stock, earn-out, mix)?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Signing date",
+        "question": "What is the signing date of the agreement?",
+        "column_type": "date"
+      },
+      {
+        "label": "Target closing date",
+        "question": "What is the target / outside closing date?",
+        "column_type": "date"
+      },
+      {
+        "label": "Governing law",
+        "question": "What jurisdiction's law governs this agreement?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Dispute resolution",
+        "question": "How are disputes resolved (litigation, arbitration, venue)?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "MAC / MAE clause",
+        "question": "Is there a Material Adverse Change / Effect clause? Summarize its triggers.",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Indemnification cap",
+        "question": "What is the cap on seller indemnification?",
+        "column_type": "money"
+      },
+      {
+        "label": "Indemnification basket",
+        "question": "What is the deductible / basket for indemnification claims?",
+        "column_type": "money"
+      },
+      {
+        "label": "Indemnification survival",
+        "question": "How long do reps and warranties survive after closing?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Escrow amount",
+        "question": "What amount of consideration is held in escrow?",
+        "column_type": "money"
+      },
+      {
+        "label": "Escrow period",
+        "question": "How long is the escrow held?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "R&W insurance",
+        "question": "Is representations and warranties insurance referenced?",
+        "column_type": "yes_no"
+      },
+      {
+        "label": "Non-compete on seller",
+        "question": "Is the seller subject to a post-closing non-compete? For how long?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Non-solicit on seller",
+        "question": "Is the seller subject to a non-solicitation covenant?",
+        "column_type": "yes_no"
+      },
+      {
+        "label": "Employee retention",
+        "question": "Are there employee retention or change-of-control terms?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Regulatory approvals",
+        "question": "What regulatory approvals are required as closing conditions?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Antitrust filing",
+        "question": "Is an HSR or other antitrust filing required?",
+        "column_type": "yes_no"
+      },
+      {
+        "label": "Termination rights",
+        "question": "Under what circumstances may either party terminate prior to closing?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Breakup fee",
+        "question": "Is there a termination / breakup fee, and if so, how much?",
+        "column_type": "money"
+      },
+      {
+        "label": "Earn-out terms",
+        "question": "Are there earn-out provisions and what triggers them?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Working capital adjustment",
+        "question": "Is there a working capital adjustment mechanism?",
+        "column_type": "yes_no"
+      }
+    ]
+  },
+  {
+    "name": "NDA Review",
+    "description": "13 columns for fast triage of mutual and one-way NDAs: parties, term, exclusions, return-or-destroy, equitable relief.",
+    "category": "nda_review",
+    "columns": [
+      {
+        "label": "Disclosing party",
+        "question": "Who is the disclosing party?",
+        "column_type": "party_name"
+      },
+      {
+        "label": "Receiving party",
+        "question": "Who is the receiving party?",
+        "column_type": "party_name"
+      },
+      {
+        "label": "Mutual or one-way",
+        "question": "Is this NDA mutual or one-way?",
+        "column_type": "single_select",
+        "options": [
+          "mutual",
+          "one-way"
+        ]
+      },
+      {
+        "label": "Effective date",
+        "question": "What is the effective date of the NDA?",
+        "column_type": "date"
+      },
+      {
+        "label": "Term",
+        "question": "How long does the agreement last?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Confidentiality period",
+        "question": "How long is the duty of confidentiality?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Definition of confidential info",
+        "question": "How is confidential information defined?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Permitted use",
+        "question": "For what purpose may the receiving party use the information?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Exclusions",
+        "question": "What information is expressly excluded from the confidentiality obligation?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Return / destruction",
+        "question": "What are the return-or-destroy obligations on termination?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Governing law",
+        "question": "What law governs the NDA?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Dispute resolution venue",
+        "question": "What is the venue for disputes?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Equitable relief",
+        "question": "Does the NDA permit equitable / injunctive relief?",
+        "column_type": "yes_no"
+      }
+    ]
+  },
+  {
+    "name": "Commercial Lease Abstraction",
+    "description": "20 columns covering parties, premises, rent, escalations, renewal, default, casualty, and indemnification.",
+    "category": "lease_review",
+    "columns": [
+      {
+        "label": "Landlord",
+        "question": "Who is the landlord?",
+        "column_type": "party_name"
+      },
+      {
+        "label": "Tenant",
+        "question": "Who is the tenant?",
+        "column_type": "party_name"
+      },
+      {
+        "label": "Premises address",
+        "question": "What is the address of the leased premises?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Premises size",
+        "question": "What is the square footage of the leased premises?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Lease commencement",
+        "question": "What is the lease commencement date?",
+        "column_type": "date"
+      },
+      {
+        "label": "Lease expiration",
+        "question": "What is the lease expiration date?",
+        "column_type": "date"
+      },
+      {
+        "label": "Term length",
+        "question": "What is the total lease term in months or years?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Base rent",
+        "question": "What is the base rent and how is it paid?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Rent escalation",
+        "question": "Are there rent escalations and how are they calculated?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Security deposit",
+        "question": "What is the security deposit amount?",
+        "column_type": "money"
+      },
+      {
+        "label": "Permitted use",
+        "question": "What is the permitted use of the premises?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "CAM / Operating expenses",
+        "question": "Is the tenant responsible for CAM or operating expenses?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Renewal option",
+        "question": "Does the tenant have a renewal option?",
+        "column_type": "yes_no"
+      },
+      {
+        "label": "Renewal terms",
+        "question": "If yes, what are the renewal terms?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Assignment / subletting",
+        "question": "What are the assignment and subletting rules?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Default and cure",
+        "question": "What constitutes a default and what is the cure period?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Holdover",
+        "question": "What are the holdover provisions?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Insurance requirements",
+        "question": "What insurance is the tenant required to maintain?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Indemnification",
+        "question": "Summarize the tenant's indemnification obligations.",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Casualty / Condemnation",
+        "question": "What happens on casualty or condemnation?",
+        "column_type": "free_text"
+      }
+    ]
+  },
+  {
+    "name": "Employment Agreement Review",
+    "description": "16 columns for compensation, equity, IP assignment, restrictive covenants, and termination terms.",
+    "category": "employment_review",
+    "columns": [
+      {
+        "label": "Employer",
+        "question": "Who is the employer?",
+        "column_type": "party_name"
+      },
+      {
+        "label": "Employee",
+        "question": "Who is the employee?",
+        "column_type": "party_name"
+      },
+      {
+        "label": "Position / title",
+        "question": "What is the employee's position or title?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Start date",
+        "question": "What is the employment start date?",
+        "column_type": "date"
+      },
+      {
+        "label": "Employment type",
+        "question": "Is this at-will or fixed-term?",
+        "column_type": "single_select",
+        "options": [
+          "at-will",
+          "fixed-term",
+          "other"
+        ]
+      },
+      {
+        "label": "Base salary",
+        "question": "What is the base salary?",
+        "column_type": "money"
+      },
+      {
+        "label": "Bonus",
+        "question": "Is there a bonus and how is it determined?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Equity grant",
+        "question": "Is equity granted and on what vesting?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Benefits",
+        "question": "Summarize benefits provided.",
+        "column_type": "free_text"
+      },
+      {
+        "label": "IP assignment",
+        "question": "Does the agreement include an IP assignment clause?",
+        "column_type": "yes_no"
+      },
+      {
+        "label": "Non-compete",
+        "question": "Is there a non-compete and what are its terms?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Non-solicit",
+        "question": "Is there a non-solicitation clause and what is the duration?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Confidentiality",
+        "question": "Summarize the confidentiality obligations.",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Termination for cause",
+        "question": "What constitutes cause for termination?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Severance",
+        "question": "Is severance payable on termination without cause? Summarize.",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Governing law",
+        "question": "What law governs the agreement?",
+        "column_type": "free_text"
+      }
+    ]
+  },
+  {
+    "name": "SaaS MSA Review",
+    "description": "19 columns covering fees, term, SLAs, DPA, security, IP ownership, indemnification, and limitation of liability.",
+    "category": "msa_review",
+    "columns": [
+      {
+        "label": "Vendor",
+        "question": "Who is the SaaS vendor / service provider?",
+        "column_type": "party_name"
+      },
+      {
+        "label": "Customer",
+        "question": "Who is the customer?",
+        "column_type": "party_name"
+      },
+      {
+        "label": "Service description",
+        "question": "What service is provided?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Effective date",
+        "question": "What is the effective date?",
+        "column_type": "date"
+      },
+      {
+        "label": "Initial term",
+        "question": "What is the initial term?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Renewal",
+        "question": "How does the agreement renew?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Fees",
+        "question": "What are the fees and the pricing structure?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Payment terms",
+        "question": "What are the payment terms?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Auto-renew",
+        "question": "Does the agreement auto-renew?",
+        "column_type": "yes_no"
+      },
+      {
+        "label": "Termination for convenience",
+        "question": "May either party terminate for convenience? On what notice?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Termination for cause",
+        "question": "What are the cause-based termination triggers?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "SLA / uptime commitment",
+        "question": "Is there a service level agreement or uptime commitment?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Service credits",
+        "question": "Are service credits available for SLA breaches?",
+        "column_type": "yes_no"
+      },
+      {
+        "label": "Data processing",
+        "question": "Is there a DPA or specific data-processing terms?",
+        "column_type": "yes_no"
+      },
+      {
+        "label": "Security obligations",
+        "question": "What security obligations apply to the vendor?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Limitation of liability",
+        "question": "What is the limitation of liability cap?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Indemnification",
+        "question": "Summarize the indemnification obligations.",
+        "column_type": "free_text"
+      },
+      {
+        "label": "IP ownership",
+        "question": "Who owns the IP in the service and in customer data?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Governing law",
+        "question": "What law governs the agreement?",
+        "column_type": "free_text"
+      }
+    ]
+  },
+  {
+    "name": "Loan Agreement Review",
+    "description": "19 columns for principal, interest, repayment, collateral, covenants, defaults, and remedies.",
+    "category": "loan_review",
+    "columns": [
+      {
+        "label": "Lender",
+        "question": "Who is the lender?",
+        "column_type": "party_name"
+      },
+      {
+        "label": "Borrower",
+        "question": "Who is the borrower?",
+        "column_type": "party_name"
+      },
+      {
+        "label": "Principal amount",
+        "question": "What is the principal amount of the loan?",
+        "column_type": "money"
+      },
+      {
+        "label": "Loan type",
+        "question": "Is this a term loan, revolving credit, line of credit, or other?",
+        "column_type": "single_select",
+        "options": [
+          "term loan",
+          "revolving credit",
+          "line of credit",
+          "other"
+        ]
+      },
+      {
+        "label": "Interest rate",
+        "question": "What is the interest rate and how is it computed?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Interest rate basis",
+        "question": "Is the rate fixed or floating (and on what benchmark)?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Maturity date",
+        "question": "What is the maturity date?",
+        "column_type": "date"
+      },
+      {
+        "label": "Repayment schedule",
+        "question": "What is the repayment schedule?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Prepayment",
+        "question": "Are prepayments allowed? Are there prepayment penalties?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Collateral",
+        "question": "What collateral, if any, secures the loan?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Guarantors",
+        "question": "Are there guarantors?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Financial covenants",
+        "question": "What financial covenants apply to the borrower?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Reporting requirements",
+        "question": "What reporting must the borrower provide?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Events of default",
+        "question": "What are the events of default?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Cure period",
+        "question": "Is there a cure period for default?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Default rate",
+        "question": "What is the interest rate that applies during default?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Acceleration",
+        "question": "When may the lender accelerate the loan?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Governing law",
+        "question": "What law governs the agreement?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Dispute resolution venue",
+        "question": "What is the venue for disputes?",
+        "column_type": "free_text"
+      }
+    ]
+  },
+  {
+    "name": "Shareholder Agreement Review",
+    "description": "15 columns: parties, share classes, board, reserved matters, pre-emption, drag/tag-along, exit, deadlock, restrictive covenants.",
+    "category": "sha_review",
+    "columns": [
+      {
+        "label": "Parties",
+        "question": "Identify all parties (company, founders, investors, classes of shareholders).",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Share classes",
+        "question": "List all share classes and their principal rights (voting, economic, preference).",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Capitalization snapshot",
+        "question": "What is the agreed capitalization or cap-table position at signing?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Board composition",
+        "question": "How is the board composed? Who appoints which seats?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Reserved matters / consent rights",
+        "question": "What matters require investor or class consent? Quote thresholds.",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Pre-emption rights",
+        "question": "What pre-emption / anti-dilution rights apply on new issuances?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Transfer restrictions",
+        "question": "What restrictions apply to transfers of shares (ROFR, ROFO, lock-up)?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Drag-along",
+        "question": "Is there a drag-along right? Summarize trigger thresholds and carve-outs.",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Tag-along",
+        "question": "Is there a tag-along right? Summarize scope and exceptions.",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Information rights",
+        "question": "What information / inspection rights do investors hold?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Liquidation preference",
+        "question": "What is the liquidation preference (multiple, participation, seniority)?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Exit / IPO obligations",
+        "question": "What exit, IPO, or registration-rights obligations are agreed?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Deadlock resolution",
+        "question": "How are board or shareholder deadlocks resolved? (Swing vote, buy-sell, mediation.)",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Non-compete / non-solicit on founders",
+        "question": "What non-compete or non-solicit obligations apply to founders?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Governing law and dispute resolution",
+        "question": "What law governs and what is the dispute-resolution forum?",
+        "column_type": "free_text"
+      }
+    ]
+  },
+  {
+    "name": "DPA / Sub-processor Review",
+    "description": "18 columns for data-protection diligence: controller/processor roles, data categories, sub-processor and breach-notice terms, security measures, audit rights, cross-border transfer mechanism, SCC module, deletion-on-termination, and HIPAA BAA.",
+    "category": "dpa_review",
+    "columns": [
+      {
+        "label": "Controller / Business",
+        "question": "Who is the data controller (GDPR) or business (CCPA) under this agreement?",
+        "column_type": "party_name"
+      },
+      {
+        "label": "Processor / Vendor",
+        "question": "Who is the data processor or service provider (the vendor)?",
+        "column_type": "party_name"
+      },
+      {
+        "label": "Vendor role",
+        "question": "How is the vendor designated for data-protection purposes?",
+        "column_type": "single_select",
+        "options": [
+          "processor",
+          "sub-processor",
+          "service provider",
+          "controller",
+          "unclear"
+        ]
+      },
+      {
+        "label": "Categories of personal data",
+        "question": "What categories of personal data are processed under the agreement?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Categories of data subjects",
+        "question": "Whose personal data is processed (categories of data subjects)?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Nature / purpose of processing",
+        "question": "What is the stated nature and purpose of the processing?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Sub-processors permitted",
+        "question": "Does the agreement permit the vendor to engage sub-processors?",
+        "column_type": "yes_no"
+      },
+      {
+        "label": "Sub-processor notice / objection",
+        "question": "What prior notice or objection right does the customer have before a new sub-processor is engaged?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Breach notification window",
+        "question": "Within what timeframe must the vendor notify the customer of a personal data breach?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Security measures (TOMs)",
+        "question": "Does the agreement specify technical and organizational security measures (e.g., encryption, access controls, an Annex)?",
+        "column_type": "yes_no"
+      },
+      {
+        "label": "Audit rights",
+        "question": "Does the customer have audit or inspection rights (or a SOC 2 / ISO 27001 report in lieu)?",
+        "column_type": "yes_no"
+      },
+      {
+        "label": "Cross-border transfer mechanism",
+        "question": "What mechanism governs international transfers of personal data?",
+        "column_type": "single_select",
+        "options": [
+          "EU SCCs (2021)",
+          "UK Addendum / IDTA",
+          "adequacy decision",
+          "BCRs",
+          "none stated",
+          "not applicable"
+        ]
+      },
+      {
+        "label": "SCC module",
+        "question": "Which Standard Contractual Clauses module applies, if stated?",
+        "column_type": "single_select",
+        "options": [
+          "Module 1 (C2C)",
+          "Module 2 (C2P)",
+          "Module 3 (P2P)",
+          "Module 4 (P2C)",
+          "not stated",
+          "N/A"
+        ]
+      },
+      {
+        "label": "Deletion / return on termination",
+        "question": "Does the vendor agree to delete or return personal data on termination?",
+        "column_type": "yes_no"
+      },
+      {
+        "label": "Data-subject request assistance",
+        "question": "Does the vendor agree to assist the customer with data-subject rights requests (access, deletion, portability)?",
+        "column_type": "yes_no"
+      },
+      {
+        "label": "HIPAA BAA included",
+        "question": "Does the agreement include or reference a HIPAA Business Associate Agreement (where PHI is involved)?",
+        "column_type": "yes_no"
+      },
+      {
+        "label": "Breach liability / indemnity",
+        "question": "How is liability or indemnification for a data breach allocated between the parties?",
+        "column_type": "free_text"
+      },
+      {
+        "label": "Governing law",
+        "question": "What law governs the data processing agreement?",
+        "column_type": "free_text"
+      }
+    ]
+  }
+]

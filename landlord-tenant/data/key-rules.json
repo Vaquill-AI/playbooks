@@ -1,0 +1,130 @@
+{
+  "_table": "Key reference rules (repair-and-deduct, illegal-lockout penalty, etc.)",
+  "_key": "2-letter USPS state code",
+  "_note": "Each state maps to a list of rules; detail / citation may be null; effective_through (ISO date) marks the last known-good date for a volatile figure.",
+  "_last_reviewed": "2026-05",
+  "_notice": "General reference, not legal advice. Statutes change and vary by jurisdiction; verify every figure against the current official state code before relying on it. Last reviewed 2026-05.",
+  "_entries": 9,
+  "CA": [
+    {
+      "category": "Repair and deduct",
+      "value": "Up to one month's rent, no more than twice in any 12-month period",
+      "detail": "Available after written or oral notice of an untenantable condition the landlord fails to repair in a reasonable time (30 days is presumed reasonable). Not available if the tenant caused the condition.",
+      "citation": "Cal. Civ. Code § 1942",
+      "volatile": false,
+      "effective_through": null
+    },
+    {
+      "category": "Illegal lockout / utility shutoff",
+      "value": "$100 per day, $250 minimum per cause of action, plus actual damages",
+      "detail": "Self-help eviction (changing locks, shutting off utilities, removing doors or the tenant's belongings) is barred. Repeated, non-contemporaneous violations are separate causes of action with separate awards.",
+      "citation": "Cal. Civ. Code § 789.3",
+      "volatile": false,
+      "effective_through": null
+    },
+    {
+      "category": "Abandoned personal property",
+      "value": "Reclaim within 15 days (18 if mailed); under $700 total value, landlord may keep or dispose",
+      "detail": "After a Notice of Right to Reclaim Abandoned Property (Civ. Code §§ 1983-1985), property over $700 in total resale value must go to public sale with surplus paid to the county (§ 1988).",
+      "citation": "Cal. Civ. Code §§ 1980-1991",
+      "volatile": false,
+      "effective_through": null
+    },
+    {
+      "category": "Attorney fees",
+      "value": "Reciprocal: a one-sided lease fee clause is enforced for whichever party prevails",
+      "detail": "Even a landlord-only attorney-fee clause entitles a prevailing tenant to fees; the clause is made mutual by operation of law.",
+      "citation": "Cal. Civ. Code § 1717",
+      "volatile": false,
+      "effective_through": null
+    },
+    {
+      "category": "Application screening fee",
+      "value": "Capped at the landlord's actual cost; statutory base $30 (1997) indexed to CPI ($65.86 for 2026)",
+      "detail": "Receipt required; unused portion refundable. The cap is re-indexed each December, so confirm the current-year figure before charging.",
+      "citation": "Cal. Civ. Code § 1950.6",
+      "volatile": true,
+      "effective_through": "2026-12-31"
+    }
+  ],
+  "FL": [
+    {
+      "category": "Illegal lockout / utility shutoff",
+      "value": "Actual and consequential damages or 3 months' rent, whichever is greater, plus attorney fees",
+      "detail": "A landlord may not shut off utilities or block access; repeated, non-contemporaneous violations are separately awarded.",
+      "citation": "Fla. Stat. § 83.67",
+      "volatile": false,
+      "effective_through": null
+    }
+  ],
+  "IL": [
+    {
+      "category": "Illegal lockout",
+      "value": "Self-help eviction (lockout, utility shutoff) is barred; only the sheriff may evict",
+      "detail": "Forcible entry is prohibited statewide, but Illinois has no statewide monetary penalty statute; local ordinances such as Chicago's impose penalties.",
+      "citation": "735 ILCS 5/9-101",
+      "volatile": false,
+      "effective_through": null
+    }
+  ],
+  "MA": [
+    {
+      "category": "Illegal lockout / utility shutoff",
+      "value": "Actual damages or 3 months' rent, whichever is greater, plus attorney fees, and criminal penalties",
+      "detail": "Willful lockout, utility shutoff, or interference with quiet enjoyment is barred; possession may be regained only by judicial process.",
+      "citation": "Mass. Gen. Laws ch. 186, § 14",
+      "volatile": false,
+      "effective_through": null
+    }
+  ],
+  "NJ": [
+    {
+      "category": "Illegal lockout",
+      "value": "Possession, all damages, court costs, and attorney fees; treble damages where restoring possession is inappropriate",
+      "detail": "Self-help eviction is barred; entry into an occupied residence requires the tenant's consent or legal process.",
+      "citation": "N.J.S.A. 2A:39-8",
+      "volatile": false,
+      "effective_through": null
+    }
+  ],
+  "NY": [
+    {
+      "category": "Illegal lockout / unlawful eviction",
+      "value": "Treble damages for a forcible or unlawful eviction",
+      "detail": "Evicting an occupant who has lived there 30+ days without a court order is also a class A misdemeanor under RPAPL 768.",
+      "citation": "N.Y. Real Prop. Acts. Law § 853",
+      "volatile": false,
+      "effective_through": null
+    }
+  ],
+  "OR": [
+    {
+      "category": "Illegal lockout / utility shutoff",
+      "value": "Up to two months' rent or twice the actual damages, whichever is greater",
+      "detail": "A landlord who unlawfully removes or excludes a tenant, or willfully shuts off an essential service, is liable; the tenant may also get injunctive relief to recover possession.",
+      "citation": "Or. Rev. Stat. § 90.375",
+      "volatile": false,
+      "effective_through": null
+    }
+  ],
+  "TX": [
+    {
+      "category": "Illegal lockout",
+      "value": "Civil penalty of one month's rent plus $1,000, actual damages, court costs, and attorney fees",
+      "detail": "A landlord may not lock a tenant out except by judicial process; a lock change for delinquent rent requires written notice and a new key on request.",
+      "citation": "Tex. Prop. Code § 92.0081",
+      "volatile": false,
+      "effective_through": null
+    }
+  ],
+  "WA": [
+    {
+      "category": "Illegal lockout",
+      "value": "Tenant recovers possession, actual damages, and attorney fees",
+      "detail": "It is unlawful to remove or exclude a tenant except under a court order; self-help eviction is barred.",
+      "citation": "Wash. Rev. Code § 59.18.290",
+      "volatile": false,
+      "effective_through": null
+    }
+  ]
+}

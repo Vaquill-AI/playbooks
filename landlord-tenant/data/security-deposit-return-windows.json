@@ -1,0 +1,212 @@
+{
+  "_table": "Security deposit disposition / return window (days after move-out)",
+  "_key": "2-letter USPS state code",
+  "_note": "days = statutory deadline to return the deposit or deliver an itemized claim.",
+  "_last_reviewed": "2026-05",
+  "_notice": "General reference, not legal advice. Statutes change and vary by jurisdiction; verify every figure against the current official state code before relying on it. Last reviewed 2026-05.",
+  "_entries": 51,
+  "AK": {
+    "days": 14,
+    "citation": "Alaska Stat. § 34.03.070(g) (30 days if landlord claims)"
+  },
+  "AL": {
+    "days": 60,
+    "citation": "Ala. Code § 35-9A-201(b) (60 days)"
+  },
+  "AR": {
+    "days": 60,
+    "citation": "Ark. Code § 18-16-305"
+  },
+  "AZ": {
+    "days": 14,
+    "citation": "A.R.S. § 33-1321(D)"
+  },
+  "CA": {
+    "days": 21,
+    "citation": "Cal. Civ. Code § 1950.5(g)"
+  },
+  "CO": {
+    "days": 30,
+    "citation": "Colo. Rev. Stat. § 38-12-103 (60 days for hazardous damage)"
+  },
+  "CT": {
+    "days": 21,
+    "citation": "Conn. Gen. Stat. § 47a-21(d)(2) (21 days, or 15 days after forwarding address, whichever is later; P.A. 23-207 eff. 2023-10-01)"
+  },
+  "DC": {
+    "days": 45,
+    "citation": "D.C. Code § 42-3502.17(b)"
+  },
+  "DE": {
+    "days": 20,
+    "citation": "Del. Code tit. 25 § 5514(f)"
+  },
+  "FL": {
+    "days": 15,
+    "citation": "Fla. Stat. § 83.49(3): 15 days no-claim; 30 days with itemized claim"
+  },
+  "GA": {
+    "days": 30,
+    "citation": "O.C.G.A. § 44-7-34"
+  },
+  "HI": {
+    "days": 14,
+    "citation": "Haw. Rev. Stat. § 521-44(c)"
+  },
+  "IA": {
+    "days": 30,
+    "citation": "Iowa Code § 562A.12(3)"
+  },
+  "ID": {
+    "days": 21,
+    "citation": "Idaho Code § 6-321 (30 days by agreement)"
+  },
+  "IL": {
+    "days": 30,
+    "citation": "765 ILCS 710/1 (45 days if claim itemized)"
+  },
+  "IN": {
+    "days": 45,
+    "citation": "Ind. Code § 32-31-3-12"
+  },
+  "KS": {
+    "days": 30,
+    "citation": "Kan. Stat. § 58-2550(b) (14 days from determination of damages)"
+  },
+  "KY": {
+    "days": 30,
+    "citation": "KRS § 383.580: no fixed return deadline; landlord may apply an unclaimed deposit to unpaid rent after 30 days (subsec. 6) or retain an unclaimed refund 60 days after notifying the tenant (subsec. 7)"
+  },
+  "LA": {
+    "days": 30,
+    "citation": "La. Rev. Stat. § 9:3251"
+  },
+  "MA": {
+    "days": 30,
+    "citation": "M.G.L. ch. 186 § 15B(4)"
+  },
+  "MD": {
+    "days": 45,
+    "citation": "Md. Code, Real Prop. § 8-203(g)"
+  },
+  "ME": {
+    "days": 30,
+    "citation": "14 M.R.S. § 6033 (21 days for tenancy at will)"
+  },
+  "MI": {
+    "days": 30,
+    "citation": "Mich. Comp. Laws § 554.609"
+  },
+  "MN": {
+    "days": 21,
+    "citation": "Minn. Stat. § 504B.178(3) (5 days if landlord claims any portion)"
+  },
+  "MO": {
+    "days": 30,
+    "citation": "Mo. Rev. Stat. § 535.300(3)"
+  },
+  "MS": {
+    "days": 45,
+    "citation": "Miss. Code § 89-8-21(3)"
+  },
+  "MT": {
+    "days": 10,
+    "citation": "Mont. Code § 70-25-202 (30 days if landlord deducts)"
+  },
+  "NC": {
+    "days": 30,
+    "citation": "N.C.G.S. § 42-52 (60 days if landlord cannot determine costs)"
+  },
+  "ND": {
+    "days": 30,
+    "citation": "N.D.C.C. § 47-16-07.1(3)"
+  },
+  "NE": {
+    "days": 14,
+    "citation": "Neb. Rev. Stat. § 76-1416(2)"
+  },
+  "NH": {
+    "days": 30,
+    "citation": "N.H. Rev. Stat. § 540-A:7"
+  },
+  "NJ": {
+    "days": 30,
+    "citation": "N.J.S.A. 46:8-21.1"
+  },
+  "NM": {
+    "days": 30,
+    "citation": "N.M.S.A. § 47-8-18(C)"
+  },
+  "NV": {
+    "days": 30,
+    "citation": "Nev. Rev. Stat. § 118A.242(4)"
+  },
+  "NY": {
+    "days": 14,
+    "citation": "NY GOL § 7-108(1-a)(e)"
+  },
+  "OH": {
+    "days": 30,
+    "citation": "Ohio Rev. Code § 5321.16(B)"
+  },
+  "OK": {
+    "days": 45,
+    "citation": "Okla. Stat. tit. 41 § 115(B)"
+  },
+  "OR": {
+    "days": 31,
+    "citation": "ORS 90.300(13)"
+  },
+  "PA": {
+    "days": 30,
+    "citation": "68 P.S. § 250.512"
+  },
+  "RI": {
+    "days": 20,
+    "citation": "R.I. Gen. Laws § 34-18-19(b)"
+  },
+  "SC": {
+    "days": 30,
+    "citation": "S.C. Code § 27-40-410"
+  },
+  "SD": {
+    "days": 14,
+    "citation": "S.D.C.L. § 43-32-24 (45 days if landlord itemizes)"
+  },
+  "TN": {
+    "days": 30,
+    "citation": "Tenn. Code § 66-28-301(g)"
+  },
+  "TX": {
+    "days": 30,
+    "citation": "Tex. Prop. Code § 92.103"
+  },
+  "UT": {
+    "days": 30,
+    "citation": "Utah Code § 57-17-3"
+  },
+  "VA": {
+    "days": 45,
+    "citation": "Va. Code § 55.1-1226"
+  },
+  "VT": {
+    "days": 14,
+    "citation": "9 V.S.A. § 4461(c)"
+  },
+  "WA": {
+    "days": 30,
+    "citation": "RCW 59.18.280"
+  },
+  "WI": {
+    "days": 21,
+    "citation": "Wis. Stat. § 704.28(4)"
+  },
+  "WV": {
+    "days": 60,
+    "citation": "W. Va. Code § 37-6A-2"
+  },
+  "WY": {
+    "days": 30,
+    "citation": "Wyo. Stat. § 1-21-1208 (30 days, or 15 days after the tenant provides a forwarding address, whichever is later)"
+  }
+}

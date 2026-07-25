@@ -1,0 +1,134 @@
+{
+  "_table": "Local just-cause overlays (city / county ordinances)",
+  "_key": "lowercased city / county name",
+  "_note": "Keyed by lowercased city or county name, NOT by state code. ordinance carries the controlling citation inline.",
+  "_last_reviewed": "2026-05",
+  "_notice": "General reference, not legal advice. Statutes change and vary by jurisdiction; verify every figure against the current official state code before relying on it. Last reviewed 2026-05.",
+  "_entries": 42,
+  "alameda": {
+    "ordinance": "Alameda Rent Stab. and Just Cause Ord. (A.M.C. ch. 6-58)"
+  },
+  "albany": {
+    "ordinance": "NY Good Cause Eviction Act opt-in city + Albany local rent caps"
+  },
+  "asbury park": {
+    "ordinance": "Asbury Park Rent Stab. Ord. (ch. III art. 12)"
+  },
+  "beacon": {
+    "ordinance": "Beacon Good Cause Eviction local law"
+  },
+  "berkeley": {
+    "ordinance": "Berkeley Rent Stab. Ord. (B.M.C. 13.76.130): enumerated just-cause grounds; broader than CA statewide"
+  },
+  "boston": {
+    "ordinance": "Boston Just Cause Eviction Ord. (proposed/limited): consult local counsel; statewide just-cause not enacted"
+  },
+  "brookline": {
+    "ordinance": "Brookline Tenant Protections (Article 5.7)"
+  },
+  "burien": {
+    "ordinance": "Burien Just Cause for Eviction (BMC ch. 5.63)"
+  },
+  "cambridge": {
+    "ordinance": "Cambridge Rent Control Repeal Successor Provisions: limited just-cause for qualifying units"
+  },
+  "chicago": {
+    "ordinance": "Chicago Residential Landlord-Tenant Ord. (RLTO, MCC ch. 5-12): includes Just Cause for Eviction (5-12-150) and Fair Notice Ord. for non-renewal"
+  },
+  "east palo alto": {
+    "ordinance": "East Palo Alto Rent Stab. and Just Cause Ord. (EPA M.C. ch. 14.04)"
+  },
+  "elizabeth": {
+    "ordinance": "Elizabeth Rent Leveling Ord. (Title 39): rent + just-cause overlay"
+  },
+  "federal way": {
+    "ordinance": "Federal Way Just Cause for Eviction (FWRC ch. 6.50)"
+  },
+  "hoboken": {
+    "ordinance": "Hoboken Rent Control Ord. (Ord. C-1, ch. 155): includes just-cause carve-outs"
+  },
+  "hudson": {
+    "ordinance": "Hudson Good Cause Eviction local law"
+  },
+  "ithaca": {
+    "ordinance": "Ithaca Good Cause Eviction local law"
+  },
+  "jersey city": {
+    "ordinance": "Jersey City Anti-Eviction Ord. (Title 260): just-cause + relocation"
+  },
+  "kingston": {
+    "ordinance": "Kingston Emergency Tenant Protection Act (ETPA) opted-in city: rent stabilization + just-cause"
+  },
+  "los angeles": {
+    "ordinance": "LA Tenant Protection Ord. (LAMC § 165 + RSO § 151): just-cause for all rentals citywide; relocation for no-fault; stricter than CA AB 1482"
+  },
+  "minneapolis": {
+    "ordinance": "Minneapolis Tenant Protections (MCO ch. 244): just-cause + bond-for-cure"
+  },
+  "montgomery county": {
+    "ordinance": "Montgomery County Just Cause Eviction (Bill 30-23, eff. 2024)"
+  },
+  "mount rainier": {
+    "ordinance": "Mount Rainier Just Cause Eviction Ord."
+  },
+  "mountain view": {
+    "ordinance": "Mountain View Community Stabilization and Fair Rent Act (MV CSFRA, art. XVII)"
+  },
+  "new york": {
+    "ordinance": "NYC rent-stabilization (NYC Admin. Code § 26-501 et seq.): just-cause for renewal-refusal and termination of stabilized tenancies"
+  },
+  "newark": {
+    "ordinance": "Newark Just Cause Eviction Ord. (Title XIX): enumerated grounds; broader than N.J.S.A. 2A:18-61.1"
+  },
+  "newburgh": {
+    "ordinance": "Newburgh Good Cause Eviction local law"
+  },
+  "oakland": {
+    "ordinance": "Oakland Just Cause for Eviction Ord. (O.M.C. 8.22.300): 11 enumerated grounds; covers most rental units"
+  },
+  "paterson": {
+    "ordinance": "Paterson Rent Control Ord. (ch. 311): just-cause + rent stabilization"
+  },
+  "portland": {
+    "ordinance": "Portland Renter Relocation Assistance Ord. (P.C.C. 30.01.085) + OR SB 608: relocation for no-fault termination or rent increase > 9.9%"
+  },
+  "poughkeepsie": {
+    "ordinance": "Poughkeepsie Good Cause Eviction local law"
+  },
+  "prince george's county": {
+    "ordinance": "Prince George's County Just Cause Eviction (CB-15-2022)"
+  },
+  "richmond": {
+    "ordinance": "Richmond Rent Control & Just Cause Ord. (R.M.C. ch. 11.100)"
+  },
+  "saint paul": {
+    "ordinance": "St. Paul Rent Stabilization Ord. (ch. 193A): 3% cap; just-cause vacancy decontrol limits"
+  },
+  "san diego": {
+    "ordinance": "San Diego Tenant Protection Ord. (SDMC ch. 9 art. 8.8): just-cause + 2 months' rent relocation for no-fault, tenancies of 2+ years"
+  },
+  "san francisco": {
+    "ordinance": "SF Rent Ord. § 37.9: 16 enumerated just-cause grounds; no-fault grounds (owner move-in, Ellis Act) require relocation"
+  },
+  "san jose": {
+    "ordinance": "San Jose Apartment Rent Ord. + Tenant Protection Ord. (Title 17 SJMC): just-cause + relocation"
+  },
+  "santa monica": {
+    "ordinance": "Santa Monica Rent Control Charter Amendment § 1806: enumerated just-cause grounds; covers most pre-1979 multi-family units"
+  },
+  "seattle": {
+    "ordinance": "Seattle Just Cause Eviction Ord. (S.M.C. 22.206.160(C)): 18 enumerated grounds; broader than RCW 59.18.650"
+  },
+  "tacoma": {
+    "ordinance": "Tacoma Rental Housing Code (T.M.C. ch. 1.95): just-cause + 120-day notice for rent increases > 5%"
+  },
+  "takoma park": {
+    "ordinance": "Takoma Park Just Cause Eviction Ord. (chapter 6.20)"
+  },
+  "washington": {
+    "ordinance": "D.C. Rental Housing Act of 1985 (D.C. Code § 42-3505.01): just-cause + extensive notice/relocation rules"
+  },
+  "west hollywood": {
+    "ordinance": "WeHo Rent Stab. Ord. (WHMC ch. 17.36): enumerated just-cause grounds; relocation for no-fault"
+  }
+}

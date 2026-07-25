@@ -1,0 +1,50 @@
+{
+  "_table": "Security deposit interest (states that statutorily require it)",
+  "_key": "2-letter USPS state code",
+  "_note": "Only states that require interest are listed; absent states impose no statewide interest duty.",
+  "_last_reviewed": "2026-05",
+  "_notice": "General reference, not legal advice. Statutes change and vary by jurisdiction; verify every figure against the current official state code before relying on it. Last reviewed 2026-05.",
+  "_entries": 14,
+  "CT": {
+    "rule": "Conn. Gen. Stat. § 47a-21(i): interest at rate determined annually by Banking Commissioner; paid annually"
+  },
+  "DC": {
+    "rule": "D.C. Code § 42-3502.17(c) and 14 DCMR § 311: interest at the greater of US Treasury yield curve rate or 1.5%/year, accrues monthly after 6 months"
+  },
+  "IA": {
+    "rule": "Iowa Code § 562A.12(2): interest earned during first 5 years is landlord's property; after 5 years it is tenant's"
+  },
+  "IL": {
+    "rule": "765 ILCS 715/1 (statewide, buildings of 25+ units, deposit held > 6 months: interest at the largest IL commercial bank's passbook rate) and Chicago RLTO § 5-12-080 (all Chicago units, rate set annually by the City)"
+  },
+  "MA": {
+    "rule": "M.G.L. ch. 186 § 15B(3): 5% per year or actual rate of interest if landlord deposits in interest-bearing account; pay annually"
+  },
+  "MD": {
+    "rule": "Md. Code, Real Prop. § 8-203(e): simple interest at 1.5%/year (or 4%/year statutory minimum depending on year deposit posted), held > 6 months"
+  },
+  "MN": {
+    "rule": "Minn. Stat. § 504B.178(2): 1% simple interest per year"
+  },
+  "ND": {
+    "rule": "N.D. Cent. Code § 47-16-07.1: deposit held in a federally-insured interest-bearing account; interest paid to the tenant when occupancy exceeds 9 months"
+  },
+  "NH": {
+    "rule": "N.H. Rev. Stat. § 540-A:6(IV): interest paid annually upon written request at the rate paid by the institution; held > 1 year"
+  },
+  "NJ": {
+    "rule": "N.J.S.A. 46:8-19(b): interest paid annually at actual rate earned (less 1% administrative fee in some cases)"
+  },
+  "NM": {
+    "rule": "N.M.S.A. § 47-8-18(D): annual interest equal to passbook rate; deposits over 1 month of rent"
+  },
+  "NY": {
+    "rule": "NY GOL § 7-103(2-a): interest at the prevailing rate paid by the depository, less 1% administrative fee for landlords with 6+ units"
+  },
+  "OH": {
+    "rule": "Ohio Rev. Code § 5321.16(A): 5%/year on amounts over $50 (or 1 month's rent, whichever greater) if tenant remains 6+ months"
+  },
+  "PA": {
+    "rule": "68 P.S. § 250.511b: after 2 years of tenancy, interest accrues at lender's prevailing rate; landlord may deduct 1% admin fee"
+  }
+}

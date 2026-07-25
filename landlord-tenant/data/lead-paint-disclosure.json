@@ -1,0 +1,32 @@
+{
+  "_table": "Lead-paint disclosure: state extensions beyond the federal rule",
+  "_key": "2-letter USPS state code",
+  "_note": "Federal 42 U.S.C. 4852d applies to all pre-1978 rentals nationwide; these are state additions only. rule carries the citation inline.",
+  "_last_reviewed": "2026-05",
+  "_notice": "General reference, not legal advice. Statutes change and vary by jurisdiction; verify every figure against the current official state code before relying on it. Last reviewed 2026-05.",
+  "_entries": 8,
+  "CA": {
+    "rule": "Cal. Health & Safety Code § 17920.10: lead hazard remediation required upon child poisoning report"
+  },
+  "MA": {
+    "rule": "M.G.L. ch. 111 §§ 190-199B (Lead Law): in addition to federal disclosure, landlord must remediate lead-paint hazards in any unit occupied by child under 6; presumption of liability for childhood lead poisoning"
+  },
+  "MD": {
+    "rule": "Md. Code, Envir. § 6-801 et seq. (Reduction of Lead Risk in Housing Act): statewide registration of pre-1950 units; risk-reduction standard required"
+  },
+  "ME": {
+    "rule": "14 M.R.S. § 6021(2) (lead-based paint hazard disclosure): specific Maine disclosure pamphlet required"
+  },
+  "NJ": {
+    "rule": "N.J.S.A. 52:27D-437.1 et seq. (Lead Hazard Control Assistance Act): mandatory periodic inspection for pre-1978 rentals (2022)"
+  },
+  "NY": {
+    "rule": "NYC Local Law 1 of 2004 (NYC Admin. Code §§ 27-2056.1 et seq.): presumption of lead-paint hazard in pre-1960 units with child under 6; annual investigation required"
+  },
+  "RI": {
+    "rule": "R.I. Gen. Laws § 42-128.1 (Lead Hazard Mitigation Act): Certificate of Conformance required for pre-1978 units"
+  },
+  "VT": {
+    "rule": "18 V.S.A. § 1758: specific Vermont disclosure requirements for pre-1978 units"
+  }
+}

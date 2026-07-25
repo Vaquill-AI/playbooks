@@ -1,0 +1,212 @@
+{
+  "_table": "Security deposit caps (months of rent)",
+  "_key": "2-letter USPS state code",
+  "_note": "months is null where the state imposes no statutory cap statewide.",
+  "_last_reviewed": "2026-05",
+  "_notice": "General reference, not legal advice. Statutes change and vary by jurisdiction; verify every figure against the current official state code before relying on it. Last reviewed 2026-05.",
+  "_entries": 51,
+  "AK": {
+    "months": 2.0,
+    "citation": "Alaska Stat. § 34.03.070"
+  },
+  "AL": {
+    "months": 1.0,
+    "citation": "Ala. Code § 35-9A-201"
+  },
+  "AR": {
+    "months": 2.0,
+    "citation": "Ark. Code § 18-16-304"
+  },
+  "AZ": {
+    "months": 1.5,
+    "citation": "A.R.S. § 33-1321"
+  },
+  "CA": {
+    "months": 1.0,
+    "citation": "Cal. Civ. Code § 1950.5 (AB 12, eff. 2024-07-01: 1 month for most landlords; 2 months for the small-landlord exception under § 1950.5(c)(4)(B), i.e. a natural person (or LLC of natural persons) owning at most 2 residential rental properties with at most 4 dwelling units total; active-duty servicemember tenants stay at 1 month even when leasing from a small landlord)"
+  },
+  "CO": {
+    "months": 2.0,
+    "citation": "Colo. Rev. Stat. § 38-12-102.5 (2 months' rent; eff. 2023-08-07 per HB23-1099)"
+  },
+  "CT": {
+    "months": 2.0,
+    "citation": "Conn. Gen. Stat. § 47a-21 (1 month if tenant is 62+)"
+  },
+  "DC": {
+    "months": 1.0,
+    "citation": "D.C. Code § 42-3502.17"
+  },
+  "DE": {
+    "months": 1.0,
+    "citation": "Del. Code tit. 25 § 5514 (1 month for lease >= 1 year; cap varies for shorter terms)"
+  },
+  "FL": {
+    "months": null,
+    "citation": "Fla. Stat. § 83.49 (no statutory cap)"
+  },
+  "GA": {
+    "months": 2.0,
+    "citation": "O.C.G.A. § 44-7-30.1 (2 months' rent; HB 404 Safe at Home Act, eff. 2024-07-01)"
+  },
+  "HI": {
+    "months": 1.0,
+    "citation": "Haw. Rev. Stat. § 521-44"
+  },
+  "IA": {
+    "months": 2.0,
+    "citation": "Iowa Code § 562A.12"
+  },
+  "ID": {
+    "months": null,
+    "citation": "Idaho Code § 6-321 (no statutory cap)"
+  },
+  "IL": {
+    "months": null,
+    "citation": "765 ILCS 710 (no statewide cap; Chicago RLTO caps at 1.5x first month's rent)"
+  },
+  "IN": {
+    "months": null,
+    "citation": "Ind. Code § 32-31-3 (no statutory cap)"
+  },
+  "KS": {
+    "months": 1.0,
+    "citation": "Kan. Stat. § 58-2550 (1.5 months furnished; pet deposit additional)"
+  },
+  "KY": {
+    "months": null,
+    "citation": "KRS § 383.580 (no statutory cap)"
+  },
+  "LA": {
+    "months": null,
+    "citation": "La. Rev. Stat. § 9:3251 et seq. (no statutory cap)"
+  },
+  "MA": {
+    "months": 1.0,
+    "citation": "M.G.L. ch. 186 § 15B (1 month + last month's rent + key deposit; interest required)"
+  },
+  "MD": {
+    "months": 1.0,
+    "citation": "Md. Code, Real Prop. § 8-203(b) (1 month; HB 693 Renters' Rights and Stabilization Act, eff. 2024-10-01)"
+  },
+  "ME": {
+    "months": 2.0,
+    "citation": "14 M.R.S. § 6032"
+  },
+  "MI": {
+    "months": 1.5,
+    "citation": "Mich. Comp. Laws § 554.602"
+  },
+  "MN": {
+    "months": null,
+    "citation": "Minn. Stat. § 504B.178 (no cap; interest required at 1% per year)"
+  },
+  "MO": {
+    "months": 2.0,
+    "citation": "Mo. Rev. Stat. § 535.300"
+  },
+  "MS": {
+    "months": null,
+    "citation": "Miss. Code § 89-8-21 (no statutory cap)"
+  },
+  "MT": {
+    "months": null,
+    "citation": "Mont. Code § 70-25-101 et seq. (no statutory cap)"
+  },
+  "NC": {
+    "months": 1.5,
+    "citation": "N.C.G.S. § 42-51 (1.5 months month-to-month; 2 months for terms >= 6 months)"
+  },
+  "ND": {
+    "months": 1.0,
+    "citation": "N.D.C.C. § 47-16-07.1 (2 months if pet)"
+  },
+  "NE": {
+    "months": 1.0,
+    "citation": "Neb. Rev. Stat. § 76-1416 (1.25 months if pet)"
+  },
+  "NH": {
+    "months": 1.0,
+    "citation": "N.H. Rev. Stat. § 540-A:6 (1 month or $100, whichever greater)"
+  },
+  "NJ": {
+    "months": 1.5,
+    "citation": "N.J.S.A. 46:8-21.2"
+  },
+  "NM": {
+    "months": 1.0,
+    "citation": "N.M.S.A. § 47-8-18 (unfurnished, lease < 1yr; otherwise no cap)"
+  },
+  "NV": {
+    "months": 3.0,
+    "citation": "Nev. Rev. Stat. § 118A.242"
+  },
+  "NY": {
+    "months": 1.0,
+    "citation": "NY GOL § 7-108 (HSTPA 2019)"
+  },
+  "OH": {
+    "months": null,
+    "citation": "Ohio Rev. Code § 5321.16 (no cap; interest required on amounts > $50 held > 6 months)"
+  },
+  "OK": {
+    "months": null,
+    "citation": "Okla. Stat. tit. 41 § 115 (no statutory cap)"
+  },
+  "OR": {
+    "months": null,
+    "citation": "ORS 90.300 (no statewide cap; some local ordinances apply)"
+  },
+  "PA": {
+    "months": 2.0,
+    "citation": "68 P.S. § 250.511a (2 months first year; 1 month thereafter)"
+  },
+  "RI": {
+    "months": 1.0,
+    "citation": "R.I. Gen. Laws § 34-18-19"
+  },
+  "SC": {
+    "months": null,
+    "citation": "S.C. Code § 27-40-410 (no statutory cap)"
+  },
+  "SD": {
+    "months": 1.0,
+    "citation": "S.D.C.L. § 43-32-6.1"
+  },
+  "TN": {
+    "months": null,
+    "citation": "Tenn. Code § 66-28-301 (no cap; must be held in separate account)"
+  },
+  "TX": {
+    "months": null,
+    "citation": "Tex. Prop. Code § 92.103 (no statutory cap)"
+  },
+  "UT": {
+    "months": null,
+    "citation": "Utah Code § 57-17-1 (no statutory cap)"
+  },
+  "VA": {
+    "months": 2.0,
+    "citation": "Va. Code § 55.1-1226"
+  },
+  "VT": {
+    "months": null,
+    "citation": "9 V.S.A. § 4461 (no statutory cap)"
+  },
+  "WA": {
+    "months": null,
+    "citation": "RCW 59.18.260 (no statutory cap)"
+  },
+  "WI": {
+    "months": null,
+    "citation": "Wis. Stat. § 704.28 (no statutory cap)"
+  },
+  "WV": {
+    "months": null,
+    "citation": "W. Va. Code § 37-6A-1 et seq. (no statutory cap)"
+  },
+  "WY": {
+    "months": null,
+    "citation": "Wyo. Stat. § 1-21-1208 (no statutory cap)"
+  }
+}

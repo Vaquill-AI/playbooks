@@ -1,0 +1,156 @@
+{
+  "_table": "Retaliation presumption windows (days after protected activity)",
+  "_key": "2-letter USPS state code",
+  "_note": "days = window in which retaliation is presumed; 0 means no statutory presumption (tenant must prove motive).",
+  "_last_reviewed": "2026-05",
+  "_notice": "General reference, not legal advice. Statutes change and vary by jurisdiction; verify every figure against the current official state code before relying on it. Last reviewed 2026-05.",
+  "_entries": 37,
+  "AK": {
+    "days": 180,
+    "citation": "Alaska Stat. § 34.03.310"
+  },
+  "AL": {
+    "days": 180,
+    "citation": "Ala. Code § 35-9A-501"
+  },
+  "AR": {
+    "days": 90,
+    "citation": "Ark. Code § 18-17-803"
+  },
+  "AZ": {
+    "days": 180,
+    "citation": "A.R.S. § 33-1381(B)"
+  },
+  "CA": {
+    "days": 180,
+    "citation": "Cal. Civ. Code § 1942.5(a)"
+  },
+  "CO": {
+    "days": 180,
+    "citation": "Colo. Rev. Stat. § 38-12-509"
+  },
+  "CT": {
+    "days": 180,
+    "citation": "Conn. Gen. Stat. § 47a-20 (6 months)"
+  },
+  "DC": {
+    "days": 180,
+    "citation": "D.C. Code § 42-3505.02(b) (6 months presumption)"
+  },
+  "DE": {
+    "days": 90,
+    "citation": "Del. Code tit. 25 § 5516(c)"
+  },
+  "FL": {
+    "days": 0,
+    "citation": "Fla. Stat. § 83.64 (no statutory presumption window; tenant must prove)"
+  },
+  "HI": {
+    "days": 365,
+    "citation": "Haw. Rev. Stat. § 521-74 (1 year)"
+  },
+  "IA": {
+    "days": 365,
+    "citation": "Iowa Code § 562A.36 (1 year)"
+  },
+  "IL": {
+    "days": 365,
+    "citation": "765 ILCS 720/1 (1 year)"
+  },
+  "KS": {
+    "days": 180,
+    "citation": "Kan. Stat. § 58-2572"
+  },
+  "KY": {
+    "days": 365,
+    "citation": "KRS § 383.705 (URLTA counties)"
+  },
+  "MA": {
+    "days": 180,
+    "citation": "M.G.L. ch. 186 § 18 (6 months)"
+  },
+  "ME": {
+    "days": 180,
+    "citation": "14 M.R.S. § 6001(3) (6 months)"
+  },
+  "MN": {
+    "days": 90,
+    "citation": "Minn. Stat. § 504B.285(2)"
+  },
+  "MT": {
+    "days": 180,
+    "citation": "Mont. Code § 70-24-431"
+  },
+  "NE": {
+    "days": 180,
+    "citation": "Neb. Rev. Stat. § 76-1439"
+  },
+  "NH": {
+    "days": 180,
+    "citation": "N.H. Rev. Stat. § 540:13-a (6 months)"
+  },
+  "NJ": {
+    "days": 90,
+    "citation": "N.J.S.A. 2A:42-10.10 (3 months presumption); 90 days in some courts"
+  },
+  "NM": {
+    "days": 180,
+    "citation": "N.M.S.A. § 47-8-39"
+  },
+  "NV": {
+    "days": 180,
+    "citation": "Nev. Rev. Stat. § 118A.510"
+  },
+  "NY": {
+    "days": 365,
+    "citation": "NY RPL § 223-b (1 year presumption)"
+  },
+  "OH": {
+    "days": 0,
+    "citation": "Ohio Rev. Code § 5321.02 (no presumption window; tenant must prove)"
+  },
+  "OR": {
+    "days": 180,
+    "citation": "ORS 90.385 (6 months)"
+  },
+  "PA": {
+    "days": 180,
+    "citation": "68 P.S. § 250.205 (6 months)"
+  },
+  "RI": {
+    "days": 180,
+    "citation": "R.I. Gen. Laws § 34-18-46"
+  },
+  "SC": {
+    "days": 180,
+    "citation": "S.C. Code § 27-40-910"
+  },
+  "TN": {
+    "days": 180,
+    "citation": "Tenn. Code § 66-28-514"
+  },
+  "TX": {
+    "days": 180,
+    "citation": "Tex. Prop. Code § 92.331 (6 months)"
+  },
+  "UT": {
+    "days": 180,
+    "citation": "Utah Code § 57-22-5(2)"
+  },
+  "VA": {
+    "days": 0,
+    "citation": "Va. Code § 55.1-1258 (no statutory presumption; landlord prohibited from retaliating)"
+  },
+  "VT": {
+    "days": 180,
+    "citation": "9 V.S.A. § 4465 (90 days)"
+  },
+  "WA": {
+    "days": 90,
+    "citation": "RCW 59.18.250 (90-day rebuttable presumption)"
+  },
+  "WI": {
+    "days": 365,
+    "citation": "Wis. Stat. § 704.45 (1 year)"
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "_table": "Notice to cure or quit: non-monetary breach cure period",
+  "_key": "2-letter USPS state code",
+  "_note": "basis as above; days = 0 means no statutory pre-suit cure window.",
+  "_last_reviewed": "2026-05",
+  "_notice": "General reference, not legal advice. Statutes change and vary by jurisdiction; verify every figure against the current official state code before relying on it. Last reviewed 2026-05.",
+  "_entries": 51,
+  "AK": {
+    "days": 10,
+    "basis": "calendar",
+    "citation": "Alaska Stat. § 34.03.220(a)(1) (cure within 10; lease terminates day 30 if uncured)"
+  },
+  "AL": {
+    "days": 14,
+    "basis": "calendar",
+    "citation": "Ala. Code § 35-9A-421(a)"
+  },
+  "AR": {
+    "days": 14,
+    "basis": "calendar",
+    "citation": "Ark. Code § 18-17-701 (URLTA)"
+  },
+  "AZ": {
+    "days": 10,
+    "basis": "calendar",
+    "citation": "A.R.S. § 33-1368(A)"
+  },
+  "CA": {
+    "days": 3,
+    "basis": "weekday",
+    "citation": "Cal. Civ. Proc. Code § 1161(3): excludes Saturdays, Sundays, judicial holidays; non-curable breaches use Cal. Civ. Proc. Code § 1161(4) Notice to Quit"
+  },
+  "CO": {
+    "days": 10,
+    "basis": "calendar",
+    "citation": "Colo. Rev. Stat. § 13-40-104(1)(e)"
+  },
+  "CT": {
+    "days": 15,
+    "basis": "calendar",
+    "citation": "Conn. Gen. Stat. § 47a-15"
+  },
+  "DC": {
+    "days": 30,
+    "basis": "calendar",
+    "citation": "D.C. Code § 42-3505.01(b) (30-day cure for most lease violations)"
+  },
+  "DE": {
+    "days": 7,
+    "basis": "calendar",
+    "citation": "Del. Code tit. 25 § 5513"
+  },
+  "FL": {
+    "days": 7,
+    "basis": "calendar",
+    "citation": "Fla. Stat. § 83.56(2)(b) (curable); § 83.56(2)(a) for non-curable"
+  },
+  "GA": {
+    "days": 0,
+    "basis": "n/a",
+    "citation": "O.C.G.A. § 44-7-50 (no statutory cure window; lease terms control)"
+  },
+  "HI": {
+    "days": 10,
+    "basis": "calendar",
+    "citation": "Haw. Rev. Stat. § 521-72"
+  },
+  "IA": {
+    "days": 7,
+    "basis": "calendar",
+    "citation": "Iowa Code § 562A.27 (curable); 3 days for material clear-and-present-danger"
+  },
+  "ID": {
+    "days": 3,
+    "basis": "calendar",
+    "citation": "Idaho Code § 6-303(2)"
+  },
+  "IL": {
+    "days": 10,
+    "basis": "calendar",
+    "citation": "735 ILCS 5/9-210"
+  },
+  "IN": {
+    "days": 10,
+    "basis": "calendar",
+    "citation": "Ind. Code § 32-31-1-6 (general)"
+  },
+  "KS": {
+    "days": 14,
+    "basis": "calendar",
+    "citation": "Kan. Stat. § 58-2564(a) (14-day cure; 30-day termination)"
+  },
+  "KY": {
+    "days": 14,
+    "basis": "calendar",
+    "citation": "KRS § 383.660(1) (URLTA counties)"
+  },
+  "LA": {
+    "days": 5,
+    "basis": "calendar",
+    "citation": "La. Code Civ. Proc. art. 4701"
+  },
+  "MA": {
+    "days": 30,
+    "basis": "calendar",
+    "citation": "M.G.L. ch. 186 § 11 (curable lease violations)"
+  },
+  "MD": {
+    "days": 30,
+    "basis": "calendar",
+    "citation": "Md. Code, Real Prop. § 8-402.1"
+  },
+  "ME": {
+    "days": 7,
+    "basis": "calendar",
+    "citation": "14 M.R.S. § 6002"
+  },
+  "MI": {
+    "days": 30,
+    "basis": "calendar",
+    "citation": "Mich. Comp. Laws § 600.5714(1)(b)"
+  },
+  "MN": {
+    "days": 14,
+    "basis": "calendar",
+    "citation": "Minn. Stat. § 504B.281 (material noncompliance)"
+  },
+  "MO": {
+    "days": 10,
+    "basis": "calendar",
+    "citation": "Mo. Rev. Stat. § 441.060 (10-day notice for breach)"
+  },
+  "MS": {
+    "days": 14,
+    "basis": "calendar",
+    "citation": "Miss. Code § 89-8-13(3) (cure within 14 days or terminate)"
+  },
+  "MT": {
+    "days": 14,
+    "basis": "calendar",
+    "citation": "Mont. Code § 70-24-422(1)(a)"
+  },
+  "NC": {
+    "days": 10,
+    "basis": "calendar",
+    "citation": "N.C.G.S. § 42-3 (10-day demand prior to forcible-detainer)"
+  },
+  "ND": {
+    "days": 3,
+    "basis": "calendar",
+    "citation": "N.D.C.C. § 47-32-01(4)"
+  },
+  "NE": {
+    "days": 14,
+    "basis": "calendar",
+    "citation": "Neb. Rev. Stat. § 76-1431(1)"
+  },
+  "NH": {
+    "days": 30,
+    "basis": "calendar",
+    "citation": "N.H. Rev. Stat. § 540:3 (30-day notice for substantial breach)"
+  },
+  "NJ": {
+    "days": 0,
+    "basis": "n/a",
+    "citation": "N.J.S.A. 2A:18-61.1(d) and 2A:18-61.2 (notice-to-cease required; no statutory cure period: continued conduct after cease triggers eviction)"
+  },
+  "NM": {
+    "days": 7,
+    "basis": "calendar",
+    "citation": "N.M.S.A. § 47-8-33(B) (7-day cure for substantial violation; 3-day for material safety)"
+  },
+  "NV": {
+    "days": 5,
+    "basis": "weekday",
+    "citation": "Nev. Rev. Stat. § 40.2516"
+  },
+  "NY": {
+    "days": 10,
+    "basis": "calendar",
+    "citation": "NY RPAPL § 753(4) (10-day post-judgment cure right + lease typically provides 30-day pre-suit cure)"
+  },
+  "OH": {
+    "days": 30,
+    "basis": "calendar",
+    "citation": "Ohio Rev. Code § 5321.11 (30-day notice; lease may shorten)"
+  },
+  "OK": {
+    "days": 15,
+    "basis": "calendar",
+    "citation": "Okla. Stat. tit. 41 § 132 (15-day cure for breach)"
+  },
+  "OR": {
+    "days": 30,
+    "basis": "calendar",
+    "citation": "ORS 90.392 (30-day cure for material noncompliance; 24-hour for outrageous conduct)"
+  },
+  "PA": {
+    "days": 15,
+    "basis": "calendar",
+    "citation": "68 P.S. § 250.501(b) (15-day notice for breach of conditions, lease <= 1 yr)"
+  },
+  "RI": {
+    "days": 20,
+    "basis": "calendar",
+    "citation": "R.I. Gen. Laws § 34-18-36"
+  },
+  "SC": {
+    "days": 14,
+    "basis": "calendar",
+    "citation": "S.C. Code § 27-40-710(a)"
+  },
+  "SD": {
+    "days": 3,
+    "basis": "calendar",
+    "citation": "S.D.C.L. § 21-16-1 (3-day notice for breach)"
+  },
+  "TN": {
+    "days": 14,
+    "basis": "calendar",
+    "citation": "Tenn. Code § 66-28-505 (14-day cure; 30 days to vacate)"
+  },
+  "TX": {
+    "days": 3,
+    "basis": "calendar",
+    "citation": "Tex. Prop. Code § 24.005 (default; lease may shorten or lengthen)"
+  },
+  "UT": {
+    "days": 3,
+    "basis": "calendar",
+    "citation": "Utah Code § 78B-6-802(1)(h) (3-day perform-or-quit)"
+  },
+  "VA": {
+    "days": 21,
+    "basis": "calendar",
+    "citation": "Va. Code § 55.1-1245(C) (21/30: 21-day cure; lease terminates 30 days if uncured)"
+  },
+  "VT": {
+    "days": 30,
+    "basis": "calendar",
+    "citation": "9 V.S.A. § 4467(b) (30-day notice for breach)"
+  },
+  "WA": {
+    "days": 10,
+    "basis": "calendar",
+    "citation": "RCW 59.12.030(4) (10-day comply-or-vacate notice)"
+  },
+  "WI": {
+    "days": 5,
+    "basis": "calendar",
+    "citation": "Wis. Stat. § 704.17(1p)(b) (5-day cure for breach other than rent)"
+  },
+  "WV": {
+    "days": 0,
+    "basis": "n/a",
+    "citation": "W. Va. Code § 55-3A-1 (no statutory pre-suit cure; lease terms control)"
+  },
+  "WY": {
+    "days": 3,
+    "basis": "calendar",
+    "citation": "Wyo. Stat. § 1-21-1003(a)"
+  }
+}

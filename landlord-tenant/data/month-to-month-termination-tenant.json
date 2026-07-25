@@ -1,0 +1,212 @@
+{
+  "_table": "Month-to-month termination notice (tenant-initiated)",
+  "_key": "2-letter USPS state code",
+  "_note": "days = written notice the tenant must give.",
+  "_last_reviewed": "2026-05",
+  "_notice": "General reference, not legal advice. Statutes change and vary by jurisdiction; verify every figure against the current official state code before relying on it. Last reviewed 2026-05.",
+  "_entries": 51,
+  "AK": {
+    "days": 30,
+    "citation": "Alaska Stat. § 34.03.290(b)"
+  },
+  "AL": {
+    "days": 30,
+    "citation": "Ala. Code § 35-9A-441"
+  },
+  "AR": {
+    "days": 30,
+    "citation": "Ark. Code § 18-17-704"
+  },
+  "AZ": {
+    "days": 30,
+    "citation": "A.R.S. § 33-1375(B)"
+  },
+  "CA": {
+    "days": 30,
+    "citation": "Cal. Civ. Code § 1946 (one full rental period)"
+  },
+  "CO": {
+    "days": 21,
+    "citation": "Colo. Rev. Stat. § 13-40-107(1)(d)"
+  },
+  "CT": {
+    "days": 30,
+    "citation": "Conn. Gen. Stat. § 47a-23"
+  },
+  "DC": {
+    "days": 30,
+    "citation": "D.C. Code § 42-3202"
+  },
+  "DE": {
+    "days": 60,
+    "citation": "Del. Code tit. 25 § 5106(d)"
+  },
+  "FL": {
+    "days": 15,
+    "citation": "Fla. Stat. § 83.57(3)"
+  },
+  "GA": {
+    "days": 30,
+    "citation": "O.C.G.A. § 44-7-7"
+  },
+  "HI": {
+    "days": 28,
+    "citation": "Haw. Rev. Stat. § 521-71(b)"
+  },
+  "IA": {
+    "days": 30,
+    "citation": "Iowa Code § 562A.34(2)"
+  },
+  "ID": {
+    "days": 30,
+    "citation": "Idaho Code § 55-208"
+  },
+  "IL": {
+    "days": 30,
+    "citation": "735 ILCS 5/9-207"
+  },
+  "IN": {
+    "days": 30,
+    "citation": "Ind. Code § 32-31-1-1"
+  },
+  "KS": {
+    "days": 30,
+    "citation": "Kan. Stat. § 58-2570(b)"
+  },
+  "KY": {
+    "days": 30,
+    "citation": "KRS § 383.695(2)"
+  },
+  "LA": {
+    "days": 10,
+    "citation": "La. Civ. Code art. 2728"
+  },
+  "MA": {
+    "days": 30,
+    "citation": "M.G.L. ch. 186 § 12"
+  },
+  "MD": {
+    "days": 30,
+    "citation": "Md. Code, Real Prop. § 8-402(b)(3)(i)(2)"
+  },
+  "ME": {
+    "days": 30,
+    "citation": "14 M.R.S. § 6002"
+  },
+  "MI": {
+    "days": 30,
+    "citation": "Mich. Comp. Laws § 554.134(1)"
+  },
+  "MN": {
+    "days": 30,
+    "citation": "Minn. Stat. § 504B.135"
+  },
+  "MO": {
+    "days": 30,
+    "citation": "Mo. Rev. Stat. § 441.060"
+  },
+  "MS": {
+    "days": 30,
+    "citation": "Miss. Code § 89-8-19"
+  },
+  "MT": {
+    "days": 30,
+    "citation": "Mont. Code § 70-24-441"
+  },
+  "NC": {
+    "days": 7,
+    "citation": "N.C.G.S. § 42-14"
+  },
+  "ND": {
+    "days": 30,
+    "citation": "N.D.C.C. § 47-16-15"
+  },
+  "NE": {
+    "days": 30,
+    "citation": "Neb. Rev. Stat. § 76-1437(2)"
+  },
+  "NH": {
+    "days": 30,
+    "citation": "N.H. Rev. Stat. § 540:3"
+  },
+  "NJ": {
+    "days": 30,
+    "citation": "N.J.S.A. 46:8-10"
+  },
+  "NM": {
+    "days": 30,
+    "citation": "N.M.S.A. § 47-8-37(B)"
+  },
+  "NV": {
+    "days": 30,
+    "citation": "Nev. Rev. Stat. § 40.251(1)(b)(1)"
+  },
+  "NY": {
+    "days": 30,
+    "citation": "NY RPL § 232-b"
+  },
+  "OH": {
+    "days": 30,
+    "citation": "Ohio Rev. Code § 5321.17(B)"
+  },
+  "OK": {
+    "days": 30,
+    "citation": "Okla. Stat. tit. 41 § 111(B)"
+  },
+  "OR": {
+    "days": 30,
+    "citation": "ORS 90.427(3)"
+  },
+  "PA": {
+    "days": 15,
+    "citation": "68 P.S. § 250.501(b)"
+  },
+  "RI": {
+    "days": 30,
+    "citation": "R.I. Gen. Laws § 34-18-37"
+  },
+  "SC": {
+    "days": 30,
+    "citation": "S.C. Code § 27-40-770"
+  },
+  "SD": {
+    "days": 30,
+    "citation": "S.D.C.L. § 43-32-13"
+  },
+  "TN": {
+    "days": 30,
+    "citation": "Tenn. Code § 66-28-512"
+  },
+  "TX": {
+    "days": 30,
+    "citation": "Tex. Prop. Code § 91.001"
+  },
+  "UT": {
+    "days": 15,
+    "citation": "Utah Code § 78B-6-802(1)(b)"
+  },
+  "VA": {
+    "days": 30,
+    "citation": "Va. Code § 55.1-1253(A)"
+  },
+  "VT": {
+    "days": 30,
+    "citation": "9 V.S.A. § 4456(d)"
+  },
+  "WA": {
+    "days": 20,
+    "citation": "RCW 59.18.200"
+  },
+  "WI": {
+    "days": 28,
+    "citation": "Wis. Stat. § 704.19(3)"
+  },
+  "WV": {
+    "days": 30,
+    "citation": "W. Va. Code § 37-6-5"
+  },
+  "WY": {
+    "days": 30,
+    "citation": "Wyo. Stat. § 1-21-1203"
+  }
+}

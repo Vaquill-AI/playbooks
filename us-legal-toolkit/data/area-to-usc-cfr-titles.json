@@ -1,0 +1,28 @@
+{
+  "_note": "Substantive legal area -> the US Code (USC) and Code of Federal Regulations (CFR) titles most relevant to it. usc_titles / cfr_titles null means no title filter (keep all). An empty cfr_titles list means CFR is not typically relevant to that area.",
+  "areas": {
+    "patent": {"usc_titles": [35], "cfr_titles": [37]},
+    "copyright": {"usc_titles": [17], "cfr_titles": [37]},
+    "trademark": {"usc_titles": [15], "cfr_titles": [37]},
+    "securities": {"usc_titles": [15], "cfr_titles": [17]},
+    "tax": {"usc_titles": [26], "cfr_titles": [26]},
+    "labor": {"usc_titles": [29], "cfr_titles": [29]},
+    "immigration": {"usc_titles": [8], "cfr_titles": [8]},
+    "bankruptcy": {"usc_titles": [11, 28], "cfr_titles": [28]},
+    "antitrust": {"usc_titles": [15], "cfr_titles": [16, 28]},
+    "environmental": {"usc_titles": [16, 33, 42], "cfr_titles": [40]},
+    "criminal": {"usc_titles": [18, 21], "cfr_titles": [21, 28]},
+    "civil_rights": {"usc_titles": [28, 42], "cfr_titles": [28, 29, 34]},
+    "food_drug": {"usc_titles": [21], "cfr_titles": [21]},
+    "communications": {"usc_titles": [47], "cfr_titles": [47]},
+    "transportation": {"usc_titles": [14, 49], "cfr_titles": [14, 23, 49]},
+    "banking": {"usc_titles": [12, 15], "cfr_titles": [12, 17]},
+    "energy": {"usc_titles": [16, 42], "cfr_titles": [10, 18, 40]},
+    "healthcare": {"usc_titles": [21, 42], "cfr_titles": [21, 42, 45]},
+    "education": {"usc_titles": [20], "cfr_titles": [34]},
+    "civil_procedure": {"usc_titles": [28], "cfr_titles": []},
+    "constitutional": {"usc_titles": [28, 42], "cfr_titles": []},
+    "evidence": {"usc_titles": [28], "cfr_titles": []},
+    "general": {"usc_titles": null, "cfr_titles": null}
+  }
+}

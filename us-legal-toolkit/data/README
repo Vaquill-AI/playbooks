@@ -1,0 +1,18 @@
+Court-ID datasets
+=================
+
+state-court-ids.json
+  - state_to_cl_court_ids: 2-letter lowercase US state code -> list of
+    CourtListener court_id strings for that state's supreme + appellate courts.
+    Trial-level courts are generally excluded so the set represents
+    precedential authority. The special key "federal" maps to the federal
+    appellate courts (SCOTUS + the numbered circuits + the D.C. and Federal
+    Circuits); it is a convenience alias, not a state.
+  - state_to_federal_circuit: state code -> the single CourtListener court_id of
+    the U.S. Court of Appeals whose decisions bind that state. SCOTUS binds
+    every state and is not repeated here. Puerto Rico ("pr") maps to its binding
+    federal circuit (ca1).
+
+The values are CourtListener court_id strings (for example "cal", "nyappdiv",
+"ca9", "scotus"), the identifiers used by the CourtListener REST API to scope a
+search to specific courts.

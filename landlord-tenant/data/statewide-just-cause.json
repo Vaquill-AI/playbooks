@@ -1,0 +1,38 @@
+{
+  "_table": "Statewide just-cause eviction regimes",
+  "_key": "2-letter USPS state code",
+  "_note": "Only states with a statewide just-cause statute are listed. rule carries the controlling citation inline.",
+  "_last_reviewed": "2026-05",
+  "_notice": "General reference, not legal advice. Statutes change and vary by jurisdiction; verify every figure against the current official state code before relying on it. Last reviewed 2026-05.",
+  "_entries": 10,
+  "CA": {
+    "rule": "Cal. Civ. Code § 1946.2 (AB 1482, covers 12+ month tenancies; no-fault grounds require 1 month's rent relocation under § 1946.2(d); single-family/condo and housing under 15 years old are exempt); paired rent cap under Cal. Civ. Code § 1947.12 (CPI plus 5%, with a 10% absolute annual cap; sunsets Jan 1, 2030)"
+  },
+  "CO": {
+    "rule": "C.R.S. § 38-12-1303 (HB24-1098, eff. 2024-04-19; for-cause eviction required, with enumerated no-fault grounds; owner-occupied and short-term-rental premises are carved out)"
+  },
+  "DC": {
+    "rule": "D.C. Code § 42-3505.01 (Rental Housing Act of 1985; enumerated grounds + extensive notice/relocation rules)"
+  },
+  "ME": {
+    "rule": "14 M.R.S. § 6002 (30-day notice required; rolling 12-month presumption of retaliation for tenant-organizing or code-complaint)"
+  },
+  "NH": {
+    "rule": "N.H. Rev. Stat. § 540:2 (10 enumerated grounds for restricted properties; no-fault permitted with proper notice for non-restricted)"
+  },
+  "NJ": {
+    "rule": "N.J.S.A. 2A:18-61.1 (Anti-Eviction Act; enumerated grounds only)"
+  },
+  "NY": {
+    "rule": "NY Real Property Law art. 6-A, §§ 210-218 (Good Cause Eviction Law, L. 2024; mandatory in NYC per § 212, opt-in for localities outside NYC per § 213; small-landlord and high-rent units exempt)"
+  },
+  "OR": {
+    "rule": "ORS 90.427 (SB 608, statewide just-cause + 7%+CPI rent cap; 90-day notice + relocation for no-fault termination after first year)"
+  },
+  "VT": {
+    "rule": "9 V.S.A. § 4467 (notice required; no-cause termination permitted only after first year of tenancy with 60/90-day notice)"
+  },
+  "WA": {
+    "rule": "RCW 59.18.650 (HB 1236, just-cause for periodic tenancies after first 12 months)"
+  }
+}

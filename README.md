@@ -1,8 +1,8 @@
-# Vaquill Open Playbooks
+# Vaquill Open Legal Resources
 
-> Attorney-grade negotiation playbooks for US commercial contracts. One Markdown file per playbook, clause by clause: preferred position, acceptable range, fallback ladder, walk-away floor, escalation triggers, and rationale.
+> Open, attorney-grade resources for US commercial practice: negotiation playbooks, ready-to-use prompts, reference datasets, and developer tools. Free to use with attribution.
 
-These are Vaquill's own authored starter playbooks, the same ones that ship inside [Vaquill](https://vaquill.ai). They are **generated from code** (`app/services/playbook_templates`), so this repository always mirrors the product and is regenerated in CI. Nothing here is customer data.
+These are Vaquill's own authored resources, the same ones that power [Vaquill](https://vaquill.ai). Nothing here is customer data.
 
 > **Disclaimer.** General US-commercial reference, not legal advice. Verify anything jurisdiction-specific with counsel. See [DISCLAIMER.md](DISCLAIMER.md).
 
@@ -12,6 +12,31 @@ Ready-to-use prompts for working with a legal AI assistant, the same starter pro
 
 - [Composer prompts](prompts/composer-prompts.md) - fully written, ready-to-run prompts by task (triage, review, drafting, negotiation, research, compliance, corporate, disputes).
 - [Research templates](prompts/research-templates.md) - fill-in-the-blank templates with placeholders for research and analysis questions.
+
+## Contract due-diligence questions
+
+A vetted question bank for contract review and due diligence: 8 deal types, 145 questions, each tagged with an answer type.
+See [contract-diligence-questions/](contract-diligence-questions/).
+
+## US legal doctrines
+
+79 US legal doctrines mapped to their foundational cases, with citations and holding summaries, grouped by substantive area.
+See [doctrines/](doctrines/).
+
+## US landlord-tenant rules
+
+A cited 50-state (plus DC) reference database of residential landlord-tenant rules: deposit caps and return windows, notice-to-quit periods, entry notice, late fees, retaliation, and more.
+See [landlord-tenant/](landlord-tenant/). General reference only; verify against the current statute.
+
+## US contract clause library
+
+46 balanced, professionally drafted exemplar clauses across 24 clause types, with applicable authorities and tags.
+See [clause-library/](clause-library/).
+
+## US legal toolkit (for developers)
+
+Small, dependency-free utilities and datasets: US citation regexes, a CourtListener query normalizer, a state-to-court-ID dataset, and US legal taxonomies.
+See [us-legal-toolkit/](us-legal-toolkit/).
 
 ## Playbooks
 
